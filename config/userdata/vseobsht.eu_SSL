@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/vseobsht/public_html
+group: vseobsht
+hascgi: 0
+homedir: /home/vseobsht
+ip: 185.199.38.4
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@vseobsht.eu
+serveralias: mail.vseobsht.eu www.vseobsht.eu
+servername: vseobsht.eu
+ssl: 1
+usecanonicalname: 'Off'
+user: vseobsht
+userdirprotect: ''

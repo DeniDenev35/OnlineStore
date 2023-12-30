@@ -1,0 +1,73 @@
+<FilesMatch "xmlrpc\.php$">
+	order deny,allow
+	deny from all
+</FilesMatch>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{SERVER_NAME}/$1 [R=301,L]
+#BEGIN Really Simple SSL LETS ENCRYPT
+RewriteRule ^.well-known/(.*)$ - [L]
+#END Really Simple SSL LETS ENCRYPT
+
+# BEGIN Really Simple SSL Redirect 5.3.1
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTPS} !=on [NC]
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+# END Really Simple SSL Redirect
+# BEGIN WordPress
+# Директивите (редовете) между "BEGIN WordPress" и "END WordPress" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# BEGIN Really Simple SSL Redirect 5.3.1
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTPS} !=on [NC]
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+# END Really Simple SSL Redirect
+# BEGIN WordPress WPO Tweaks by Fernando Tellado
+# Директивите (редовете) между "BEGIN WordPress WPO Tweaks by Fernando Tellado" и "END WordPress WPO Tweaks by Fernando Tellado" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+# Optimizaciones eliminadas al desactivar el plugin
+# END WordPress WPO Tweaks by Fernando Tellado
+
+# BEGIN ShortPixelWebp
+# Директивите (редовете) между "BEGIN ShortPixelWebp" и "END ShortPixelWebp" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+
+# END ShortPixelWebp
+
+
+# BEGIN WPvivid Rewrite Rule for LiteSpeed
+# The directives (lines) between "BEGIN WPvivid Rewrite Rule for LiteSpeed" and "END WPvivid Rewrite Rule for LiteSpeed" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WPvivid Rewrite Rule for LiteSpeed
+# BEGIN WPvivid_Restore
+# Директивите (редовете) между "BEGIN WPvivid_Restore" и "END WPvivid_Restore" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+
+# END WPvivid_Restore
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

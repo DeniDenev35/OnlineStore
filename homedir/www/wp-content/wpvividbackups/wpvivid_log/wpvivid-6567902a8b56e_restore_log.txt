@@ -1,0 +1,486 @@
+[2023-11-29 21:25:31][notice]Start restoring themes.
+[2023-11-29 21:25:31][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:25:31][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip succeeded.
+[2023-11-29 21:25:31][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_themes.zip index:0
+[2023-11-29 21:25:32][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_themes.zip index:0 finished.
+[2023-11-29 21:25:32][notice]End restore themes.
+[2023-11-29 21:25:35][notice]Start restoring themes.
+[2023-11-29 21:25:35][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_themes.zip index:1000
+[2023-11-29 21:25:35][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_themes.zip index:1000 finished.
+[2023-11-29 21:25:35][notice]End restore themes.
+[2023-11-29 21:25:37][notice]Start restoring plugin.
+[2023-11-29 21:25:37][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:26:04][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip succeeded.
+[2023-11-29 21:26:04][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:0
+[2023-11-29 21:26:04][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:0 finished.
+[2023-11-29 21:26:04][notice]End restore plugin.
+[2023-11-29 21:26:07][notice]Start restoring plugin.
+[2023-11-29 21:26:07][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:1000
+[2023-11-29 21:26:08][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:1000 finished.
+[2023-11-29 21:26:08][notice]End restore plugin.
+[2023-11-29 21:26:10][notice]Start restoring plugin.
+[2023-11-29 21:26:10][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:2000
+[2023-11-29 21:26:11][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:2000 finished.
+[2023-11-29 21:26:11][notice]End restore plugin.
+[2023-11-29 21:26:13][notice]Start restoring plugin.
+[2023-11-29 21:26:13][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:3000
+[2023-11-29 21:26:14][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:3000 finished.
+[2023-11-29 21:26:14][notice]End restore plugin.
+[2023-11-29 21:26:16][notice]Start restoring plugin.
+[2023-11-29 21:26:16][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:4000
+[2023-11-29 21:26:17][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:4000 finished.
+[2023-11-29 21:26:17][notice]End restore plugin.
+[2023-11-29 21:26:19][notice]Start restoring plugin.
+[2023-11-29 21:26:19][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:5000
+[2023-11-29 21:26:19][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:5000 finished.
+[2023-11-29 21:26:19][notice]End restore plugin.
+[2023-11-29 21:26:21][notice]Start restoring plugin.
+[2023-11-29 21:26:21][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:6000
+[2023-11-29 21:26:22][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:6000 finished.
+[2023-11-29 21:26:22][notice]End restore plugin.
+[2023-11-29 21:26:25][notice]Start restoring plugin.
+[2023-11-29 21:26:25][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:7000
+[2023-11-29 21:26:27][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:7000 finished.
+[2023-11-29 21:26:27][notice]End restore plugin.
+[2023-11-29 21:26:29][notice]Start restoring plugin.
+[2023-11-29 21:26:29][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:8000
+[2023-11-29 21:26:30][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:8000 finished.
+[2023-11-29 21:26:30][notice]End restore plugin.
+[2023-11-29 21:26:32][notice]Start restoring plugin.
+[2023-11-29 21:26:32][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:9000
+[2023-11-29 21:26:33][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:9000 finished.
+[2023-11-29 21:26:33][notice]End restore plugin.
+[2023-11-29 21:26:35][notice]Start restoring plugin.
+[2023-11-29 21:26:35][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:10000
+[2023-11-29 21:26:36][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:10000 finished.
+[2023-11-29 21:26:36][notice]End restore plugin.
+[2023-11-29 21:26:38][notice]Start restoring plugin.
+[2023-11-29 21:26:38][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:11000
+[2023-11-29 21:26:39][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:11000 finished.
+[2023-11-29 21:26:39][notice]End restore plugin.
+[2023-11-29 21:26:41][notice]Start restoring plugin.
+[2023-11-29 21:26:41][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:12000
+[2023-11-29 21:26:42][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:12000 finished.
+[2023-11-29 21:26:42][notice]End restore plugin.
+[2023-11-29 21:26:45][notice]Start restoring plugin.
+[2023-11-29 21:26:45][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:13000
+[2023-11-29 21:26:47][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:13000 finished.
+[2023-11-29 21:26:47][notice]End restore plugin.
+[2023-11-29 21:26:49][notice]Start restoring plugin.
+[2023-11-29 21:26:49][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:14000
+[2023-11-29 21:26:50][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:14000 finished.
+[2023-11-29 21:26:50][notice]End restore plugin.
+[2023-11-29 21:26:52][notice]Start restoring plugin.
+[2023-11-29 21:26:52][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:15000
+[2023-11-29 21:26:53][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:15000 finished.
+[2023-11-29 21:26:53][notice]End restore plugin.
+[2023-11-29 21:26:55][notice]Start restoring plugin.
+[2023-11-29 21:26:55][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:16000
+[2023-11-29 21:26:56][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:16000 finished.
+[2023-11-29 21:26:56][notice]End restore plugin.
+[2023-11-29 21:26:58][notice]Start restoring plugin.
+[2023-11-29 21:26:58][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:17000
+[2023-11-29 21:27:00][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:17000 finished.
+[2023-11-29 21:27:00][notice]End restore plugin.
+[2023-11-29 21:27:03][notice]Start restoring plugin.
+[2023-11-29 21:27:03][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:18000
+[2023-11-29 21:27:03][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:18000 finished.
+[2023-11-29 21:27:03][notice]End restore plugin.
+[2023-11-29 21:27:06][notice]Start restoring plugin.
+[2023-11-29 21:27:06][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:19000
+[2023-11-29 21:27:08][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:19000 finished.
+[2023-11-29 21:27:08][notice]End restore plugin.
+[2023-11-29 21:27:10][notice]Start restoring plugin.
+[2023-11-29 21:27:10][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:20000
+[2023-11-29 21:27:11][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:20000 finished.
+[2023-11-29 21:27:11][notice]End restore plugin.
+[2023-11-29 21:27:13][notice]Start restoring plugin.
+[2023-11-29 21:27:13][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:21000
+[2023-11-29 21:27:14][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:21000 finished.
+[2023-11-29 21:27:14][notice]End restore plugin.
+[2023-11-29 21:27:16][notice]Start restoring plugin.
+[2023-11-29 21:27:16][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:22000
+[2023-11-29 21:27:18][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:22000 finished.
+[2023-11-29 21:27:18][notice]End restore plugin.
+[2023-11-29 21:27:20][notice]Start restoring plugin.
+[2023-11-29 21:27:20][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:23000
+[2023-11-29 21:27:21][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:23000 finished.
+[2023-11-29 21:27:21][notice]End restore plugin.
+[2023-11-29 21:27:23][notice]Start restoring plugin.
+[2023-11-29 21:27:23][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:24000
+[2023-11-29 21:27:24][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:24000 finished.
+[2023-11-29 21:27:24][notice]End restore plugin.
+[2023-11-29 21:27:26][notice]Start restoring plugin.
+[2023-11-29 21:27:26][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:25000
+[2023-11-29 21:27:27][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:25000 finished.
+[2023-11-29 21:27:27][notice]End restore plugin.
+[2023-11-29 21:27:29][notice]Start restoring plugin.
+[2023-11-29 21:27:29][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:26000
+[2023-11-29 21:27:30][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:26000 finished.
+[2023-11-29 21:27:30][notice]End restore plugin.
+[2023-11-29 21:27:32][notice]Start restoring plugin.
+[2023-11-29 21:27:32][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:27000
+[2023-11-29 21:27:33][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:27000 finished.
+[2023-11-29 21:27:33][notice]End restore plugin.
+[2023-11-29 21:27:35][notice]Start restoring plugin.
+[2023-11-29 21:27:35][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:28000
+[2023-11-29 21:27:36][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:28000 finished.
+[2023-11-29 21:27:36][notice]End restore plugin.
+[2023-11-29 21:27:39][notice]Start restoring plugin.
+[2023-11-29 21:27:39][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:29000
+[2023-11-29 21:27:39][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:29000 finished.
+[2023-11-29 21:27:39][notice]End restore plugin.
+[2023-11-29 21:27:42][notice]Start restoring plugin.
+[2023-11-29 21:27:42][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:30000
+[2023-11-29 21:27:44][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:30000 finished.
+[2023-11-29 21:27:44][notice]End restore plugin.
+[2023-11-29 21:27:46][notice]Start restoring plugin.
+[2023-11-29 21:27:46][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:31000
+[2023-11-29 21:27:47][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:31000 finished.
+[2023-11-29 21:27:47][notice]End restore plugin.
+[2023-11-29 21:27:49][notice]Start restoring plugin.
+[2023-11-29 21:27:49][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:32000
+[2023-11-29 21:27:50][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_plugin.zip index:32000 finished.
+[2023-11-29 21:27:50][notice]End restore plugin.
+[2023-11-29 21:27:52][notice]Start restoring wp-content.
+[2023-11-29 21:27:52][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:27:52][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip succeeded.
+[2023-11-29 21:27:52][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_content.zip index:0
+[2023-11-29 21:27:53][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_content.zip index:0 finished.
+[2023-11-29 21:27:53][notice]End restore wp-content.
+[2023-11-29 21:27:55][notice]Start restoring upload.
+[2023-11-29 21:27:55][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:28:11][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip succeeded.
+[2023-11-29 21:28:11][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_uploads.zip index:0
+[2023-11-29 21:28:18][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_uploads.zip index:0 finished.
+[2023-11-29 21:28:18][notice]End restore upload.
+[2023-11-29 21:28:21][notice]Start restoring wp-core.
+[2023-11-29 21:28:21][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:28:21][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip succeeded.
+[2023-11-29 21:28:21][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_core.zip
+[2023-11-29 21:28:27][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_core.zip succeeded.
+[2023-11-29 21:28:27][notice]End restore wp-core.
+[2023-11-29 21:28:29][notice]Start restoring databases.
+[2023-11-29 21:28:29][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip
+[2023-11-29 21:28:29][notice]Extracting file:vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_all.zip finished.
+[2023-11-29 21:28:29][notice]Extracting file:/home/vseobsht/public_html/wp-content/wpvividbackups/vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_db.zip
+[2023-11-29 21:28:30][notice]Extracting file:/home/vseobsht/public_html/wp-content/wpvividbackups/vseobsht.eu_wpvivid-65677eec6d014_2023-11-29-20-11_backup_db.zip finished.
+[2023-11-29 21:28:30][notice]End restore databases.
+[2023-11-29 21:28:32][notice]Start restoring databases.
+[2023-11-29 21:28:32][notice]Start restoring sql file offset:0
+[2023-11-29 21:28:32][notice]The test to drop table succeeds.
+[2023-11-29 21:28:32][notice]Drop table if exist tmpa4d699_wc_reserved_stock
+[2023-11-29 21:28:32][notice]Creating table tmpa4d699_wc_reserved_stock
+[2023-11-29 21:28:32][notice]Drop table if exist tmpa4d699_gla_shipping_rates
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_gla_shipping_rates
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_download_log
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_download_log
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_api_keys
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_api_keys
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_attribute_taxonomies
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_attribute_taxonomies
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_downloadable_product_permissions
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_downloadable_product_permissions
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_log
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_log
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_order_itemmeta
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_order_itemmeta
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_user_registration_sessions
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_user_registration_sessions
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_order_product_lookup
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_order_product_lookup
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_order_items
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_order_items
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_payment_tokenmeta
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_payment_tokenmeta
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_payment_tokens
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_payment_tokens
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_tax_rate_locations
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_tax_rate_locations
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_gla_shipping_times
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_gla_shipping_times
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_links
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_links
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_gla_merchant_issues
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_gla_merchant_issues
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_woocommerce_tax_rates
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_woocommerce_tax_rates
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_yoast_primary_term
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_yoast_primary_term
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_webhooks
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_webhooks
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_cmplz_services
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_cmplz_services
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_product_attributes_lookup
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_product_attributes_lookup
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wpforms_payments
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wpforms_payments
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_order_coupon_lookup
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_order_coupon_lookup
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_gla_attribute_mapping_rules
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_gla_attribute_mapping_rules
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_order_tax_lookup
+[2023-11-29 21:28:33][notice]Creating table tmpa4d699_wc_order_tax_lookup
+[2023-11-29 21:28:33][notice]Drop table if exist tmpa4d699_wc_order_operational_data
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_wc_order_operational_data
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_woocommerce_shipping_zones
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_woocommerce_shipping_zones
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_woocommerce_shipping_zone_methods
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_woocommerce_shipping_zone_methods
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_wc_category_lookup
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_wc_category_lookup
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_wpforms_tasks_meta
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_wpforms_tasks_meta
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_frmt_form_reports
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_frmt_form_reports
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_actionscheduler_claims
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_actionscheduler_claims
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_amd_zlrecipe_recipes
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_amd_zlrecipe_recipes
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_cmplz_cookies
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_cmplz_cookies
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_term_relationships
+[2023-11-29 21:28:34][notice]Creating table tmpa4d699_term_relationships
+[2023-11-29 21:28:34][notice]Drop table if exist tmpa4d699_wc_order_stats
+[2023-11-29 21:28:35][notice]Creating table tmpa4d699_wc_order_stats
+[2023-11-29 21:28:35][notice]Drop table if exist tmpa4d699_wc_orders
+[2023-11-29 21:28:35][notice]Creating table tmpa4d699_wc_orders
+[2023-11-29 21:28:35][notice]Drop table if exist tmpa4d699_wc_orders_meta
+[2023-11-29 21:28:35][notice]Creating table tmpa4d699_wc_orders_meta
+[2023-11-29 21:28:35][notice]Drop table if exist tmpa4d699_wc_order_addresses
+[2023-11-29 21:28:35][notice]Creating table tmpa4d699_wc_order_addresses
+[2023-11-29 21:28:35][notice]Drop table if exist tmpa4d699_um_metadata
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_um_metadata
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wc_rate_limits
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wc_rate_limits
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wpforms_payment_meta
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wpforms_payment_meta
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_frmt_form_entry_meta
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_frmt_form_entry_meta
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_frmt_form_entry
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_frmt_form_entry
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_commentmeta
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_commentmeta
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_woocommerce_shipping_zone_locations
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_woocommerce_shipping_zone_locations
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_yoast_indexable_hierarchy
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_yoast_indexable_hierarchy
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_yoast_seo_links
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_yoast_seo_links
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wc_customer_lookup
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wc_customer_lookup
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_users
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_users
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_cmplz_cookiebanners
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_cmplz_cookiebanners
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_term_taxonomy
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_term_taxonomy
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wc_tax_rate_classes
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wc_tax_rate_classes
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wc_product_download_directories
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wc_product_download_directories
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_actionscheduler_groups
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_actionscheduler_groups
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_comments
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_comments
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_yoast_migrations
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_yoast_migrations
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_woocommerce_sessions
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_woocommerce_sessions
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_termmeta
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_termmeta
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_wc_product_meta_lookup
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_wc_product_meta_lookup
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_terms
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_terms
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_frmt_form_views
+[2023-11-29 21:28:36][notice]Creating table tmpa4d699_frmt_form_views
+[2023-11-29 21:28:36][notice]Drop table if exist tmpa4d699_yoast_indexable
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_yoast_indexable
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_usermeta
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_usermeta
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_wc_admin_note_actions
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_wc_admin_note_actions
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_wc_admin_notes
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_wc_admin_notes
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_tf_storage
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_tf_storage
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_actionscheduler_logs
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_actionscheduler_logs
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_actionscheduler_actions
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_actionscheduler_actions
+[2023-11-29 21:28:37][notice]Drop table if exist tmpa4d699_gla_budget_recommendations
+[2023-11-29 21:28:37][notice]Creating table tmpa4d699_gla_budget_recommendations
+[2023-11-29 21:28:38][notice]Drop table if exist tmpa4d699_postmeta
+[2023-11-29 21:28:38][notice]Creating table tmpa4d699_postmeta
+[2023-11-29 21:28:39][notice]Drop table if exist tmpa4d699_posts
+[2023-11-29 21:28:39][notice]Creating table tmpa4d699_posts
+[2023-11-29 21:28:39][notice]Drop table if exist tmpa4d699_options
+[2023-11-29 21:28:39][notice]Creating table tmpa4d699_options
+[2023-11-29 21:28:39][notice]Reading sql file completed offset:5323837
+[2023-11-29 21:28:39][notice]End restore databases.
+[2023-11-29 21:28:42][notice]Start restoring databases.
+[2023-11-29 21:28:42][notice]Start restoring sql file offset:5323837
+[2023-11-29 21:28:42][notice]The test to drop table succeeds.
+[2023-11-29 21:28:43][notice]Reading sql file completed offset:11260254
+[2023-11-29 21:28:43][notice]End restore databases.
+[2023-11-29 21:28:45][notice]Start restoring databases.
+[2023-11-29 21:28:45][notice]Start restoring sql file offset:11260254
+[2023-11-29 21:28:45][notice]The test to drop table succeeds.
+[2023-11-29 21:28:45][notice]UPDATE tmpa4d699_options SET option_value="https://vseobsht.eu" WHERE option_name="siteurl";
+[2023-11-29 21:28:45][notice]update query len:92
+[2023-11-29 21:28:45][notice]UPDATE tmpa4d699_options SET option_value="https://vseobsht.eu" WHERE option_name="home";
+[2023-11-29 21:28:45][notice]update query len:89
+[2023-11-29 21:28:45][notice]Restore db success
+[2023-11-29 21:28:45][notice]End restore databases.
+[2023-11-29 21:28:49][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_actionscheduler_actions
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_actionscheduler_claims
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_actionscheduler_groups
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_actionscheduler_logs
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_amd_zlrecipe_recipes
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_cmplz_cookiebanners
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_cmplz_cookies
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_cmplz_services
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_commentmeta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_comments
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_frmt_form_entry
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_frmt_form_entry_meta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_frmt_form_reports
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_frmt_form_views
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_gla_attribute_mapping_rules
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_gla_budget_recommendations
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_gla_merchant_issues
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_gla_shipping_rates
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_gla_shipping_times
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_links
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_options
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_postmeta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_posts
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_term_relationships
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_term_taxonomy
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_termmeta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_terms
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_tf_storage
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_um_metadata
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_user_registration_sessions
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_usermeta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_users
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_admin_note_actions
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_admin_notes
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_category_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_customer_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_download_log
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_addresses
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_coupon_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_operational_data
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_product_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_stats
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_order_tax_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_orders
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_orders_meta
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_product_attributes_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_product_download_directories
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_product_meta_lookup
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_rate_limits
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_reserved_stock
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_tax_rate_classes
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_wc_webhooks
+[2023-11-29 21:28:49][notice]DROP TABLE IF EXISTS 43I_woocommerce_api_keys
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_attribute_taxonomies
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_downloadable_product_permissions
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_log
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_order_itemmeta
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_order_items
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_payment_tokenmeta
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_payment_tokens
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_sessions
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_shipping_zone_locations
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_shipping_zone_methods
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_shipping_zones
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_tax_rate_locations
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_woocommerce_tax_rates
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_wpforms_payment_meta
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_wpforms_payments
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_wpforms_tasks_meta
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_yoast_indexable
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_yoast_indexable_hierarchy
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_yoast_migrations
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_yoast_primary_term
+[2023-11-29 21:28:50][notice]DROP TABLE IF EXISTS 43I_yoast_seo_links
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_actionscheduler_actions TO 43I_actionscheduler_actions
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_actionscheduler_claims TO 43I_actionscheduler_claims
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_actionscheduler_groups TO 43I_actionscheduler_groups
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_actionscheduler_logs TO 43I_actionscheduler_logs
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_amd_zlrecipe_recipes TO 43I_amd_zlrecipe_recipes
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_cmplz_cookiebanners TO 43I_cmplz_cookiebanners
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_cmplz_cookies TO 43I_cmplz_cookies
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_cmplz_services TO 43I_cmplz_services
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_commentmeta TO 43I_commentmeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_comments TO 43I_comments
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_frmt_form_entry TO 43I_frmt_form_entry
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_frmt_form_entry_meta TO 43I_frmt_form_entry_meta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_frmt_form_reports TO 43I_frmt_form_reports
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_frmt_form_views TO 43I_frmt_form_views
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_gla_attribute_mapping_rules TO 43I_gla_attribute_mapping_rules
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_gla_budget_recommendations TO 43I_gla_budget_recommendations
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_gla_merchant_issues TO 43I_gla_merchant_issues
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_gla_shipping_rates TO 43I_gla_shipping_rates
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_gla_shipping_times TO 43I_gla_shipping_times
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_links TO 43I_links
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_options TO 43I_options
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_postmeta TO 43I_postmeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_posts TO 43I_posts
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_term_relationships TO 43I_term_relationships
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_term_taxonomy TO 43I_term_taxonomy
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_termmeta TO 43I_termmeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_terms TO 43I_terms
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_tf_storage TO 43I_tf_storage
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_um_metadata TO 43I_um_metadata
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_user_registration_sessions TO 43I_user_registration_sessions
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_usermeta TO 43I_usermeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_users TO 43I_users
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_admin_note_actions TO 43I_wc_admin_note_actions
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_admin_notes TO 43I_wc_admin_notes
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_category_lookup TO 43I_wc_category_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_customer_lookup TO 43I_wc_customer_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_download_log TO 43I_wc_download_log
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_addresses TO 43I_wc_order_addresses
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_coupon_lookup TO 43I_wc_order_coupon_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_operational_data TO 43I_wc_order_operational_data
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_product_lookup TO 43I_wc_order_product_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_stats TO 43I_wc_order_stats
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_order_tax_lookup TO 43I_wc_order_tax_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_orders TO 43I_wc_orders
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_orders_meta TO 43I_wc_orders_meta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_product_attributes_lookup TO 43I_wc_product_attributes_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_product_download_directories TO 43I_wc_product_download_directories
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_product_meta_lookup TO 43I_wc_product_meta_lookup
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_rate_limits TO 43I_wc_rate_limits
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_reserved_stock TO 43I_wc_reserved_stock
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_tax_rate_classes TO 43I_wc_tax_rate_classes
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wc_webhooks TO 43I_wc_webhooks
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_api_keys TO 43I_woocommerce_api_keys
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_attribute_taxonomies TO 43I_woocommerce_attribute_taxonomies
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_downloadable_product_permissions TO 43I_woocommerce_downloadable_product_permissions
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_log TO 43I_woocommerce_log
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_order_itemmeta TO 43I_woocommerce_order_itemmeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_order_items TO 43I_woocommerce_order_items
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_payment_tokenmeta TO 43I_woocommerce_payment_tokenmeta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_payment_tokens TO 43I_woocommerce_payment_tokens
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_sessions TO 43I_woocommerce_sessions
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_shipping_zone_locations TO 43I_woocommerce_shipping_zone_locations
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_shipping_zone_methods TO 43I_woocommerce_shipping_zone_methods
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_shipping_zones TO 43I_woocommerce_shipping_zones
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_tax_rate_locations TO 43I_woocommerce_tax_rate_locations
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_woocommerce_tax_rates TO 43I_woocommerce_tax_rates
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wpforms_payment_meta TO 43I_wpforms_payment_meta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wpforms_payments TO 43I_wpforms_payments
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_wpforms_tasks_meta TO 43I_wpforms_tasks_meta
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_yoast_indexable TO 43I_yoast_indexable
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_yoast_indexable_hierarchy TO 43I_yoast_indexable_hierarchy
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_yoast_migrations TO 43I_yoast_migrations
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_yoast_primary_term TO 43I_yoast_primary_term
+[2023-11-29 21:28:50][notice]RENAME TABLE tmpa4d699_yoast_seo_links TO 43I_yoast_seo_links
+[2023-11-29 21:28:50][notice]Replacing table prefix succeeded.
+[2023-11-29 21:28:51][notice]Deleting temp files.

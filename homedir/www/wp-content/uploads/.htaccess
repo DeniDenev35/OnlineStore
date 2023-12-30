@@ -1,0 +1,6 @@
+# BEGIN ShortPixelWebp
+# Директивите (редовете) между "BEGIN ShortPixelWebp" и "END ShortPixelWebp" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+
+# END ShortPixelWebp

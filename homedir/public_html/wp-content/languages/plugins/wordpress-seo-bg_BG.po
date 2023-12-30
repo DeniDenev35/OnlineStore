@@ -1,0 +1,2186 @@
+# Translation of Plugins - Yoast SEO - Stable (latest release) in Bulgarian
+# This file is distributed under the same license as the Plugins - Yoast SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-28 08:27:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: bg\n"
+"Project-Id-Version: Plugins - Yoast SEO - Stable (latest release)\n"
+
+#. translators: %s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-import.php:39
+msgid "%s settings to import:"
+msgstr "%s настройки за импортиране:"
+
+#. translators: 1: expands to Yoast SEO, 2: expands to Import settings.
+#: admin/views/tabs/tool/wpseo-import.php:23
+msgid "Import settings from another %1$s installation by pasting them here and clicking \"%2$s\"."
+msgstr "Импортирайте настройки от друга инсталация на %1$s, като ги поставите тук и натиснете \"%2$s\"."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-export.php:68
+msgid "Your %1$s settings:"
+msgstr "Вашите %1$s настройки:"
+
+#: admin/metabox/class-metabox.php:428 js/dist/block-editor.js:456
+#: js/dist/elementor.js:439 js/dist/new-settings.js:10
+#: js/dist/new-settings.js:14 js/dist/new-settings.js:18
+#: js/dist/new-settings.js:55 js/dist/new-settings.js:211
+#: js/dist/structured-data-blocks.js:13
+msgid "Schema"
+msgstr "Схема"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:112
+msgid "Please check the format of the Facebook Page URL you entered. %s"
+msgstr "Проверете формата на адреса на Facebook страницата, който сте въвели. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:122
+msgid "Please check the format of the Instagram URL you entered. %s"
+msgstr "Проверете формата на Instagram адреса, който сте въвели. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:137
+msgid "Please check the format of the MySpace URL you entered. %s"
+msgstr "Проверете формата на MySpace адреса, който сте въвели. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:142
+msgid "Please check the format of the Pinterest URL you entered. %s"
+msgstr "Проверете формата на Pinterest адреса, който сте въвели. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:157
+msgid "Please check the format of the Wikipedia URL you entered. %s"
+msgstr "Проверете формата на адреса на страницата от Wikipedia, който сте въвели. %s"
+
+#: admin/admin-settings-changed-listener.php:81
+msgid "Settings saved."
+msgstr "Настройките са запазени."
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:132
+msgid "Bing confirmation codes can only contain letters from A to F, numbers, hyphens, and underscores. %s"
+msgstr "Кодът за потвърждение от Bing може да съдържа само букви от A до F, цифри, тирета и долни черти. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:117
+msgid "Google verification codes can only contain letters, numbers, hyphens, and underscores. %s"
+msgstr "Кодът за потвърждение от Google може да съдържа само букви, цифри, тирета и долни черти. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:107
+msgid "Baidu verification codes can only contain letters, numbers, hyphens, and underscores. %s"
+msgstr "Кодът за потвърждение от Baidu може да съдържа само букви, цифри, тирета и долни черти. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:162
+msgid "Yandex confirmation codes can only contain letters from A to F, numbers, hyphens, and underscores. %s"
+msgstr "Кодът за потвърждение от Yandex може да съдържа само букви от A до F, цифри, тирета и долни черти. %s"
+
+#. translators: %s: additional message with the submitted invalid value
+#: admin/class-yoast-input-validation.php:152
+msgid "Twitter usernames can only contain letters, numbers, and underscores. %s"
+msgstr "Потребителските имена в Twitter могат да съдържат единствено букви, цифри и долни черти. %s"
+
+#. translators: %1$s: amount of errors, %2$s: the admin page title
+#: admin/class-yoast-input-validation.php:65
+msgid "The form contains %1$s error. %2$s"
+msgid_plural "The form contains %1$s errors. %2$s"
+msgstr[0] "Тази форма съдържа %1$s грешка. %2$s"
+msgstr[1] "Тази форма съдържа %1$s грешки. %2$s"
+
+#. translators: %s expands to the extension title
+#: admin/views/licenses.php:208 admin/views/licenses.php:319
+msgid "Activate %s for your site on MyYoast"
+msgstr "Активирайте %s за вашия сайт в Моят Yoast"
+
+#: admin/class-customizer.php:109 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:113
+msgid "Show blog page in breadcrumbs"
+msgstr "Показване на страницата за блога в трохичките"
+
+#: admin/class-yoast-form.php:749 admin/metabox/class-metabox.php:650
+#: admin/taxonomy/class-taxonomy-fields-presenter.php:133
+msgid "Clear Image"
+msgstr "Изчистване на изображението"
+
+#: inc/class-wpseo-admin-bar-menu.php:504 js/dist/structured-data-blocks.js:13
+msgid "How to"
+msgstr "Как да"
+
+#. translators: %s: error message
+#: admin/class-yoast-network-admin.php:208
+msgid "Error: %s"
+msgstr "Грешка: %s"
+
+#: admin/class-yoast-network-admin.php:81
+msgid "deleted"
+msgstr "изтрито"
+
+#: admin/menu/class-network-admin-menu.php:34
+msgid "Network Settings"
+msgstr "Настройки на мрежата"
+
+#: admin/pages/network.php:36
+msgid "Restore Site"
+msgstr "Възстановяване на сайт"
+
+#. translators: %s: success message
+#: admin/class-yoast-network-admin.php:206
+msgid "Success: %s"
+msgstr "Успешно: %s"
+
+#: admin/class-yoast-network-admin.php:276
+msgid "You are not allowed to perform this action."
+msgstr "Не ви е разрешено да изпълнявате това действие."
+
+#. translators: %s expands to the ID of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:168
+msgid "Site with ID %d not found."
+msgstr "Сайтът с ID %d не е намерен."
+
+#: admin/class-yoast-network-admin.php:159
+msgid "No site has been selected to restore."
+msgstr "Не е избран сайт за възстановяване."
+
+#: admin/class-yoast-network-admin.php:120
+msgid "You are not allowed to modify unregistered network settings."
+msgstr "Не ви е позволено да променяте нерегистрирани мрежови настройки."
+
+#: inc/class-wpseo-replace-vars.php:1474
+msgid "The site's tagline"
+msgstr "Слоган за уеб сайта"
+
+#. translators: %1$s expands to the missing field name.
+#: admin/menu/class-replacevar-editor.php:150
+msgid "Not all required fields are given. Missing field %1$s"
+msgstr "Не са попълнени всички задължителни полета. Липсващо поле %1$s."
+
+#: inc/class-wpseo-replace-vars.php:1488 js/dist/externals-redux.js:1
+msgid "Current year"
+msgstr "Текуща година"
+
+#: inc/class-wpseo-replace-vars.php:1517 js/dist/externals-redux.js:1
+msgid "Page"
+msgstr "Страница"
+
+#: inc/class-wpseo-replace-vars.php:1480 js/dist/externals-redux.js:1
+msgid "Category description"
+msgstr "Описание на категория"
+
+#: inc/class-wpseo-replace-vars.php:1479 js/dist/externals-redux.js:1
+msgid "Primary category"
+msgstr "Основна категория"
+
+#: inc/class-wpseo-replace-vars.php:1478 js/dist/externals-redux.js:1
+msgid "Category"
+msgstr "Категория"
+
+#: inc/class-wpseo-replace-vars.php:1477
+msgid "Tag"
+msgstr "Етикет"
+
+#: inc/class-wpseo-replace-vars.php:1469 js/dist/externals-redux.js:1
+msgid "Date"
+msgstr "Дата"
+
+#: inc/class-wpseo-replace-vars.php:1514 js/dist/externals-redux.js:1
+msgid "ID"
+msgstr "ID"
+
+#: inc/class-wpseo-replace-vars.php:1513
+msgid "Modified"
+msgstr "Променено"
+
+#: inc/class-wpseo-replace-vars.php:1486 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:14
+msgid "Separator"
+msgstr "Разделител"
+
+#: inc/class-wpseo-replace-vars.php:1484 js/dist/externals-redux.js:1
+msgid "Search phrase"
+msgstr "Фраза за търсене"
+
+#: inc/class-wpseo-replace-vars.php:1475 js/dist/externals-redux.js:1
+msgid "Excerpt"
+msgstr "Откъс"
+
+#: inc/class-wpseo-replace-vars.php:1473 js/dist/externals-redux.js:1
+msgid "Site title"
+msgstr "Заглавие за уеб сайта"
+
+#: inc/class-wpseo-replace-vars.php:1472
+msgid "Archive title"
+msgstr "Заглавие на архива"
+
+#: inc/class-wpseo-replace-vars.php:1476 js/dist/externals-redux.js:1
+msgid "Excerpt only"
+msgstr "Само откъс"
+
+#. translators: %1$s expands to the translated name of the post type.
+#. translators: 1: term label
+#: admin/watchers/class-slug-change-watcher.php:84
+#: admin/watchers/class-slug-change-watcher.php:104
+msgid "You just deleted a %1$s."
+msgstr "Току що изтрихте %1$s."
+
+#. translators: %1$s expands to the translated name of the post type.
+#: admin/watchers/class-slug-change-watcher.php:65
+msgid "You just trashed a %1$s."
+msgstr "Току що пратихте в кошчето %1$s."
+
+#: inc/class-wpseo-replace-vars.php:1483
+msgid "Term title"
+msgstr "Термин за заглавие"
+
+#: inc/class-wpseo-replace-vars.php:1482 js/dist/externals-redux.js:1
+msgid "Term description"
+msgstr "Термин за описание"
+
+#: inc/class-wpseo-replace-vars.php:1481 js/dist/externals-redux.js:1
+msgid "Tag description"
+msgstr "Описание на етикет"
+
+#: inc/class-wpseo-replace-vars.php:1520
+msgid "Caption"
+msgstr "Надпис"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "Pagenumber"
+msgstr "Номер на страницата"
+
+#: inc/class-wpseo-replace-vars.php:1518
+msgid "Pagetotal"
+msgstr "Всички страници"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "User description"
+msgstr "Описание на потребителя"
+
+#: inc/class-wpseo-replace-vars.php:1471 js/dist/externals-redux.js:1
+msgid "Parent title"
+msgstr "Заглавие на родителска категория"
+
+#: inc/class-wpseo-admin-bar-menu.php:588 js/dist/block-editor.js:404
+#: js/dist/classic-editor.js:400 js/dist/elementor.js:404
+msgid "Get Yoast SEO Premium"
+msgstr "Вземете премиум SEO пакет от Yoast"
+
+#: admin/watchers/class-slug-change-watcher.php:217
+msgid "You should create a redirect to ensure your visitors do not get a 404 error when they click on the no longer working URL."
+msgstr "Трябва да създадете пренасочване, за да сте сигурни, че посетителите ви няма да попаднат на грешка 404, когато кликнат върху неработещия URL адрес."
+
+#: admin/watchers/class-slug-change-watcher.php:216
+msgid "Search engines and other websites can still send traffic to your deleted post."
+msgstr "Търсачките и други уеб сайтове все още могат да изпращат трафик към изтритата Ви публикация."
+
+#: inc/class-wpseo-replace-vars.php:1474 js/dist/externals-redux.js:1
+#: js/dist/new-settings.js:14 js/dist/new-settings.js:230
+msgid "Tagline"
+msgstr "Слоган"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "(custom taxonomy)"
+msgstr "Къстъм таксономия"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "(custom field)"
+msgstr "Къстъм потребителско поле"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Term404"
+msgstr "Грешка 404"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "description (custom taxonomy)"
+msgstr "описание (персонализирана таксономия)"
+
+#: admin/watchers/class-slug-change-watcher.php:213
+msgid "Make sure you don't miss out on traffic!"
+msgstr "Уверете се, че не се пропускат възможности за трафик към сайта ви!"
+
+#: inc/class-wpseo-replace-vars.php:1512
+msgid "Post type (plural)"
+msgstr "Тип съдържание (множествено число)"
+
+#: inc/class-wpseo-replace-vars.php:1511
+msgid "Post type (singular)"
+msgstr "Тип съдържание (единствено число)"
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:40
+msgid "Baidu verification code"
+msgstr "Baidu код за потвърждение"
+
+#. translators: %1$s expands to a link start tag to the Baidu Webmaster Tools
+#. site add page, %2$s is the link closing tag.
+#: admin/views/tabs/dashboard/webmaster-tools.php:44
+msgid "Get your Baidu verification code in %1$sBaidu Webmaster Tools%2$s."
+msgstr "Вземете своя Baidu код за потвърждение от %1$sBaidu Webmaster Tools%2$s."
+
+#. translators: %s is replaced with the plugin's name.
+#: admin/import/plugins/class-abstract-plugin-importer.php:132
+msgid "Cleanup of %s data failed."
+msgstr "Почистването на %s данни е неуспешно."
+
+#: admin/class-bulk-editor-list-table.php:1003
+msgid "Content Type"
+msgstr "Тип съдържание"
+
+#: admin/class-bulk-editor-list-table.php:411
+msgid "Filter by content type"
+msgstr "Филтриране по тип съдържание"
+
+#: admin/class-bulk-editor-list-table.php:394
+msgid "Show All Content Types"
+msgstr "Показване на всички типове съдържание"
+
+#. translators: %s is replaced with Yoast SEO.
+#: admin/import/plugins/class-abstract-plugin-importer.php:257
+msgid "The %s importer functionality uses temporary database tables. It seems your WordPress install does not have the capability to do this, please consult your hosting provider."
+msgstr "Функционалността на импортъра %s включва временни датабаза таблици. Изглежда, че Вашата WordPress инсталация няма такава способност, моля свържете се с Вашия хостинг доставчик."
+
+#: inc/class-wpseo-replace-vars.php:1472
+msgid "Replaced with the normal title for an archive generated by WordPress"
+msgstr "Заместен с нормалното заглавие за архив, генериран от WordPress"
+
+#: admin/views/tabs/tool/import-seo.php:137
+msgid "Clean"
+msgstr "Чист"
+
+#: admin/views/tabs/tool/import-seo.php:105
+msgid "Step 3: Check your data"
+msgstr "Стъпка 3: Проверете вашите данни"
+
+#: admin/views/tabs/tool/import-seo.php:107
+msgid "Please check your posts and pages and see if the metadata was successfully imported."
+msgstr "Моля, проверете вашите публикации и страници за успешното импортиране на метаданните."
+
+#: admin/views/tabs/tool/import-seo.php:62
+msgid "Step 2: Import"
+msgstr "Стъпка 2: Импортиране"
+
+#: admin/views/tabs/tool/import-seo.php:55
+msgid "Step 1: Create a backup"
+msgstr "Стъпка 1: Създаване на резервно копие"
+
+#: admin/views/tabs/tool/import-seo.php:39
+msgid "Plugin: "
+msgstr "Разширение:"
+
+#: admin/views/tabs/tool/import-seo.php:126
+msgid "Step 5: Clean up"
+msgstr "Съпка 5: Почистване"
+
+#: admin/statistics/class-statistics-service.php:229
+msgid "Posts that should not show up in search results"
+msgstr "Публикации, които не трябва да се показват в резултатите от търсенето"
+
+#. translators: %s is replaced with the name of the plugin we've found data
+#. from.
+#: admin/import/class-import-status.php:128
+msgid "%s data found."
+msgstr "%s намерени данни."
+
+#. translators: %s is replaced with the name of the plugin we're removing data
+#. from.
+#: admin/import/class-import-status.php:124
+msgid "%s data successfully removed."
+msgstr "%s данни бяха премахнати успешно."
+
+#. translators: %s is replaced with the name of the plugin we're importing data
+#. from.
+#: admin/import/class-import-status.php:121
+msgid "%s data successfully imported."
+msgstr "%s данни бяха успешно импортирани."
+
+#. translators: %s is replaced with the name of the plugin we're trying to find
+#. data from.
+#: admin/import/class-import-status.php:61
+msgid "%s data not found."
+msgstr "%s данни не са намерени."
+
+#: admin/views/tabs/tool/import-seo.php:128
+msgid "Once you're certain your site is OK, you can clean up. This will remove all the original data."
+msgstr "Когато сте сигурни, че сайтът Ви е ОК, можете да почистите. Това ще премахне цялата оригинална информация."
+
+#: admin/views/tabs/tool/import-seo.php:57
+msgid "Please make a backup of your database before starting this process."
+msgstr "Моля направете резервно копие на Вашата база данни преди стартирането на този процес."
+
+#: admin/views/tabs/tool/import-seo.php:51
+msgid "We've detected data from one or more SEO plugins on your site. Please follow the following steps to import that data:"
+msgstr "Засякохме данни от едно или повече SEO разширения на Вашия сайт. Моля следвайте следните стъпки, за да въведете тези данни:"
+
+#: admin/class-premium-upsell-admin-block.php:58 js/dist/block-editor.js:361
+#: js/dist/classic-editor.js:357 js/dist/elementor.js:361
+#: js/dist/externals-components.js:11 js/dist/externals-components.js:63
+#: js/dist/new-settings.js:256
+msgid "24/7 email support"
+msgstr "24/7 имейл поддръжка"
+
+#: admin/views/user-profile.php:15
+msgid "this author's archives"
+msgstr "Архивите на този автор"
+
+#: admin/views/tabs/social/accounts.php:18
+msgid "Learn more about your social profiles settings"
+msgstr "Научете повече за настройките на социалните Ви профили"
+
+#: admin/views/tabs/social/accounts.php:19
+msgid "To let search engines know which social profiles are associated to this site, enter your site social profiles data below."
+msgstr "За да уведомите търсачките кои социални профили са свързани с този сайт, въведете информацията за социалните профили на сайта Ви отдолу."
+
+#. translators: %s expands to "this author's archives".
+#: admin/views/user-profile.php:14
+msgid "Do not allow search engines to show %s in search results."
+msgstr "Не позволявайте на търсещите машини да показват %s в резултатите от търсенето."
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:55
+msgid "Bing verification code"
+msgstr "Bing код за потвърждение"
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:65
+msgid "Google verification code"
+msgstr "Google код за потвърждение"
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:75
+msgid "Yandex verification code"
+msgstr "Yandex код за потвърждение"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/dashboard/webmaster-tools.php:79
+msgid "Get your Yandex verification code in %1$sYandex Webmaster Tools%2$s."
+msgstr "Вземете вашият Яндекс код за верификация във вашият %1$sЯндекс Webmaster Tools%2$s."
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/dashboard/webmaster-tools.php:69
+msgid "Get your Google verification code in %1$sGoogle Search Console%2$s."
+msgstr "Вземете вашият Google код за верификация във вашата %1$sGoogle Search Console%2$s. "
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/dashboard/webmaster-tools.php:59
+msgid "Get your Bing verification code in %1$sBing Webmaster Tools%2$s."
+msgstr "Вземете вашият Bing код за верификация във вашият %1$sBing Webmaster Tools%2$s. "
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:19
+msgid "You can use the boxes below to verify with the different Webmaster Tools. This feature will add a verification meta tag on your home page. Follow the links to the different Webmaster Tools and look for instructions for the meta tag verification method to get the verification code. If your site is already verified, you can just forget about these."
+msgstr "Можете да използвате полетата по-долу, за да потвърдите с различните Инструменти за уеб администратори. Тази функция ще добави мета таг за потвърждение на началната ви страница. Следвайте връзките към различните Инструменти за уеб администратори и потърсете инструкции за метода за потвърждаване на мета тага, за да получите кода за потвърждение. Ако сайтът ви вече е потвърден, можете да игнорирате това."
+
+#: admin/class-yoast-form.php:937 admin/class-yoast-form.php:977
+#: admin/metabox/class-metabox.php:205
+#: admin/views/tabs/dashboard/features.php:106
+#: js/dist/externals/componentsNew.js:778
+msgid "On"
+msgstr "Включено"
+
+#: admin/class-yoast-form.php:938 admin/class-yoast-form.php:978
+#: admin/metabox/class-metabox.php:204
+#: admin/views/class-yoast-feature-toggles.php:160
+#: admin/views/tabs/dashboard/features.php:107
+#: js/dist/externals/componentsNew.js:778
+msgid "Off"
+msgstr "Изключено"
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:18
+msgid "Learn more about the Webmaster Tools verification"
+msgstr "Научете повече за верификацията на Webmaster Tools"
+
+#. translators: %s expands to a feature's name
+#. translators: %s expands to an integration's name
+#: admin/views/tabs/dashboard/features.php:55
+#: admin/views/tabs/network/features.php:62
+#: admin/views/tabs/network/integrations.php:50
+msgid "Help on: %s"
+msgstr "Помощ относно: %s"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/dashboard/features.php:27
+msgid "%1$s comes with a lot of features. You can enable / disable some of them below. Clicking the question mark gives more information about the feature."
+msgstr "%1$s идва с много функции. Можете да активирате / деактивирате някои от тях по-долу. Кликването върху въпросителния знак ще ви даде повече информация за функцията."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/dashboard/dashboard.php:21
+msgid "See who contributed to %1$s."
+msgstr "Виж кой допринесе за %1$s."
+
+#: src/deprecated/admin/views/class-view-utils.php:66
+msgid "Help on this search results setting"
+msgstr "Помогнете за тази настройка на резултатите от търсенето"
+
+#: admin/views/class-yoast-feature-toggles.php:140
+msgid "Read why XML Sitemaps are important for your site."
+msgstr "Прочетете защо XML картите на уебсайта са важни за вашия сайт."
+
+#: admin/views/class-yoast-feature-toggles.php:70
+msgid "See the XML sitemap."
+msgstr "Вижте XML картата на сайта."
+
+#. translators: %s: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:139
+msgid "Enable the XML sitemaps that %s generates."
+msgstr "Активирайте XML картите на сайта, които генерират %s"
+
+#. translators: 1: expands to an indexable object's name, like a post type or
+#. taxonomy; 2: expands to <code>noindex</code>; 3: link open tag; 4: link
+#. close tag.
+#: src/deprecated/admin/views/class-view-utils.php:56
+msgid "Not showing %1$s in the search results technically means those will have a %2$s robots meta and will be excluded from XML sitemaps. %3$sMore info on the search results settings%4$s."
+msgstr "Непоказването на %1$s в резултатите от търсенето технически означава, че те ще имат %2$s мета данни с директиви за ботове и ще бъдат изключени от XML картата на сайта. %3$sПовече информация за настройките за резултатите от търсенето%4$s."
+
+#. translators: 1: expands to an indexable object's name, like a post type or
+#. taxonomy; 2: expands to <code>noindex</code>; 3: link open tag; 4: link
+#. close tag.
+#: src/deprecated/admin/views/class-view-utils.php:60
+msgid "Not showing the archive for %1$s in the search results technically means those will have a %2$s robots meta and will be excluded from XML sitemaps. %3$sMore info on the search results settings%4$s."
+msgstr "Непоказването на архива за %1$s в резултатите от търсенето технически означава, че те ще имат %2$s мета данни с директиви за ботове и ще бъдат изключени от XML картата на сайта. %3$sПовече информация за настройките за резултатите от търсенето%4$s."
+
+#. translators: %s expands to an indexable object's name, like a post type or
+#. taxonomy
+#: admin/class-yoast-form.php:948
+msgid "Show %s in search results?"
+msgstr "Показване на %s в резултатите от търсенето?"
+
+#. translators: %1$s expands to the post type name.
+#: admin/metabox/class-metabox.php:180
+msgid "Should search engines follow links on this %1$s?"
+msgstr "Трябва ли търсачките да следват връзки в този %1$s?"
+
+#. translators: %s expands to the post type name.
+#. Translators: %s translates to the Post Label in singular form
+#: admin/metabox/class-metabox.php:170 js/dist/block-editor.js:391
+#: js/dist/classic-editor.js:387 js/dist/elementor.js:391
+msgid "Allow search engines to show this %s in search results?"
+msgstr "Да се даде ли възможност на търсачките да показват този %s в резултатите от търсенето?"
+
+#. translators: %1$s expands to Yes or No,  %2$s expands to the post type name.
+#: admin/metabox/class-metabox.php:175
+msgid "Default for %2$s, currently: %1$s"
+msgstr "По подразбиране за %2$s, понастоящем: %1$s"
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/class-plugin-conflict.php:80
+msgid "Toggle %1$s's XML Sitemap"
+msgstr "Превключване на %1$s's XML картата на сайта"
+
+#: admin/views/tabs/social/twitterbox.php:27
+msgid "Enable this feature if you want Twitter to display a preview with images and a text excerpt when a link to your site is shared."
+msgstr "Активирайте тази функция, ако искате Twitter да показва визуализация с изображения и текстов откъс, когато се споделя връзка към вашия сайт."
+
+#: admin/formatter/class-metabox-formatter.php:233
+#: js/dist/editor-modules.js:319 js/dist/externals-components.js:15
+#: js/dist/externals/analysisReport.js:35
+msgid "Good results"
+msgstr "Добри резултати"
+
+#: admin/views/class-yoast-feature-toggles.php:75
+#: js/dist/externals-components.js:94 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:238
+msgid "SEO analysis"
+msgstr "SEO анализ"
+
+#. translators: %s: 'Semrush'
+#. translators: %s: Zapier.
+#. translators: %s: Algolia.
+#. translators: %s: 'Wincher'
+#. translators: %s expands to WordProof
+#: admin/views/class-yoast-integration-toggles.php:67
+#: admin/views/class-yoast-integration-toggles.php:78
+#: admin/views/class-yoast-integration-toggles.php:96
+#: src/integrations/third-party/wincher.php:68
+#: src/integrations/third-party/wordproof-integration-toggle.php:77
+msgid "%s integration"
+msgstr "%s интеграция"
+
+#. translators: %s expands to WordProof
+#: src/integrations/third-party/wordproof-integration-toggle.php:85
+msgid "Read more about how %s works."
+msgstr "Прочетете повече относно това как %s работи."
+
+#: admin/views/class-yoast-feature-toggles.php:102
+msgid "The cornerstone content feature lets you to mark and filter cornerstone content on your website."
+msgstr "Функцията за cornerstone съдържание ви позволява да маркирате и филтрирате cornerstone съдържанието на уебсайта си."
+
+#: admin/views/class-yoast-feature-toggles.php:78
+msgid "Learn how the SEO analysis can help you rank."
+msgstr "Научете как SEO анализът може да ви помогне да се класирате по-добре."
+
+#: admin/views/class-yoast-feature-toggles.php:85 js/dist/new-settings.js:238
+msgid "The readability analysis offers suggestions to improve the structure and style of your text."
+msgstr "Анализът на четливостта предлага предложения за подобряване на структурата и стила на вашия текст."
+
+#: admin/views/class-yoast-feature-toggles.php:86
+msgid "Discover why readability is important for SEO."
+msgstr "Открийте защо четливостта е важна за SEO."
+
+#: admin/views/class-yoast-feature-toggles.php:103
+msgid "Find out how cornerstone content can help you improve your site structure."
+msgstr "Научете как cornerstone съдържанието може да ви помогне да подобрите структурата на сайта си."
+
+#: admin/views/class-yoast-feature-toggles.php:110
+msgid "The text link counter helps you improve your site structure."
+msgstr "Броячът на текстови връзки ви помага да подобрите структурата на сайта си."
+
+#: admin/views/class-yoast-feature-toggles.php:111
+msgid "Find out how the text link counter can enhance your SEO."
+msgstr "Разберете как броячът на текстови връзки може да подобри вашето SEO."
+
+#: admin/views/tabs/social/facebook.php:25
+msgid "Enable this feature if you want Facebook and other social media to display a preview with images and a text excerpt when a link to your site is shared."
+msgstr "Активирайте тази функция, ако искате Facebook и други социални медии да показват визуализация с изображения и текстов откъс, когато се споделя връзка към вашия сайт."
+
+#: admin/views/class-yoast-feature-toggles.php:77
+msgid "The SEO analysis offers suggestions to improve the SEO of your text."
+msgstr "SEO анализът предлага предложения за подобряване на оптимизацията на вашия текст."
+
+#. Plugin URI of the plugin
+msgid "https://yoa.st/1uj"
+msgstr "https://yoa.st/1uj"
+
+#. Author URI of the plugin
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. translators: %1$s resolves to Yoast.com
+#: admin/class-yoast-dashboard-widget.php:124
+msgid "Latest blog posts on %1$s"
+msgstr "Последни публикации в блога на %1$s"
+
+#: admin/formatter/class-metabox-formatter.php:235
+#: js/dist/externals/analysisReport.js:17
+msgid "Remove highlight from the text"
+msgstr "Премахване на подчертаното от текста"
+
+#: src/helpers/first-time-configuration-notice-helper.php:68
+msgid "First-time SEO configuration"
+msgstr "Първата конфигурация на SEO"
+
+#: admin/formatter/class-metabox-formatter.php:229
+#: js/dist/editor-modules.js:319 js/dist/externals-components.js:15
+#: js/dist/externals/analysisReport.js:35
+msgid "Errors"
+msgstr "Грешки"
+
+#: admin/formatter/class-metabox-formatter.php:234
+#: js/dist/externals/analysisReport.js:17
+msgid "Highlight this result in the text"
+msgstr "Маркирайте този резултат в текста"
+
+#: admin/formatter/class-metabox-formatter.php:232
+#: js/dist/editor-modules.js:319 js/dist/externals-components.js:15
+#: js/dist/externals/analysisReport.js:35
+msgid "Considerations"
+msgstr "Съображения"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:28
+msgid "You cannot create a %s file."
+msgstr "Не можете да създадете файла %s."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:49 admin/views/tool-file-editor.php:76
+msgid "You cannot edit the %s file."
+msgstr "Не можете да редактирате файла %s."
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:65
+msgid "Updated %s"
+msgstr "Обновен %s"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:125
+msgid "Create %s file"
+msgstr "Създаване на файла %s"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:165 admin/views/tool-file-editor.php:215
+msgid "Edit the content of your %s:"
+msgstr "Редактирайте съдържанието на вашите %s:"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:174 admin/views/tool-file-editor.php:224
+msgid "Save changes to %s"
+msgstr "Запазете промените на %s"
+
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:186
+msgid "%s file"
+msgstr "%s файл"
+
+#. translators: %1$s expands to the dependency name.
+#: admin/class-suggested-plugins.php:136
+msgid "More information about %1$s"
+msgstr "Повече информация за %1$s"
+
+#: admin/class-admin-utils.php:78 admin/class-premium-popup.php:82
+#: admin/class-premium-upsell-admin-block.php:68 admin/class-yoast-form.php:912
+#: admin/formatter/class-metabox-formatter.php:237 admin/views/licenses.php:125
+#: admin/watchers/class-slug-change-watcher.php:224
+#: src/integrations/admin/workouts-integration.php:210
+#: src/integrations/admin/workouts-integration.php:239
+#: src/presenters/admin/help-link-presenter.php:75 js/dist/block-editor.js:456
+#: js/dist/externals/componentsNew.js:136 js/dist/externals/helpers.js:18
+#: js/dist/indexables-page.js:35 js/dist/integrations-page.js:3
+#: js/dist/integrations-page.js:19 js/dist/integrations-page.js:27
+msgid "(Opens in a new browser tab)"
+msgstr "(Отваряне в нова табулация на браузера)"
+
+#. translators: %1$s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: admin/filters/class-cornerstone-filter.php:104
+msgid "Mark the most important %1$s as 'cornerstone content' to improve your site structure. %2$sLearn more about cornerstone content%3$s."
+msgstr "Маркирайте най-важното %1$s като \"cornerstone съдържание\", за да подобрите структурата на сайта си. %2$sНаучете повече за cornerstone съдържанието%3$s."
+
+#: admin/statistics/class-statistics-service.php:77
+msgid "Hey, your SEO is doing pretty well! Check out the stats:"
+msgstr "Хей, вашето SEO изглежда доста добре! Проверете статистическите данни:"
+
+#: admin/statistics/class-statistics-service.php:73
+msgid "You don't have any published posts, your SEO scores will appear here once you make your first post!"
+msgstr "Нямате публикувани публикации, затова резултатите от SEO ще се показват тук, след като направите първата си публикация!"
+
+#: admin/class-yoast-dashboard-widget.php:127
+msgid "Read more like this on our SEO blog"
+msgstr "Прочетете още подобни публикации в нашия SEO блог"
+
+#: admin/views/licenses.php:203 admin/views/licenses.php:314
+msgid "Not activated"
+msgstr "Не е активиран"
+
+#: admin/views/licenses.php:190 admin/views/licenses.php:300
+msgid "Activated"
+msgstr "Активиран"
+
+#: admin/class-meta-columns.php:273
+msgid "All Readability Scores"
+msgstr "Всички резултати за четливост на текста"
+
+#: admin/class-meta-columns.php:269
+msgid "Filter by Readability Score"
+msgstr "Филтриране по показател за четливост на текста"
+
+#. translators: %1$s expands to the product name. %2$s expands to a link to My
+#. Yoast
+#: inc/class-addon-manager.php:469
+msgid "You are not receiving updates or support! Fix this problem by adding this site and enabling %1$s for it in %2$s."
+msgstr "Не получавате актуализации или поддръжка! Коригирайте този проблем, като добавите този сайт и активирате %1$s за него в %2$s."
+
+#. translators: %1$s expands to Yoast
+#: src/presenters/admin/sidebar-presenter.php:28
+msgid "%1$s recommendations for you"
+msgstr "%1$s препоръки за Вас"
+
+#: src/integrations/admin/unsupported-php-version.php:163
+msgid "Remind me again in 4 weeks."
+msgstr "Напомни ми отново след 4 седмици."
+
+#. translators: %1$s expands to the request method
+#: admin/class-remote-request.php:95
+msgid "Request method %1$s is not valid."
+msgstr "Методът за заявка %1$s не е валиден."
+
+#: admin/views/class-yoast-feature-toggles.php:108 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:238
+msgid "Text link counter"
+msgstr "Брояч на текстови връзки"
+
+#: src/integrations/admin/link-count-columns-integration.php:144
+msgid "Number of internal links linking to this post. See \"Yoast Columns\" text in the help tab for more info."
+msgstr "Брой вътрешни връзки, свързващи тази публикация. За повече информация вижте текста \"Yoast Колони\" в раздела \"Помощ\"."
+
+#. translators: %s expands to Yoast
+#: admin/class-yoast-columns.php:60
+msgid "%s Columns"
+msgstr "%s Колони"
+
+#: admin/class-meta-columns.php:104
+#: admin/taxonomy/class-taxonomy-columns.php:91
+msgid "Readability score"
+msgstr "Резултат за четливостта"
+
+#: admin/filters/class-cornerstone-filter.php:87
+#: admin/views/class-yoast-feature-toggles.php:100
+#: js/dist/externals-components.js:18 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:238
+msgid "Cornerstone content"
+msgstr "Ключово съдържание"
+
+#: admin/class-premium-upsell-admin-block.php:56 js/dist/block-editor.js:359
+#: js/dist/classic-editor.js:355 js/dist/elementor.js:359
+#: js/dist/externals-components.js:9 js/dist/externals-components.js:61
+#: js/dist/new-settings.js:256
+msgid "Superfast internal linking suggestions"
+msgstr "Свръх-бързи предложения за вътрешни връзки"
+
+#: admin/class-yoast-form.php:141 admin/class-yoast-form.php:146
+#: js/dist/first-time-configuration.js:4 js/dist/new-settings.js:1
+#: js/dist/settings.js:5
+msgid "Save changes"
+msgstr "Запис на промените"
+
+#. translators: %2$s expands to 'RS Head Cleaner' plugin name of possibly
+#. conflicting plugin with regard to differentiating output between search
+#. engines and normal users.
+#: admin/class-plugin-conflict.php:85
+msgid "The plugin %2$s changes your site's output and in doing that differentiates between search engines and normal users, a process that's called cloaking. We highly recommend that you disable it."
+msgstr "Разширението %2$s променя съдържанието на вашия сайт по начин, който се отличава за търсещите машини и за обикновените потребители. Този процес се нарича маскиране (cloaking) и силно ви препоръчваме да преустановите употребата му."
+
+#: admin/class-premium-upsell-admin-block.php:59 js/dist/block-editor.js:361
+#: js/dist/classic-editor.js:357 js/dist/elementor.js:361
+#: js/dist/externals-components.js:11 js/dist/externals-components.js:63
+#: js/dist/new-settings.js:256
+msgid "No ads!"
+msgstr "Без реклами!"
+
+#: admin/class-premium-upsell-admin-block.php:57 js/dist/new-settings.js:256
+msgid "Facebook & Twitter"
+msgstr "Facebook и Twitter"
+
+#: admin/class-premium-upsell-admin-block.php:57 js/dist/new-settings.js:256
+msgid "Social media preview"
+msgstr "Преглед за публикуване в социални мрежи"
+
+#: admin/class-premium-upsell-admin-block.php:55 js/dist/new-settings.js:256
+msgid "Easy redirect manager"
+msgstr "Лесен мениджър на пренасочванията"
+
+#: admin/class-premium-upsell-admin-block.php:55 js/dist/new-settings.js:256
+msgid "No more dead links"
+msgstr "Премахнете мъртвите връзки"
+
+#: admin/class-premium-upsell-admin-block.php:54 js/dist/new-settings.js:256
+msgid "Increase your SEO reach"
+msgstr "Подобрете своето SEO покритие"
+
+#: admin/class-admin.php:354
+msgid "Scroll to see the table content."
+msgstr "Слезте надолу до съдържанието на таблицата."
+
+#: admin/views/partial-notifications-warnings.php:22
+msgid "No new notifications."
+msgstr "Няма нови съобщения."
+
+#: admin/class-bulk-editor-list-table.php:892
+msgid "Save all"
+msgstr "Запис на всичко"
+
+#: admin/class-bulk-editor-list-table.php:891
+msgid "Save"
+msgstr "Запис"
+
+#. translators: 1: Author name; 2: Site name.
+#: inc/options/class-wpseo-option-titles.php:247
+msgid "%1$s, Author at %2$s"
+msgstr "%1$s, автор в %2$s"
+
+#: admin/formatter/class-metabox-formatter.php:236
+#: js/dist/externals/analysis.js:393 js/dist/externals/analysisReport.js:17
+msgid "Marks are disabled in current view"
+msgstr "Маркерите са изключени в текущия изглед"
+
+#: inc/class-wpseo-replace-vars.php:1515 js/dist/first-time-configuration.js:6
+msgid "Name"
+msgstr "Име"
+
+#: admin/views/tool-import-export.php:89
+msgid "Export settings"
+msgstr "Изнасяне на настройките"
+
+#. translators: %1$s is a link start tag to the bugreport guidelines on the
+#. Yoast help center, %2$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:162
+msgid "If you are experiencing issues, %1$splease file a bug report%2$s and we'll do our best to help you out."
+msgstr "Ако срещате проблеми, %1$sизпратете ни доклад за грешка%2$s и ние ще се постараем да ви помогнем."
+
+#. translators: %1$s expands to Yoast SEO, %2$s is a link start tag to the
+#. plugin page on WordPress.org, %3$s is the link closing tag.
+#: admin/class-product-upsell-notice.php:154
+msgid "We've noticed you've been using %1$s for some time now; we hope you love it! We'd be thrilled if you could %2$sgive us a 5 stars rating on WordPress.org%3$s!"
+msgstr "Забелязахме, че вече използвате %1$s от известно време и се надяваме, че ви харесва! За нас би било страхотно, ако ни дадете %2$s5 звезди в WordPress.org%3$s!"
+
+#: admin/class-bulk-editor-list-table.php:799
+msgid "(no title)"
+msgstr "(няма заглавие)"
+
+#: admin/views/class-yoast-feature-toggles.php:147 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:238 js/dist/new-settings.js:239
+msgid "Admin bar menu"
+msgstr "Меню в админ лентата"
+
+#. translators: 1: Yoast SEO
+#: admin/views/class-yoast-feature-toggles.php:150
+msgid "The %1$s admin bar menu contains useful links to third-party tools for analyzing pages and makes it easy to see if you have new notifications."
+msgstr "Менюто %1$s в админ лентата съдържа полезни връзки към други инструменти за анализ на страници и ви информира за нови съобщения."
+
+#: admin/metabox/class-metabox.php:166 js/dist/externals/analysis.js:221
+#: js/dist/externals/analysis.js:275 js/dist/externals/analysis.js:393
+#: js/dist/externals/replacementVariableEditor.js:78
+#: js/dist/externals/searchMetadataPreviews.js:259 js/dist/new-settings.js:9
+#: js/dist/new-settings.js:11 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:18 js/dist/new-settings.js:51
+#: js/dist/new-settings.js:62 js/dist/new-settings.js:86
+#: js/dist/new-settings.js:109 js/dist/new-settings.js:168
+#: js/dist/new-settings.js:182 js/dist/new-settings.js:192
+#: js/dist/new-settings.js:211
+msgid "SEO title"
+msgstr "SEO заглавие"
+
+#: admin/pages/network.php:19 admin/views/tabs/dashboard/features.php:22
+#: admin/views/tabs/network/features.php:22
+msgid "Features"
+msgstr "Функции"
+
+#: admin/metabox/class-metabox.php:177 admin/metabox/class-metabox.php:182
+#: js/dist/block-editor.js:385 js/dist/classic-editor.js:381
+#: js/dist/elementor.js:385
+msgid "No"
+msgstr "Не"
+
+#: admin/metabox/class-metabox.php:176 admin/metabox/class-metabox.php:181
+#: js/dist/block-editor.js:385 js/dist/classic-editor.js:381
+#: js/dist/elementor.js:385 js/dist/externals/schemaBlocks.js:13
+msgid "Yes"
+msgstr "Да"
+
+#: inc/options/class-wpseo-option-titles.php:1001
+msgid "Less than sign"
+msgstr "Знак \"по-малко\""
+
+#: inc/options/class-wpseo-option-titles.php:1005
+msgid "Greater than sign"
+msgstr "Знак \"по-голямо\""
+
+#: inc/options/class-wpseo-option-titles.php:989
+msgid "Small tilde"
+msgstr "Малка тилда"
+
+#: inc/options/class-wpseo-option-titles.php:969
+msgid "Middle dot"
+msgstr "Средна точка"
+
+#: inc/options/class-wpseo-option-titles.php:997
+msgid "Right angle quotation mark"
+msgstr "Затваряща френска кавичка"
+
+#: inc/options/class-wpseo-option-titles.php:993
+msgid "Left angle quotation mark"
+msgstr "Отваряща френска кавичка"
+
+#: inc/options/class-wpseo-option-titles.php:985
+msgid "Vertical bar"
+msgstr "Вертикална черта"
+
+#: inc/options/class-wpseo-option-titles.php:981
+msgid "Low asterisk"
+msgstr "Ниско разположена звезда"
+
+#: inc/options/class-wpseo-option-titles.php:977
+msgid "Asterisk"
+msgstr "Звезда"
+
+#: inc/options/class-wpseo-option-titles.php:973
+msgid "Bullet"
+msgstr "Булет"
+
+#: inc/options/class-wpseo-option-titles.php:961
+msgid "Em dash"
+msgstr "Дълго тире"
+
+#: inc/options/class-wpseo-option-titles.php:957
+msgid "En dash"
+msgstr "Средно тире"
+
+#: inc/options/class-wpseo-option-titles.php:953
+msgid "Dash"
+msgstr "Нормално тире"
+
+#: admin/views/tool-bulk-editor.php:63
+msgid "Posts list"
+msgstr "Списък на публикации"
+
+#: admin/views/tool-bulk-editor.php:62
+msgid "Posts list navigation"
+msgstr "Навигация в списъка с публикации"
+
+#: admin/views/tool-bulk-editor.php:61
+msgid "Filter posts list"
+msgstr "Филтриране на списъка с публикации"
+
+#. translators: Text between 1: and 2: will only be shown to screen readers. 3:
+#. expands to the product name.
+#. translators: Text between 1: and 2: will only be shown to screen readers. 3:
+#. expands to the product name, e.g. "News SEO" or "all the Yoast Plugins"
+#: admin/views/licenses.php:237 admin/views/licenses.php:347
+msgid "More information %1$sabout %3$s%2$s"
+msgstr "Повече информация %1$sотносно %3$s%2$s"
+
+#: admin/views/licenses.php:184 admin/views/licenses.php:294
+msgid "Installed"
+msgstr "Инсталиран"
+
+#: admin/views/licenses.php:178
+msgid "Premium support"
+msgstr "Платена поддръжка"
+
+#: admin/views/licenses.php:63
+msgid "Optimize your site for Google News"
+msgstr "Оптимизира вашия сайт за Google News"
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:813
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Редакция &#8220;%s&#8221;"
+
+#: admin/menu/class-base-menu.php:258
+#: src/integrations/admin/menu-badge-integration.php:35
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/views/partial-notifications-warnings.php:20
+#: inc/class-wpseo-admin-bar-menu.php:389
+msgid "Notifications"
+msgstr "Известия"
+
+#: admin/views/user-profile.php:45
+msgid "Disable SEO analysis"
+msgstr "Деактивиране на SEO анализ"
+
+#: admin/views/tabs/social/twitterbox.php:17
+msgid "Twitter settings"
+msgstr "Настройки за Twitter"
+
+#: admin/views/tabs/social/pinterest.php:16
+msgid "Pinterest settings"
+msgstr "Pinterest настройки"
+
+#: admin/views/tabs/social/facebook.php:18
+msgid "Facebook settings"
+msgstr "Facebook настройки"
+
+#. translators: %s: number of notifications
+#: admin/menu/class-admin-menu.php:118 inc/class-wpseo-admin-bar-menu.php:846
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s известие"
+msgstr[1] "%s известия"
+
+#: admin/views/js-templates-primary-term.php:28
+msgid "Make primary"
+msgstr "Да стане основен"
+
+#: admin/formatter/class-metabox-formatter.php:69
+#: admin/metabox/class-metabox-section-readability.php:28
+#: inc/class-wpseo-admin-bar-menu.php:250
+msgid "Readability"
+msgstr "Четимост"
+
+#: admin/formatter/class-metabox-formatter.php:122
+#: admin/formatter/class-metabox-formatter.php:152
+#: admin/formatter/class-metabox-formatter.php:182
+#: admin/statistics/class-statistics-service.php:217
+#: inc/class-wpseo-rank.php:140 inc/class-wpseo-rank.php:163
+#: inc/class-wpseo-rank.php:195 js/dist/block-editor.js:1
+#: js/dist/block-editor.js:456 js/dist/editor-modules.js:1
+#: js/dist/externals-components.js:113 js/dist/externals/analysis.js:393
+#: js/dist/frontend-inspector-resources.js:1 js/dist/post-edit.js:11
+#: js/dist/term-edit.js:1
+msgid "Needs improvement"
+msgstr "Нуждае се от подобрение"
+
+#: admin/views/user-profile.php:57
+msgid "Disable readability analysis"
+msgstr "Изключване на анализа на четимостта"
+
+#: admin/views/class-yoast-feature-toggles.php:83
+#: js/dist/externals-components.js:34 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:238
+msgid "Readability analysis"
+msgstr "Анализ на четимостта"
+
+#: admin/menu/class-admin-menu.php:54 admin/pages/dashboard.php:32
+msgid "Dashboard"
+msgstr "Табло"
+
+#: admin/formatter/class-metabox-formatter.php:231
+#: js/dist/editor-modules.js:319 js/dist/externals-components.js:15
+#: js/dist/externals/analysisReport.js:35
+msgid "Improvements"
+msgstr "Подобрения"
+
+#: admin/formatter/class-metabox-formatter.php:230
+#: admin/views/partial-notifications-errors.php:20
+#: js/dist/editor-modules.js:319 js/dist/externals-components.js:15
+#: js/dist/externals/analysisReport.js:35
+msgid "Problems"
+msgstr "Проблеми"
+
+#: admin/formatter/class-metabox-formatter.php:202
+#: js/dist/externals/schemaBlocks.js:9
+msgid "Analysis"
+msgstr "Анализ"
+
+#: admin/formatter/class-metabox-formatter.php:115
+#: admin/formatter/class-metabox-formatter.php:145
+#: admin/formatter/class-metabox-formatter.php:175 inc/class-wpseo-rank.php:138
+msgid "Not available"
+msgstr "Липсва"
+
+#: admin/class-meta-columns.php:241
+msgid "Filter by SEO Score"
+msgstr "Филтриране по SEO резултат"
+
+#. translators: %1$s is a link start tag to the permalink settings page, %2$s
+#. is the link closing tag.
+#: src/services/health-check/postname-permalink-reports.php:71
+msgid "You can fix this on the %1$sPermalink settings page%2$s."
+msgstr "Можете да поправите това в страницата %1$sНастройки за постоянните връзки%2$s."
+
+#: admin/views/partial-notifications-errors.php:21
+msgid "We have detected the following issues that affect the SEO of your site."
+msgstr "Открихме следните проблеми, които оказват ефект върху SEO оптимизацията на вашия сайт."
+
+#: admin/views/partial-notifications-errors.php:22
+msgid "Good job! We could detect no serious SEO problems."
+msgstr "Отлично! Не открихме съществени проблеми със SEO."
+
+#: admin/class-meta-columns.php:157
+msgid "Meta description not set."
+msgstr "Полето meta description е празно."
+
+#: inc/class-wpseo-replace-vars.php:1479
+msgid "Replaced with the primary category of the post/page"
+msgstr "Заменено с основната категория на публикацията/страницата"
+
+#: admin/views/tabs/social/pinterest.php:36
+msgid "Pinterest confirmation"
+msgstr "Pinterest свързване"
+
+#: admin/views/tabs/social/pinterest.php:24
+msgid "If you have already confirmed your website with Pinterest, you can skip the step below."
+msgstr "Ако вече сте свързали сайта си с Pinterest, можете да прескочите следващата стъпка."
+
+#: admin/views/tabs/dashboard/webmaster-tools.php:24
+msgid "Webmaster Tools verification"
+msgstr "Свързване с Webmaster Tools"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:48
+msgid "Existing %1$s Title"
+msgstr "Съществуващо %1$s заглавие"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-bulk-title-editor-list-table.php:50
+msgid "New %1$s Title"
+msgstr "Ново %1$s заглавие"
+
+#. translators: $s expands to Yoast SEO Premium
+#. translators: %s expands to the product name, e.g. "News SEO" or "all the
+#. Yoast Plugins"
+#. translators: 1: Yoast WooCommerce SEO
+#: admin/views/licenses.php:224 admin/views/licenses.php:333
+#: js/dist/integrations-page.js:19
+msgid "Buy %s"
+msgstr "Купете %s"
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:294
+msgid "Expected an integer as input."
+msgstr "Трябва да въведете цяло число."
+
+#: inc/sitemaps/class-sitemaps-cache-validator.php:111
+msgid "Trying to build the sitemap cache key, but the postfix and prefix combination leaves too little room to do this. You are probably requesting a page that is way out of the expected range."
+msgstr "Разширението се опитва да генерира ключ за кеширане на sitemap файловете, но комбинацията от представки и наставки оставя твърде малко място за това. Вероятно правите заявка за страница, която е далеч извън очаквания обхват."
+
+#: src/integrations/admin/crawl-settings-integration.php:278
+msgid "Keep"
+msgstr "Запазване"
+
+#: src/integrations/admin/crawl-settings-integration.php:279
+msgid "Remove"
+msgstr "Премахване"
+
+#: admin/pages/network.php:20 admin/views/tabs/dashboard/integrations.php:21
+#: admin/views/tabs/network/integrations.php:22
+#: src/integrations/admin/integrations-page.php:73
+#: js/dist/integrations-page.js:69
+msgid "Integrations"
+msgstr "Интеграции"
+
+#. translators: %s is the taxonomy title. This will be shown to screenreaders
+#: admin/views/js-templates-primary-term.php:38
+msgid "Primary %s"
+msgstr "Основна %s"
+
+#: admin/views/js-templates-primary-term.php:32
+msgid "Primary"
+msgstr "Основна"
+
+#. translators: accessibility text. %1$s expands to the term title, %2$s to the
+#. taxonomy title.
+#: admin/views/js-templates-primary-term.php:18
+msgid "Make %1$s primary %2$s"
+msgstr "%1$s да стане основна %2$s"
+
+#: admin/taxonomy/class-taxonomy-columns.php:172
+msgid "Term is set to noindex."
+msgstr "Терминът е дефиниран като noindex."
+
+#: src/integrations/admin/crawl-settings-integration.php:213
+#: src/presenters/admin/light-switch-presenter.php:120
+msgid "Enabled"
+msgstr "вкл."
+
+#: src/integrations/admin/crawl-settings-integration.php:212
+#: src/presenters/admin/light-switch-presenter.php:120
+msgid "Disabled"
+msgstr "изкл."
+
+#. translators: %s: wp_title() function.
+#: inc/class-wpseo-replace-vars.php:1461
+msgid "The separator defined in your theme's %s tag."
+msgstr "Разделителят, дефиниран в %s тага на използваната тема."
+
+#: inc/class-wpseo-rank.php:139
+msgid "No index"
+msgstr "Noindex"
+
+#: src/deprecated/admin/ryte/class-ryte.php:137
+msgid "Once Weekly"
+msgstr "Веднъж седмично"
+
+#: admin/class-meta-columns.php:100
+#: admin/taxonomy/class-taxonomy-columns.php:87
+#: inc/class-wpseo-admin-bar-menu.php:239
+msgid "SEO score"
+msgstr "SEO точки"
+
+#. translators: %1$s expands to the option name and %2$sexpands to Yoast SEO
+#: inc/options/class-wpseo-option-ms.php:209
+msgid "%1$s is not a valid choice for who should be allowed access to the %2$s settings. Value reset to the default."
+msgstr "%1$s не е валиден избор за това кой има права за достъп до настройките на %2$s. Възстановена е стойността по подразбиране."
+
+#. translators: %s expands to the name of a post type (plural).
+#: inc/class-upgrade.php:1345 inc/options/class-wpseo-option-titles.php:284
+msgid "%s Archive"
+msgstr "%s архив"
+
+#. translators: %s expands to an invalid URL.
+#: inc/options/class-wpseo-option.php:394
+msgid "%s does not seem to be a valid url. Please correct."
+msgstr "%s не прилича на валиден URL. Моля коригирайте."
+
+#: wp-seo-main.php:549
+msgid "Activation failed:"
+msgstr "Грешка при активиране:"
+
+#: inc/class-wpseo-admin-bar-menu.php:419
+msgid "Analyze this page"
+msgstr "Анализиране на страницата"
+
+#: inc/options/class-wpseo-option-titles.php:255
+msgid "Archives for"
+msgstr "Архиви за"
+
+#: inc/options/class-wpseo-option-titles.php:254
+msgid "Error 404: Page not found"
+msgstr "Грешка 404: Страницата не е открита"
+
+#: inc/class-wpseo-admin-bar-menu.php:438
+msgid "Facebook Debugger"
+msgstr "Facebook Debugger"
+
+#: admin/formatter/class-metabox-formatter.php:136
+#: admin/formatter/class-metabox-formatter.php:166
+#: admin/formatter/class-metabox-formatter.php:196
+#: admin/statistics/class-statistics-service.php:227
+#: inc/class-wpseo-rank.php:142 inc/class-wpseo-rank.php:173
+#: inc/class-wpseo-rank.php:205 js/dist/block-editor.js:1
+#: js/dist/block-editor.js:456 js/dist/editor-modules.js:1
+#: js/dist/externals-components.js:113 js/dist/externals/analysis.js:393
+#: js/dist/frontend-inspector-resources.js:1 js/dist/post-edit.js:11
+#: js/dist/term-edit.js:1
+msgid "Good"
+msgstr "Добре"
+
+#: inc/options/class-wpseo-option-titles.php:256
+msgid "Home"
+msgstr "Начало"
+
+#: inc/class-wpseo-admin-bar-menu.php:448
+msgid "Mobile-Friendly Test"
+msgstr "Тест за мобилна съвместимост"
+
+#: inc/options/class-wpseo-option-ms.php:245
+msgid "No numeric value was received."
+msgstr "Не е получена цифрова стойност."
+
+#. translators: %s expands to a taxonomy slug.
+#: inc/options/class-wpseo-option-titles.php:557
+msgid "Please select a valid post type for taxonomy \"%s\""
+msgstr "Моля посочете валиден тип публикация за категория \"%s\""
+
+#. translators: %s expands to a post type.
+#: inc/options/class-wpseo-option-titles.php:519
+msgid "Please select a valid taxonomy for post type \"%s\""
+msgstr "Моля изберете валидна категория за публикация тип \"%s\""
+
+#: inc/class-wpseo-admin-bar-menu.php:615
+#: inc/class-wpseo-admin-bar-menu.php:663
+msgid "SEO Settings"
+msgstr "SEO настройки"
+
+#: inc/options/class-wpseo-option-social.php:110
+msgid "Summary with large image"
+msgstr "Обобщение с голямо изображение"
+
+#. translators: %1$s expands to Yoast SEO, %2$s / %3$s: links to the
+#. installation manual in the Readme for the Yoast SEO code repository on
+#. GitHub
+#: wp-seo-main.php:514
+msgid "The %1$s plugin installation is incomplete. Please refer to %2$sinstallation instructions%3$s."
+msgstr "Инсталацията на разширението %1$s е недовършена. Прочетете %2$sинструкциите за инсталация%3$s."
+
+#: wp-seo-main.php:492
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Разширението Standard PHP Library (SPL) изглежда не е достъпно. Поискайте от вашата хостинг компания да го активира."
+
+#: inc/options/class-wpseo-option-ms.php:229
+#: inc/options/class-wpseo-option-ms.php:245
+msgid "The default blog setting must be the numeric blog id of the blog you want to use as default."
+msgstr "Стойността по подразбиране трябва да бъде цифровият идентификатор на блога, който искате да използвате като отправна точка."
+
+#: wp-seo-main.php:538
+msgid "The filter extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Филтриращото разширение изглежда недостъпно. Моля обърнете се към Вашия уеб хост, за да го активирате."
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "Първото наистина напълно интегрирано SEO решение за WordPress с инструменти за анализ на съдържанието в самата страница, XML sitemap (карта на сайта) и много други възможности."
+
+#. translators: %s is the ID number of a blog.
+#: inc/options/class-wpseo-option-ms.php:233
+msgid "This must be an existing blog. Blog %s does not exist or has been marked as deleted."
+msgstr "Това трябва да бъде съществуващ блог. Блогът %s не съществува или е маркиран като изтрит."
+
+#. Plugin Name of the plugin
+#: admin/capabilities/class-capability-manager-integration.php:72
+#: src/presenters/meta-description-presenter.php:36 js/dist/block-editor.js:456
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: inc/options/class-wpseo-option-titles.php:257
+msgid "You searched for"
+msgstr "Вие търсехте"
+
+#. translators: %s expands to the search phrase.
+#: inc/options/class-wpseo-option-titles.php:249
+msgid "You searched for %s"
+msgstr "Вие потърсихте %s"
+
+#: inc/class-wpseo-admin-bar-menu.php:443
+msgid "Google Page Speed Test"
+msgstr "Google Page Speed тест"
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Team Yoast"
+
+#. translators: 1: Verification string from user input; 2: Service name.
+#: inc/options/class-wpseo-option.php:358
+msgid "%1$s does not seem to be a valid %2$s verification string. Please correct."
+msgstr "%s не прилича на валиден валидационен код за %s. Моля коригирайте."
+
+#. translators: 1: link to post; 2: link to blog.
+#: inc/options/class-wpseo-option-titles.php:252
+msgid "The post %1$s appeared first on %2$s."
+msgstr "Материалът %s е публикуван за пръв път на %s."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/pages/tools.php:49
+msgid "%1$s comes with some very powerful built-in tools:"
+msgstr "%1$s предоставя няколко много мощни вградени инструмента:"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/user-profile.php:11
+msgid "%1$s settings"
+msgstr "Настройки на %1$s"
+
+#. translators: %s expands to the variable used for term title.
+#: admin/formatter/class-term-metabox-formatter.php:164
+#: inc/class-upgrade.php:1348 inc/options/class-wpseo-option-titles.php:320
+msgid "%s Archives"
+msgstr "%s Архиви"
+
+#: admin/pages/tools.php:90
+msgid "&laquo; Back to Tools page"
+msgstr "&laquo; Връщане в страницата с инструменти"
+
+#: inc/class-wpseo-replace-vars.php:108
+msgid "A replacement variable can not start with \"%%cf_\" or \"%%ct_\" as these are reserved for the WPSEO standard variable variables for custom fields and custom taxonomies. Try making your variable name unique."
+msgstr "Името на заместващата променлива не може да започва с \"%%cf_\" или \"%%ct_\", понеже тези префикси на променливи са запазени за нуждите на WPSEO. Опитайте да дадете друго, уникално име."
+
+#: inc/class-wpseo-replace-vars.php:105
+msgid "A replacement variable can only contain alphanumeric characters, an underscore or a dash. Try renaming your variable."
+msgstr "Името на заместващата променлива може да съдържа само букви, цифри, средно и долно тире. Опитайте с друго име."
+
+#: inc/class-wpseo-replace-vars.php:118
+msgid "A replacement variable with the same name has already been registered. Try making your variable name unique."
+msgstr "Вече има регистрирана друга заместваща променлива със същото име. Опитайте с различно уникално име."
+
+#: admin/views/tabs/social/facebook.php:20
+msgid "Add Open Graph meta data"
+msgstr "Добавяне на Open Graph мета данни"
+
+#: admin/views/tabs/social/twitterbox.php:24
+msgid "Add Twitter card meta data"
+msgstr "Добавяне на мета данни за Twitter карти"
+
+#: inc/class-wpseo-replace-vars.php:1520
+msgid "Attachment caption"
+msgstr "Заглавие на прикачения файл"
+
+#: admin/pages/tools.php:42
+msgid "Bulk editor"
+msgstr "Пакетен редактор"
+
+#: admin/views/tabs/dashboard/dashboard.php:52
+msgid "Credits"
+msgstr "Авторство"
+
+#: src/integrations/admin/import-integration.php:117
+msgid "Default settings"
+msgstr "Настройки по подразбиране"
+
+#: admin/views/tool-bulk-editor.php:111 js/dist/new-settings.js:213
+msgid "Description"
+msgstr "Описание"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/tool/wpseo-export.php:15
+msgid "Export your %1$s settings"
+msgstr "Експорт на настройките на %1$s"
+
+#: admin/pages/tools.php:36
+msgid "File editor"
+msgstr "Файлов редактор"
+
+#: admin/views/tabs/tool/import-seo.php:100
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/pages/tools.php:30
+msgid "Import and Export"
+msgstr "Импорт и експорт"
+
+#: admin/views/tabs/tool/import-seo.php:18
+#: admin/views/tabs/tool/import-seo.php:49
+#: admin/views/tool-import-export.php:92
+msgid "Import from other SEO plugins"
+msgstr "Импорт от други SEO разширения"
+
+#: admin/class-export.php:61 admin/views/tabs/tool/wpseo-import.php:25
+#: admin/views/tabs/tool/wpseo-import.php:45
+#: admin/views/tool-import-export.php:86
+msgid "Import settings"
+msgstr "Импорт на настройките"
+
+#: admin/views/user-profile.php:28
+msgid "Meta description to use for Author page"
+msgstr "Мета описание за авторска страница"
+
+#. translators: 1: current page number, 2: total number of pages.
+#: inc/class-wpseo-replace-vars.php:1032
+msgid "Page %1$d of %2$d"
+msgstr "Страница %1$d от %2$d"
+
+#: inc/options/class-wpseo-option-titles.php:250
+msgid "Page not found"
+msgstr "Страницата не е намерена"
+
+#: inc/class-wpseo-replace-vars.php:1525
+msgid "Replaced with a custom taxonomies description"
+msgstr "Заменено със зададено от потребителя описание на категориите"
+
+#: inc/class-wpseo-replace-vars.php:1523
+msgid "Replaced with a posts custom field value"
+msgstr "Заменено със стойност на потребителски дефинирано поле за публикацията"
+
+#: inc/class-wpseo-replace-vars.php:1524
+msgid "Replaced with a posts custom taxonomies, comma separated."
+msgstr "Заменено с потребителски дефинирани категории за публикацията, разделени със запетая."
+
+#: inc/class-wpseo-replace-vars.php:1480
+msgid "Replaced with the category description"
+msgstr "Заменено с описанието на категорията"
+
+#: inc/class-wpseo-replace-vars.php:1487
+msgid "Replaced with the current date"
+msgstr "Заменено с текущата дата"
+
+#: inc/class-wpseo-replace-vars.php:1490
+msgid "Replaced with the current day"
+msgstr "Заменено с днешната дата"
+
+#: inc/class-wpseo-replace-vars.php:1489
+msgid "Replaced with the current month"
+msgstr "Заменено с текущия месец"
+
+#: inc/class-wpseo-replace-vars.php:1519
+msgid "Replaced with the current page number"
+msgstr "Заменено с номера на текущата страницата"
+
+#: inc/class-wpseo-replace-vars.php:1517
+msgid "Replaced with the current page number with context (i.e. page 2 of 4)"
+msgstr "Заместено с номера на текущата страница с контекст (напр. страница 2 от 4)"
+
+#: inc/class-wpseo-replace-vars.php:1518
+msgid "Replaced with the current page total"
+msgstr "Заменено с текущия брой страници"
+
+#: inc/class-wpseo-replace-vars.php:1484
+msgid "Replaced with the current search phrase"
+msgstr "Заменено с текущата фраза за търсене"
+
+#: inc/class-wpseo-replace-vars.php:1488
+msgid "Replaced with the current year"
+msgstr "Заменено с текущата година"
+
+#: inc/class-wpseo-replace-vars.php:1469
+msgid "Replaced with the date of the post/page"
+msgstr "Заменено с датата на публикацията/страницата"
+
+#: inc/class-wpseo-replace-vars.php:1478
+msgid "Replaced with the post categories (comma separated)"
+msgstr "Заменено с категориите на публикацията (разделени със запетая)"
+
+#: inc/class-wpseo-replace-vars.php:1514
+msgid "Replaced with the post/page ID"
+msgstr "Заменено с идентификатора на публикацията/страницата"
+
+#: inc/class-wpseo-replace-vars.php:1516
+msgid "Replaced with the post/page author's 'Biographical Info'"
+msgstr "Заместено със съдържанието на полето 'Биографична информация' за автора на съответната публикация/страница"
+
+#: inc/class-wpseo-replace-vars.php:1515
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Заменено с \"приятното\" име на автора на публикацията/страницата"
+
+#: inc/class-wpseo-replace-vars.php:1475
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "Заменено с извадката на публикацията/страницата (или автоматично генерирано, ако не съществува извадка)"
+
+#: inc/class-wpseo-replace-vars.php:1476
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "Заменено с извадката на публикацията/страницата (без автоматично генериране)"
+
+#: inc/class-wpseo-replace-vars.php:1513
+msgid "Replaced with the post/page modified time"
+msgstr "Заменено с времето на последна промяна на публикацията/страницата"
+
+#: inc/class-wpseo-replace-vars.php:1522
+msgid "Replaced with the slug which caused the 404"
+msgstr "Заменено с краткото заглавие, което причинява 404"
+
+#: inc/class-wpseo-replace-vars.php:1482
+msgid "Replaced with the term description"
+msgstr "Заменено с описанието на термина"
+
+#: inc/class-wpseo-replace-vars.php:1483
+msgid "Replaced with the term name"
+msgstr "Заменено с името на термина"
+
+#: inc/class-wpseo-replace-vars.php:1471
+msgid "Replaced with the title of the parent page of the current page"
+msgstr "Заместено със заглавието на родителската страница на текущата страница"
+
+#: inc/class-wpseo-replace-vars.php:1470
+msgid "Replaced with the title of the post/page"
+msgstr "Заменено със заглавието на публикацията/страницата"
+
+#: inc/class-wpseo-replace-vars.php:1473
+msgid "The site's name"
+msgstr "Име на сайта"
+
+#: admin/views/tabs/social/facebook.php:54
+msgid "This image is used if the post/page being shared does not contain any images."
+msgstr "Това изображение се използва, ако споделената публикация/страница не съдържа никакви изображения."
+
+#: admin/pages/tools.php:37
+msgid "This tool allows you to quickly change important files for your SEO, like your robots.txt and, if you have one, your .htaccess file."
+msgstr "Този инструмент ви позволява бързо да променяте важни за SEO файлове като robots.txt и .htaccess (ако използвате такъв)"
+
+#: admin/pages/tools.php:43
+msgid "This tool allows you to quickly change titles and descriptions of your posts and pages without having to go into the editor for each page."
+msgstr "Този инструмент ви позволява бързо да промените заглавията и описанията на вашите постове и страници, без да се налага да ги редактирате поотделно."
+
+#: admin/views/user-profile.php:24
+msgid "Title to use for Author page"
+msgstr "Заглавие на авторска страница"
+
+#. translators: %1$s / %2$s expands to a link to pinterest.com's help page.
+#: admin/views/tabs/social/pinterest.php:30
+msgid "To %1$sconfirm your site with Pinterest%2$s, add the meta tag here:"
+msgstr "За да %1$sсвържете вашия сайт с Pinterest%2$s, добавете мета тага тук:"
+
+#: inc/class-wpseo-replace-vars.php:122
+msgid "You cannot overrule a WPSEO standard variable replacement by registering a variable with the same name. Use the \"wpseo_replacements\" filter instead to adjust the replacement value."
+msgstr "Не можете да предефинирате стандартна заместваща променлива на WPSEO чрез регистриране на собствена променлива със същото име. Вместо това използвайте филтъра \"wpseo_replacements\", за да промените заместващата стойност."
+
+#: inc/class-wpseo-replace-vars.php:1477
+msgid "Replaced with the current tag/tags"
+msgstr "Заменено с текущия таг или тагове"
+
+#: inc/class-wpseo-replace-vars.php:1481
+msgid "Replaced with the tag description"
+msgstr "Заменено с описанието на тага"
+
+#: admin/statistics/class-statistics-service.php:80
+msgid "Below are your published posts' SEO scores. Now is as good a time as any to start improving some of your posts!"
+msgstr "Отдолу са показани SEO резултатите на публикациите. Моментът е много подходящ да започнете да подобрявате качеството на някои от вашите публикации!"
+
+#. translators: %s expands to robots.txt.
+#: admin/views/tool-file-editor.php:116
+msgid "You don't have a %s file, create one here:"
+msgstr "Нямате %s файл, създайте такъв оттук:"
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:135 admin/views/tool-file-editor.php:235
+msgid "If you had a %s file and it was editable, you could edit it from here."
+msgstr "Ако съществуваше %s файл с права за редактиране, можеше да променяте неговото съдържание оттук."
+
+#. translators: %s expands to robots.txt.
+#. translators: %s expands to ".htaccess".
+#: admin/views/tool-file-editor.php:153 admin/views/tool-file-editor.php:203
+msgid "If your %s were writable, you could edit it from here."
+msgstr "Ако разрешите файла %s за запис, ще можете да го редактирате оттук."
+
+#: inc/class-wpseo-replace-vars.php:1512
+msgid "Replaced with the content type plural label"
+msgstr "Заменено с етикета за множествено число за тип на публикацията"
+
+#: inc/class-wpseo-replace-vars.php:1511
+msgid "Replaced with the content type single label"
+msgstr "Заменено с етикета за единствено число за тип на публикацията"
+
+#. translators: %1$s resolves to Yoast SEO, %2$s resolves to the Settings
+#. submenu item.
+#: src/presenters/meta-description-presenter.php:35
+msgid "Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [%1$s - %2$s] menu and set up a template."
+msgstr "Забележка за администратори: тази страница не показва мета описанието, защото такова липсва. Добавете описание специално за нея или отидете в панела [%1$s - %2$s] и настройте шаблон."
+
+#. translators: %1$s expands to Yoast SEO.
+#: admin/views/licenses.php:122
+msgid "%1$s Extensions"
+msgstr "Разширения за %1$s"
+
+#. translators: %s expands to the name of a site within a multisite network.
+#: admin/class-yoast-network-admin.php:174
+msgid "%s restored to default SEO settings."
+msgstr "%s е възстановен до настройки за SEO по подразбиране."
+
+#: admin/pages/social.php:18
+msgid "Accounts"
+msgstr "Профили"
+
+#: admin/class-plugin-availability.php:60 admin/views/licenses.php:60
+msgid "Are you in Google News? Increase your traffic from Google News by optimizing for it!"
+msgstr "Присъствате ли в Google News? Увеличете своя трафик от тази услуга, като оптимизирате за нея!"
+
+#: vendor_prefixed/wordproof/wordpress-sdk/app/Translations/DefaultTranslations.php:43
+msgid "Authenticate"
+msgstr "Автентикация"
+
+#: admin/views/tabs/network/general.php:40
+msgid "Choose the site whose settings you want to use as default for all sites that are added to your network. If you choose 'None', the normal plugin defaults will be used."
+msgstr "Изберете сайта, чиито настройки желаете да използвате по подразбиране за всички сайтове, които добавяте в своята мрежа. Ако изберете \"нищо\", разширението ще използва стандартните стойности по подразбиране."
+
+#. Translators: %s: expands to Yoast SEO Premium
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:15
+msgid "Creating redirects is a %s feature"
+msgstr "Създаването на пренасочвания е функция на %s"
+
+#: admin/views/tabs/network/general.php:37
+#: admin/views/tabs/network/general.php:43
+msgid "New sites in the network inherit their SEO settings from this site"
+msgstr "Нови сайтове в мрежата наследяват своите SEO настройки от този сайт"
+
+#: admin/class-plugin-availability.php:50 admin/views/licenses.php:46
+msgid "Optimize your videos to show them off in search results and get more clicks!"
+msgstr "Оптимизира вашите видео клипове да се показват в резултатите от търсене и да получават повече посещения."
+
+#: src/integrations/admin/first-time-configuration-integration.php:516
+#: js/dist/new-settings.js:242
+msgid "Person"
+msgstr "Частно лице"
+
+#: admin/class-plugin-availability.php:70 admin/views/licenses.php:32
+msgid "Rank better locally and in Google Maps, without breaking a sweat!"
+msgstr "Показвайте се на по-предни позиции за местни търсения и в Google Maps, без никакви усилия!"
+
+#: admin/views/tabs/network/restore-site.php:32
+msgid "Restore site to defaults"
+msgstr "Възстановяване на настройките на сайта по подразбиране"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:82 admin/views/licenses.php:79
+msgid "Seamlessly integrate WooCommerce with %1$s and get extra features!"
+msgstr "Интегрирайте WooCommerce чрез %1$s, за да получите допълнителни възможности!"
+
+#: admin/class-yoast-network-admin.php:140
+msgid "Settings Updated."
+msgstr "Настройките са обновени."
+
+#: admin/views/tabs/network/general.php:27
+msgid "Site Admins (default)"
+msgstr "Администратори на сайта (по подразбиране)"
+
+#: admin/views/tabs/network/restore-site.php:23
+#: admin/views/tabs/network/restore-site.php:28
+msgid "Site ID"
+msgstr "ID на сайта"
+
+#: admin/views/tabs/network/general.php:54
+msgid "Take note:"
+msgstr "Обърнете внимание:"
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/class-plugin-availability.php:38 admin/views/licenses.php:22
+msgid "The premium version of %1$s with more features & support."
+msgstr "Платената версия на %1$s предлага още по-богати възможности и осигурява професионална поддръжка."
+
+#: admin/views/tool-bulk-editor.php:109 inc/class-wpseo-replace-vars.php:1470
+#: js/dist/externals-redux.js:1
+msgid "Title"
+msgstr "Заглавие"
+
+#. Translators: %1$s: expands to 'Yoast SEO Premium', %2$s: links to Yoast SEO
+#. Premium plugin page.
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:22
+msgid "To be able to create a redirect and fix this issue, you need %1$s. You can buy the plugin, including one year of support and updates, on %2$s."
+msgstr "За да създадете пренасочване и да решите този проблем, се нуждаете от %1$s. Можете да закупите разширението, с включена едногодишна поддръжка и актуализации, от %2$s."
+
+#: admin/views/redirects.php:112
+msgid "URL"
+msgstr "URL адрес"
+
+#: admin/views/tabs/network/restore-site.php:16
+msgid "Using this form you can reset a site to the default SEO settings."
+msgstr "Използването на този формуляр позволява да се възвърнат стандартните SEO настройки."
+
+#. translators: %1$s expands to Yoast SEO
+#: admin/views/tabs/network/general.php:25
+msgid "Who should have access to the %1$s settings"
+msgstr "Кои потребители да имат достъп до настройките на %1$s"
+
+#: admin/class-yoast-network-admin.php:78
+msgid "archived"
+msgstr "архивиран"
+
+#: admin/class-yoast-network-admin.php:79
+msgid "mature"
+msgstr "съдържание за възрастни"
+
+#: admin/class-yoast-network-admin.php:77
+msgid "public"
+msgstr "публично достъпен"
+
+#: admin/class-yoast-network-admin.php:80
+msgid "spam"
+msgstr "спам"
+
+#: admin/views/tabs/network/general.php:28
+msgid "Super Admins only"
+msgstr "Само Super Администратори"
+
+#. translators: 1: link open tag; 2: link close tag.
+#: admin/views/tabs/network/general.php:47
+msgid "Enter the %1$sSite ID%2$s for the site whose settings you want to use as default for all sites that are added to your network. Leave empty for none (i.e. the normal plugin defaults will be used)."
+msgstr "Въведете %sID на сайта%s за този сайт, чиито настройки желаете да използвате по подразбиране за всички нови сайтове, които биват добавяни към вашата мрежа. Оставете празно, ако желаете разширението да използва стандартните стойности по подразбиране."
+
+#: src/deprecated/src/integrations/admin/social-templates-integration.php:219
+msgid "Social settings"
+msgstr "Социални настройки"
+
+#. translators: %s is the plugin name
+#: admin/class-yoast-dashboard-widget.php:75
+msgid "%s Posts Overview"
+msgstr "Преглед на публикациите на %s"
+
+#: admin/google_search_console/views/gsc-redirect-nopremium.php:27
+#: js/dist/externals-components.js:78 js/dist/externals/componentsNew.js:136
+#: js/dist/indexables-page.js:43 js/dist/indexables-page.js:44
+#: js/dist/new-settings.js:1 js/dist/new-settings.js:22
+msgid "Close"
+msgstr "Затваряне"
+
+#. translators: %s: 'Facebook' plugin name of possibly conflicting plugin
+#: admin/class-yoast-plugin-conflict.php:182
+msgid "Deactivate %s"
+msgstr "Деактивиране на %s"
+
+#: admin/pages/social.php:19 js/dist/block-editor.js:456
+#: js/dist/first-time-configuration.js:1 js/dist/new-settings.js:18
+#: js/dist/new-settings.js:244 js/dist/settings.js:1
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/class-meta-columns.php:108
+msgid "Meta Desc."
+msgstr "Мета описание"
+
+#: admin/formatter/class-metabox-formatter.php:129
+#: admin/formatter/class-metabox-formatter.php:159
+#: admin/statistics/class-statistics-service.php:222
+#: inc/class-wpseo-rank.php:141 inc/class-wpseo-rank.php:168
+#: inc/class-wpseo-rank.php:200 js/dist/block-editor.js:1
+#: js/dist/editor-modules.js:1 js/dist/externals-components.js:113
+#: js/dist/externals/analysis.js:393 js/dist/frontend-inspector-resources.js:1
+#: js/dist/post-edit.js:11 js/dist/term-edit.js:1
+msgid "OK"
+msgstr "ОК"
+
+#: admin/pages/social.php:21 js/dist/new-settings.js:18
+#: js/dist/new-settings.js:252
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/pages/social.php:20 js/dist/block-editor.js:456
+#: js/dist/first-time-configuration.js:1 js/dist/new-settings.js:244
+#: js/dist/settings.js:1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/class-yoast-form.php:741 admin/metabox/class-metabox.php:645
+#: admin/taxonomy/class-taxonomy-fields-presenter.php:127
+msgid "Upload Image"
+msgstr "Качване на изображение"
+
+#. translators: %1$s: 'Facebook & Open Graph' plugin name(s) of possibly
+#. conflicting plugin(s), %2$s to Yoast SEO
+#: admin/class-yoast-plugin-conflict.php:178
+msgid "The %1$s plugin might cause issues when used in conjunction with %2$s."
+msgstr "Разширението %1$s може да създаде проблеми при съвместна работа с %2$s."
+
+#: admin/class-meta-columns.php:245
+msgid "All SEO Scores"
+msgstr "Всички СЕО резултати"
+
+#: admin/metabox/class-metabox.php:928
+#: src/integrations/third-party/elementor.php:459
+msgid "SEO issue: The featured image should be at least 200 by 200 pixels to be picked up by Facebook and other social media sites."
+msgstr "Основното изображение трябва да е с размери минимум 200х200 пиксела, за да бъде възприето от Facebook и други социални мрежи."
+
+#. translators: %1$s expands to Yoast SEO, %2$s: 'Google XML Sitemaps' plugin
+#. name of possibly conflicting plugin with regard to the creation of sitemaps.
+#: admin/class-plugin-conflict.php:76
+msgid "Both %1$s and %2$s can create XML sitemaps. Having two XML sitemaps is not beneficial for search engines and might slow down your site."
+msgstr "Както %1$s, така и %2$s могат да създават XML карта (sitemap). Наличието на две XML карти не носи ползи за търсещите машини, а същевременно може да забави вашия сайт."
+
+#: src/services/health-check/default-tagline-runner.php:31
+msgid "Just another WordPress site"
+msgstr "Поредният WordPress сайт"
+
+#. translators: %s expands to the number of posts in localized format.
+#: admin/class-bulk-editor-list-table.php:293
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Всяка <span class=\"count\">(%s)</span>"
+msgstr[1] "Всички <span class=\"count\">(%s)</span>"
+
+#. translators: %s expands to the number of trashed posts in localized format.
+#: admin/class-bulk-editor-list-table.php:342
+msgctxt "posts"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] "Изтрит <span class=\"count\">(%s)</span>"
+msgstr[1] "Изтрити <span class=\"count\">(%s)</span>"
+
+#. translators: %s is the name of the plugin
+#: admin/class-customizer.php:86
+msgid "%s Breadcrumbs"
+msgstr "%s пътечка"
+
+#: admin/metabox/class-metabox.php:882 admin/taxonomy/class-taxonomy.php:160
+#: admin/taxonomy/class-taxonomy.php:289
+#: src/integrations/third-party/elementor.php:413
+msgid "(no parent)"
+msgstr "(без родител)"
+
+#: admin/metabox/class-metabox.php:208
+msgid "301 Redirect"
+msgstr "301 пренасочване"
+
+#: admin/class-bulk-editor-list-table.php:1011
+msgid "Action"
+msgstr "Действие"
+
+#: admin/class-customizer.php:145
+msgid "Anchor text for the homepage:"
+msgstr "Анкер текст за заглавната страница:"
+
+#: admin/class-customizer.php:193
+msgid "Breadcrumb for 404 pages:"
+msgstr "Пътечка за 404 страница:"
+
+#: admin/metabox/class-metabox.php:190 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "Breadcrumbs Title"
+msgstr "Заглавие на пътечката"
+
+#: admin/class-customizer.php:132
+msgid "Breadcrumbs separator:"
+msgstr "Разделител за елементите на пътечката"
+
+#: admin/class-bulk-editor-list-table.php:814
+#: js/dist/first-time-configuration.js:14
+#: js/dist/first-time-configuration.js:226 js/dist/indexables-page.js:34
+#: js/dist/indexables-page.js:35 js/dist/indexables-page.js:46
+#: js/dist/installation-success.js:13
+msgid "Edit"
+msgstr "Редакция"
+
+#: admin/menu/class-network-admin-menu.php:63
+msgid "Edit Files"
+msgstr "Редактиране на файлове"
+
+#: admin/class-bulk-description-editor-list-table.php:46
+msgid "Existing Yoast Meta Description"
+msgstr "Съществуващо Yoast мета описание"
+
+#: admin/menu/class-network-admin-menu.php:66
+msgid "Extensions"
+msgstr "Разширения"
+
+#: admin/class-admin.php:231 js/dist/structured-data-blocks.js:13
+msgid "FAQ"
+msgstr "Често задавани въпроси"
+
+#: admin/class-bulk-editor-list-table.php:420 admin/views/redirects.php:141
+msgid "Filter"
+msgstr "Филтър"
+
+#: inc/class-wpseo-replace-vars.php:1521
+msgid "Focus keyword"
+msgstr "Целева ключова дума"
+
+#: admin/menu/class-admin-menu.php:89
+#: admin/menu/class-network-admin-menu.php:56 admin/pages/network.php:18
+#: js/dist/new-settings.js:254
+msgid "General"
+msgstr "Общи настройки"
+
+#: src/presenters/admin/search-engines-discouraged-presenter.php:33
+msgid "Huge SEO Issue: You're blocking access to robots."
+msgstr "Голям SEO проблем: достъпът на роботите е блокиран!"
+
+#: admin/class-bulk-description-editor-list-table.php:47
+msgid "New Yoast Meta Description"
+msgstr "Ново Yoast мета описание"
+
+#: admin/metabox/class-metabox.php:187 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "No Archive"
+msgstr "Без архив"
+
+#: admin/metabox/class-metabox.php:186 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "No Image Index"
+msgstr "Няма индекс на изображението"
+
+#: admin/metabox/class-metabox.php:188 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "No Snippet"
+msgstr "Без извадка"
+
+#: admin/class-yoast-network-admin.php:43 src/config/schema-types.php:163
+#: js/dist/new-settings.js:258
+msgid "None"
+msgstr "Няма"
+
+#: admin/class-bulk-editor-list-table.php:1006
+msgid "Page URL/Slug"
+msgstr "URL/Кратко име на страницата (slug) "
+
+#: admin/class-bulk-editor-list-table.php:1004
+msgid "Post Status"
+msgstr "Статус на публикацията"
+
+#: admin/ajax.php:150
+msgid "Post doesn't exist."
+msgstr "Публикацията не съществува."
+
+#: admin/class-meta-columns.php:700
+msgid "Post is set to noindex."
+msgstr "Публикацията е със статут noindex."
+
+#: admin/class-admin.php:184
+msgid "Posts"
+msgstr "Публикации"
+
+#: admin/class-customizer.php:169
+msgid "Prefix for archive pages:"
+msgstr "Префикс за архивните страници:"
+
+#: admin/class-customizer.php:157
+msgid "Prefix for breadcrumbs:"
+msgstr "Префикс за пътечките:"
+
+#: admin/class-customizer.php:181
+msgid "Prefix for search result pages:"
+msgstr "Префикс за страниците с резултати от търсения:"
+
+#: admin/class-bulk-editor-list-table.php:826
+msgid "Preview"
+msgstr "Преглед"
+
+#: admin/class-bulk-editor-list-table.php:1005
+msgid "Publication date"
+msgstr "Дата на публикуване"
+
+#: admin/metabox/class-metabox.php:411
+#: admin/taxonomy/class-taxonomy-metabox.php:140
+#: inc/class-wpseo-admin-bar-menu.php:694
+#: src/services/health-check/report-builder.php:168
+#: js/dist/structured-data-blocks.js:13
+msgid "SEO"
+msgstr "SEO"
+
+#: admin/class-meta-columns.php:107
+msgid "SEO Title"
+msgstr "SEO заглавие"
+
+#: admin/menu/class-admin-menu.php:91
+msgid "Search Console"
+msgstr "Search Console"
+
+#: admin/class-admin.php:226 admin/views/redirects.php:42
+#: src/integrations/settings-integration.php:301
+#: src/presenters/meta-description-presenter.php:37
+#: js/dist/structured-data-blocks.js:9
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/import/class-import-settings.php:85
+msgid "Settings could not be imported:"
+msgstr "Настройките не могат да бъдат импортирани:"
+
+#: admin/import/class-import-settings.php:117
+msgid "Settings successfully imported."
+msgstr "Настройките бяха успешно импортирани."
+
+#: admin/metabox/class-metabox.php:436
+#: admin/taxonomy/class-taxonomy-metabox.php:158 js/dist/new-settings.js:18
+msgid "Social"
+msgstr "Социални профили"
+
+#: admin/metabox/class-metabox.php:209
+msgid "The URL that this page should redirect to."
+msgstr "URL адресът, към който пренасочва тази страница."
+
+#: admin/metabox/class-metabox.php:191
+msgid "Title to use for this page in breadcrumb paths"
+msgstr "Заглавие на страницата, което да се използва за пътечките"
+
+#: admin/menu/class-admin-menu.php:95 js/dist/new-settings.js:238
+msgid "Tools"
+msgstr "Инструменти"
+
+#: admin/class-admin.php:308
+msgid "Twitter username (without @)"
+msgstr "Twitter потребител (без @)"
+
+#: admin/class-config.php:104 admin/metabox/class-metabox.php:907
+#: admin/taxonomy/class-taxonomy.php:175
+#: src/integrations/third-party/elementor.php:439
+msgid "Use Image"
+msgstr "Използване на изображение"
+
+#: admin/class-bulk-editor-list-table.php:836 js/dist/block-editor.js:303
+#: js/dist/classic-editor.js:299 js/dist/dashboard-widget.js:1
+#: js/dist/dashboard-widget.js:20 js/dist/editor-modules.js:261
+#: js/dist/elementor.js:303
+msgid "View"
+msgstr "Показване"
+
+#: admin/class-bulk-editor-list-table.php:1002
+msgid "WP Page Title"
+msgstr "Заглавие на WP страница"
+
+#: admin/metabox/class-metabox.php:172
+msgid "Warning: even though you can set the meta robots setting here, the entire site is set to noindex in the sitewide privacy settings, so these settings won't have an effect."
+msgstr "Внимание: въпреки че можете да задавате настройки за meta robots оттук, целият сайт е с активен noindex в глобалните настройки за сигурност и промените тук няма да имат ефект."
+
+#. translators: %s expands to the name of a post type (plural).
+#: admin/ajax.php:185
+msgid "You can't edit %s that aren't yours."
+msgstr "Не можете да редактирате %s, които не са ваши."
+
+#. translators: %s expands to post type name.
+#: admin/ajax.php:173
+msgid "You can't edit %s."
+msgstr "Не може да редактирате %s."
+
+#: admin/ajax.php:194
+msgid "You have used HTML in your value which is not allowed."
+msgstr "В полето е използван HTML код, което не е позволено."
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:825
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Преглед на \"%s\""
+
+#. translators: %s: post title
+#: admin/class-bulk-editor-list-table.php:835
+msgid "View &#8220;%s&#8221;"
+msgstr "Показване на \"%s\""
+
+#: admin/class-admin.php:301
+msgid "Facebook profile URL"
+msgstr "URL на Facebook профил"
+
+#: admin/metabox/class-metabox.php:184 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "Meta robots advanced"
+msgstr "Разширени настройки за Meta robots"
+
+#: admin/metabox/class-metabox.php:167 js/dist/externals/analysis.js:393
+#: js/dist/externals/replacementVariableEditor.js:78
+#: js/dist/externals/searchMetadataPreviews.js:259 js/dist/new-settings.js:9
+#: js/dist/new-settings.js:11 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:18 js/dist/new-settings.js:51
+#: js/dist/new-settings.js:62 js/dist/new-settings.js:86
+#: js/dist/new-settings.js:109 js/dist/new-settings.js:168
+#: js/dist/new-settings.js:182 js/dist/new-settings.js:192
+#: js/dist/new-settings.js:211
+msgid "Meta description"
+msgstr "Meta описание"
+
+#: admin/metabox/class-metabox.php:193 js/dist/block-editor.js:393
+#: js/dist/classic-editor.js:389 js/dist/elementor.js:393
+msgid "Canonical URL"
+msgstr "Canonical URL"
+
+#. translators: %1$s expands to Yoast SEO, %2$s expands to the installed
+#. version, %3$s expands to Gutenberg
+#: admin/class-admin-gutenberg-compatibility-notification.php:88
+msgid "%1$s detected you are using version %2$s of %3$s, please update to the latest version to prevent compatibility issues."
+msgstr "Според %1$s, използвате версия %2$s на %3$s. За да предотвратите проблеми със съвместимостта, моля актуализирайте до най-новата версия."
+
+#. translators: %s expands to post type.
+#: admin/ajax.php:161
+msgid "Post has an invalid Content Type: %s."
+msgstr "Публикацията има невалиден тип: %s."
+
+#: admin/views/class-yoast-feature-toggles.php:136 js/dist/new-settings.js:14
+#: js/dist/new-settings.js:239 js/dist/new-settings.js:240
+msgid "XML sitemaps"
+msgstr "XML карта на сайта"

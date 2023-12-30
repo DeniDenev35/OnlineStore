@@ -1,0 +1,27 @@
+# Plugin [sh_wp_version_hider] whitelist START
+SetEnvIf Request_URI "/plugins/sh_wp_version_hider.php$" d9a726e6080480da3347b7ec40738d38
+SetEnvIf Request_URI "/plugins/sh_wp_version_hider/(.*).php$" d9a726e6080480da3347b7ec40738d38
+# Plugin [sh_wp_version_hider] whitelist END
+# Theme [twentytwentyone] whitelist START
+SetEnvIf Request_URI "/themes/twentytwentyone/(.*).php$" d9a726e6080480da3347b7ec40738d38
+# Theme [twentytwentyone] whitelist END
+
+
+###########################################################################
+
+<FilesMatch "\.(php)$">
+Order Deny,Allow
+Allow from env=d9a726e6080480da3347b7ec40738d38
+Deny from all
+</FilesMatch>
+
+
+###########################################################################
+
+
+# BEGIN ShortPixelWebp
+# Директивите (редовете) между "BEGIN ShortPixelWebp" и "END ShortPixelWebp" са
+# динамично генерирани и трябва да се променят само чрез филтрите на WordPress.
+# Всяка промяна на директивите между тези маркери ще бъде заличена.
+
+# END ShortPixelWebp

@@ -1,0 +1,11 @@
+/home/vseobsht/public_html/wp-content/plugins/really-simple-ssl/readme.txt:648 http:// links, as these should always be https on an SSL site.
+/home/vseobsht/public_html/wp-content/themes/engage-news/functions.php:433 http://twitter.com/share?text=
+/home/vseobsht/public_html/wp-content/themes/engage-news/functions.php:435 http://pinterest.com/pin/create/button/?url=
+/home/vseobsht/public_html/wp-content/themes/engage-news/functions.php:436 http://www.linkedin.com/shareArticle?mini=true&title=
+/home/vseobsht/public_html/wp-content/themes/engage-mag/candidthemes/functions/hook-misc.php:180 http://twitter.com/share?text=
+/home/vseobsht/public_html/wp-content/themes/engage-mag/candidthemes/functions/hook-misc.php:182 http://pinterest.com/pin/create/button/?url=
+/home/vseobsht/public_html/wp-content/themes/engage-mag/candidthemes/functions/hook-misc.php:183 http://www.linkedin.com/shareArticle?mini=true&title=
+/home/vseobsht/public_html/wp-content/themes/engage-mag/candidthemes/customizer-pro/class-customize.php:133 http://docs.candidthemes.com/engage-mag/
+/home/vseobsht/public_html/wp-content/themes/aeonmag/aeonwp/hooks/social-sharing.php:28 http://twitter.com/share?text=
+/home/vseobsht/public_html/wp-content/themes/aeonmag/aeonwp/hooks/social-sharing.php:30 http://pinterest.com/pin/create/button/?url=
+/home/vseobsht/public_html/wp-content/themes/aeonmag/aeonwp/hooks/social-sharing.php:31 http://www.linkedin.com/shareArticle?mini=true&title=

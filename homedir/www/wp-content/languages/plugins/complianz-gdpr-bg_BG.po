@@ -1,0 +1,4320 @@
+# Translation of Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release) in Bulgarian
+# This file is distributed under the same license as the Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-19 04:30:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: bg\n"
+"Project-Id-Version: Plugins - Complianz &#8211; GDPR/CCPA Cookie Consent - Stable (latest release)\n"
+
+#: templates/dashboard/tools-conditional.php:37
+msgid "Records of consent"
+msgstr "Записи на съгласието"
+
+#: DNSMPD/class-DNSMPD-table.php:168 DNSMPD/csv.php:60
+msgid "Date"
+msgstr "Дата"
+
+#: DNSMPD/class-DNSMPD-table.php:165
+msgid "Region"
+msgstr "Регион"
+
+#: config/documents/documents.php:96
+msgid "Privacy Statement (CA)"
+msgstr "Декларация за поверителност (CA)"
+
+#: config/documents/documents.php:41
+msgid "Privacy Statement (EU)"
+msgstr "Декларация за поверителност (ЕС)"
+
+#: config/documents/documents.php:59
+msgid "Privacy Statement (US)"
+msgstr "Декларация за поверителност (САЩ)"
+
+#: cookiebanner/templates/cookiebanner.php:35
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:552
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:697
+msgid "Always active"
+msgstr "Винаги активен"
+
+#: cookiebanner/templates/cookiebanner.php:120
+msgid "Manage options"
+msgstr "Управление на опциите"
+
+#: cookiebanner/templates/cookiebanner.php:122
+msgid "Manage vendors"
+msgstr "Управление на доставчици"
+
+#: cookiebanner/templates/cookiebanner.php:123
+msgid "Read more about these purposes"
+msgstr "Прочетете повече за тези цели"
+
+#: cookiebanner/settings.php:803
+msgid "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes."
+msgstr "Техническото съхранение или достъпът са необходими за създаване на потребителски профили за изпращане на реклами или за проследяване на потребителя на даден уебсайт или на няколко уебсайта за подобни маркетингови цели."
+
+#: cookiebanner/settings.php:777
+msgid "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you."
+msgstr "Техническото съхранение или достъп, които се използват изключително за анонимни статистически цели. Без съдебна призовка, доброволно изпълнение от страна на Вашия доставчик на интернет услуги или допълнителни записи от трета страна, информацията, съхранявана или извличана само за тази цел, обикновено не може да се използва за идентифицирането Ви."
+
+#: cookiebanner/settings.php:763
+msgid "The technical storage or access that is used exclusively for statistical purposes."
+msgstr "Техническото съхранение или достъп, които се използват изключително за статистически цели."
+
+#: cookiebanner/settings.php:743
+msgid "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user."
+msgstr "Техническото съхранение или достъпът са необходими за легитимната цел да се съхраняват предпочитания, които не са поискани от абоната или потребителя."
+
+#: cookiebanner/settings.php:723
+msgid "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network."
+msgstr "Техническото съхраняване или достъпът са строго необходими за легитимната цел да се даде възможност за използване на конкретна услуга, изрично поискана от абоната или потребителя, или единствено с цел да се осъществи предаване на съобщение по електронна съобщителна мрежа."
+
+#: class-field.php:2485 class-field.php:2816
+msgid "Category"
+msgstr "Категория"
+
+#: config/class-config.php:688
+msgid "As Complianz handles all the functionality this plugin provides, you should disable this plugin to prevent unexpected behaviour."
+msgstr "Тъй като Complianz обработва цялата функционалност, която предоставя тази приставка, трябва да деактивирате тази приставка, за да предотвратите неочаквано поведение."
+
+#: config/class-config.php:568
+msgid "You don't have SSL on your site yet. Install SSL for Free with %sReally Simple SSL%s"
+msgstr "Все още нямате SSL на вашия сайт. Инсталирайте безплатно SSL с %sReally Simple SSL%s"
+
+#: cookiebanner/cookiebanner.php:491
+msgid "Disable Complianz on this page"
+msgstr "Деактивирайте Complianz на тази страница"
+
+#: config/documents/documents.php:124
+msgid "Cookie Policy (ZA)"
+msgstr "Политика за бисквитки (ZA)"
+
+#: config/countries.php:110
+msgid "ZA"
+msgstr "ZA"
+
+#: cookiebanner/settings.php:325
+msgid "A privacy-friendly cookie wall."
+msgstr "Лесна за употреба стена за поверителност на бисквитките."
+
+#: cookiebanner/settings.php:91
+msgid "You can customize the cookie banner with custom CSS for endless possibilities."
+msgstr "Можете да персонализирате банера с бисквитки с персонализиран CSS за безкрайни възможности."
+
+#: config/countries.php:103
+msgid "APA"
+msgstr "APA"
+
+#: config/countries.php:100
+msgid "AU"
+msgstr "AU"
+
+#: config/questions-wizard.php:69
+msgid "Do you target visitors from Germany, Austria, Belgium and/or Spain?"
+msgstr "Насочвате ли се към посетители от Германия, Австрия, Белгия и/или Испания?"
+
+#: config/steps.php:61
+msgctxt "intro statistics"
+msgid "Below you can choose to implement your statistics tooling with Complianz. We will add the needed snippets and control consent at the same time."
+msgstr "По-долу можете да изберете да приложите инструментите си за статистика с Complianz. Ще добавим необходимите фрагменти и ще контролираме съгласието си едновременно."
+
+#: config/documents/cookie-policy-eu.php:6
+msgctxt "Legal document cookie policy"
+msgid "This Cookie Policy was last updated on %s and applies to citizens and legal permanent residents of the European Economic Area and Switzerland"
+msgstr "Тази Политика за бисквитките е актуализирана за последен път на %s и се прилага за граждани и законно пребиваващи в Европейското икономическо пространство."
+
+#: config/purpose.php:12
+msgid "Deliveries"
+msgstr "Доставки"
+
+#: cookie/class-cookie-admin.php:1562
+msgid "A Processor or Service Provider is the party that processes personal data on behalf of a responsible organization or person. If you are this organization or person, you should probably sign a Processing Agreement with them. You can use a Processing Agreement outside of Complianz, or generate one here."
+msgstr "Обработващ или Доставчик на услуги е страната, която обработва лични данни от името на отговорна организация или лице. Ако сте тази организация или лице, вероятно трябва да подпишете споразумение за обработка с тях. Можете да използвате Споразумение за обработка извън Complianz или да генерирате такова тук."
+
+#: cookie/class-cookie-admin.php:1573 templates/dashboard/documents.php:74
+msgid "Create"
+msgstr "Създаване"
+
+#: cookie/class-cookie-admin.php:3519
+msgid "Scan"
+msgstr "Сканиране"
+
+#: cookie/class-cookie-admin.php:3571
+msgid "Sync"
+msgstr "Синхронизация"
+
+#: cookie/class-cookie-admin.php:3594
+msgid "Syncing..."
+msgstr "Синхронизиране..."
+
+#: cookie/class-cookie-admin.php:481
+msgid "Either try again, or if this fails; our moderators will investigate further and automatically update the descriptions."
+msgstr "Или опитайте отново, или ако това не успее; нашите модератори ще проучат допълнително и автоматично ще актуализират описанията."
+
+#: cookie/class-cookie-admin.php:479
+msgid "Our moderators will keep the cookies up-to-date."
+msgstr "Нашите модератори ще поддържат бисквитките актуални."
+
+#: config/steps.php:88
+msgid "Service descriptions"
+msgstr "Описания на услугата"
+
+#: cookie/class-cookie-admin.php:949 cookie/class-cookie-admin.php:1292
+msgid "You haven't accepted the usage of the cookiedatabase.org API. To automatically complete your cookie descriptions, please choose yes."
+msgstr "Не сте приели използването на cookiedatabase.org API. За да завършите автоматично описанията на бисквитките, моля, изберете \"да\" в стъпката за интеграция."
+
+#: config/steps.php:80
+msgid "Complianz provides your Cookie Policy with comprehensive cookie descriptions, supplied by cookiedatabase.org."
+msgstr "Complianz предоставя политика за бисквитките с изчерпателни описания за бисквитките, предоставени от cookiedatabase.org."
+
+#: config/steps.php:78
+msgid "Cookie descriptions"
+msgstr "Описания на бисквитките"
+
+#: config/steps.php:57
+msgid "For more information, %sread our 5 tips%s about the cookie scan."
+msgstr "За повече информация, %sпрочетете нашите 5 съвета%s относно сканирането на бисквитки."
+
+#: config/steps.php:14
+msgctxt "intro first step"
+msgid "Hover over the question mark behind certain questions for more information."
+msgstr "За да получите повече информация, задръжте курсора на мишката върху въпросителен знак зад определени въпроси."
+
+#: config/steps.php:15
+msgctxt "intro first step"
+msgid "Important notices and relevant articles are shown in the right column."
+msgstr "Важните известия и съответните статии са показани в дясната колона."
+
+#: config/steps.php:13
+msgctxt "intro first step"
+msgid "There are a few things to assist you during configuration:"
+msgstr "Има няколко неща, които да ви помогнат по време на конфигурирането:"
+
+#: config/steps.php:16
+msgctxt "intro first step"
+msgid "You can always %slog a support ticket%s if you need further assistance."
+msgstr "Винаги можете да поставите %sбилет за поддръжка%s, ако имате нужда от допълнителна помощ."
+
+#: config/steps.php:12
+msgctxt "intro first step"
+msgid "The Complianz Wizard will guide you through the necessary steps to configure your website for privacy legislation around the world. We designed the wizard to be comprehensible, without making concessions in legal compliance."
+msgstr "Съветникът Complianz ще ви преведе през необходимите стъпки за конфигуриране на вашия уеб сайт за законодателство за поверителност по целия свят. Проектирахме съветника така, че да бъде разбираем, без да правим отстъпки в съответствие със закона."
+
+#: config/class-config.php:625
+msgid "After the issue has been resolved, please re-run a scan to clear this message."
+msgstr "След като проблемът е разрешен, моля, пуснете отново сканиране, за да изчистите това съобщение."
+
+#: config/class-config.php:558
+msgid "All required pages have been generated."
+msgstr "Всички необходими страници са генерирани."
+
+#: config/general-settings.php:12
+msgid "Enable GEO IP"
+msgstr "Активирайте GEO IP"
+
+#: config/class-config.php:547
+msgid "Last cookie scan completed on %s."
+msgstr "Последното сканиране на бисквитки завърши на %s."
+
+#: config/class-config.php:548
+msgid "No cookie scan has been completed yet."
+msgstr "Все още не е завършено сканиране на бисквитки."
+
+#: config/class-config.php:559
+msgid "Not all required pages have been generated."
+msgstr "Не всички необходими страници са генерирани."
+
+#: config/class-config.php:660
+msgid "Pretty permalinks are not enabled on your site. This can cause issues with the REST API, used by Complianz."
+msgstr "Доста постоянните връзки не са активирани на вашия сайт. Това може да причини проблеми с REST API, използван от Complianz."
+
+#: config/general-settings.php:357
+msgid "Reset"
+msgstr "Ресет"
+
+#: config/general-settings.php:380
+msgid "Restart plugin tour"
+msgstr "Рестартирайте обиколката на приставката"
+
+#: config/general-settings.php:412
+msgid "When content is loaded with ajax, for example with a load more button or lightbox, this option could help blocking the service correctly"
+msgstr "Когато съдържанието се зарежда с ajax, например с бутон за зареждане на повече или лайтбокс, тази опция може да помогне за правилното блокиране на услугата"
+
+#: config/class-config.php:520
+msgid "You have currently selected an informal language, which will result in informal use of language on the legal documents. If you prefer the formal style, you can activate this in the %sgeneral settings%s."
+msgstr "Понастоящем сте избрали неформален език, което ще доведе до неформално използване на езика в правните документи. Ако предпочитате официалния стил, можете да активирате това в %sобщите настройки%s."
+
+#: config/questions-wizard.php:383
+msgid "In some countries, like Germany, Austria, Belgium or Spain, consent is required for statistics, even if the data is anonymized."
+msgstr "В някои страни, като Германия, Австрия, Белгия или Испания, се изисква съгласие за статистически данни, дори ако данните са анонимизирани."
+
+#: config/questions-wizard.php:658
+msgid "When possible a placeholder is activated. You can also disable or configure the placeholder to your liking. You can disable services and placeholders under Integrations."
+msgstr "Когато е възможно, се активира заместител. Можете също така да деактивирате или конфигурирате заместителя по ваш вкус. Можете да деактивирате услуги и резервни части под Интеграции."
+
+#: config/class-config.php:483
+msgid "Complianz GDPR/CCPA %s. Learn more about our newest release."
+msgstr "Complianz GDPR/CCPA %s. Научете повече относно нашите нови основни обновления."
+
+#: cookiebanner/settings.php:190
+msgid "Animation"
+msgstr "Анимация"
+
+#: cookiebanner/edit.php:46
+msgid "Appearance"
+msgstr "Външен Вид"
+
+#: cookiebanner/settings.php:339 cookiebanner/settings.php:347
+#: cookiebanner/settings.php:417 cookiebanner/settings.php:445
+#: cookiebanner/settings.php:471 cookiebanner/settings.php:500
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:300
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:340
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:203
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:284
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:299
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:339
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:286
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:322
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:300
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:340
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:444
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:484
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:659
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:699
+msgid "Background"
+msgstr "Фон"
+
+#: cookiebanner/edit.php:60
+msgid "Banner settings"
+msgstr "Настройки на банера"
+
+#: cookiebanner/settings.php:351 cookiebanner/settings.php:449
+#: cookiebanner/settings.php:475 cookiebanner/settings.php:504
+msgid "Border"
+msgstr "Рамка"
+
+#: cookiebanner/settings.php:388 cookiebanner/settings.php:527
+msgid "Border radius"
+msgstr "Радиус на рамката"
+
+#: cookiebanner/settings.php:401
+msgid "Border width"
+msgstr "Широчина на рамката"
+
+#: class-field.php:1514 class-field.php:1594 cookiebanner/settings.php:179
+msgid "Bottom"
+msgstr "Отдолу"
+
+#: cookiebanner/settings.php:308
+msgid "Box shadow"
+msgstr "Сянка на кутията"
+
+#: cookiebanner/settings.php:421
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:409
+msgid "Bullet"
+msgstr "Булет"
+
+#: cookiebanner/settings.php:435
+msgid "Buttons"
+msgstr "Бутони"
+
+#: class-field.php:1942
+msgid "Choose file"
+msgstr "Посочете файл"
+
+#: cookiebanner/settings.php:368
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:215
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:297
+msgid "Color"
+msgstr "Цвят"
+
+#: cookiebanner/edit.php:53
+msgid "Customization"
+msgstr "Персонализиране"
+
+#: config/general-settings.php:81
+msgid "Do you want to hyperlink cookie names so visitors can find more information on Cookiedatabase.org?"
+msgstr "Искате ли да направите имената на бисквитките с хипер връзки за да може посетителите да намерят повече информация на Cookiedatabase.org?"
+
+#: cookiebanner/settings.php:193
+msgid "Fade"
+msgstr "Замъгляване"
+
+#: cookiebanner/settings.php:146
+msgid "Hide preview"
+msgstr "Скриване на визуализацията"
+
+#: cookiebanner/settings.php:372
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:56
+msgid "Hyperlink"
+msgstr "Хипервръзка"
+
+#: class-field.php:1948
+msgid "Import"
+msgstr "Импорт"
+
+#: cookiebanner/settings.php:425
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:394
+msgid "Inactive"
+msgstr "неактивни"
+
+#: class-field.php:1519 class-field.php:1599
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:132
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:131
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:126
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:132
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:127
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:269
+msgid "Left"
+msgstr "Ляво"
+
+#: cookiebanner/settings.php:608 cookiebanner/settings.php:609
+msgid "Manage Cookie Consent"
+msgstr "Управление на съгласието за бисквитки"
+
+#: config/questions-wizard.php:155
+msgid "Name or company name"
+msgstr "Име или име на фирма"
+
+#: class-field.php:1950
+msgid "No file chosen"
+msgstr "Няма избран файл"
+
+#: config/questions-wizard.php:56 cookiebanner/settings.php:192
+msgid "None"
+msgstr "Няма"
+
+#: class-field.php:2512 class-field.php:2843 integrations/integrations.php:793
+msgid "Placeholder"
+msgstr "Запазено място"
+
+#: cookiebanner/settings.php:176
+msgid "Position"
+msgstr "Позиция"
+
+#: class-field.php:1509 class-field.php:1589
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:140
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:139
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:134
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:140
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:135
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:277
+msgid "Right"
+msgstr "Дясно"
+
+#: cookiebanner/settings.php:194
+msgid "Slide"
+msgstr "Слайд"
+
+#: cookiebanner/edit.php:85
+msgid "Style your banner"
+msgstr "Стилизирайте своя банер"
+
+#: cookiebanner/settings.php:360 cookiebanner/settings.php:453
+#: cookiebanner/settings.php:479 cookiebanner/settings.php:508
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:115
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:114
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:115
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:110
+msgid "Text"
+msgstr "Текст"
+
+#: cookiebanner/settings.php:100
+msgid "Text on the manage consent tab"
+msgstr "Текст в раздела за съгласие за управление"
+
+#: cookiebanner/settings.php:156
+msgid "The custom CSS editor will appear at the bottom of this page when enabled."
+msgstr "Персонализираният CSS редактор ще се появи в долната част на тази страница, когато е активиран."
+
+#: functions.php:1284
+msgid "the page source"
+msgstr "източника на страницата"
+
+#: cookiebanner/settings.php:101
+msgid "The tab will show after the visitor interacted with the banner, and can be used to make the cookie banner reappear."
+msgstr "Разделът ще се покаже, след като посетителят взаимодейства с банера, и може да се използва, за да накара банера за бисквитки да се появи отново."
+
+#: config/general-settings.php:82
+msgid "These links will be added with HTML attributes so it won't hurt SEO."
+msgstr "Тези връзки ще бъдат добавени с HTML атрибути, така че няма да навреди на SEO."
+
+#: cookiebanner/settings.php:607
+msgid "Title"
+msgstr "Заглавие"
+
+#: cookiebanner/settings.php:408
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:358
+msgid "Toggles"
+msgstr "Превключвачи"
+
+#: class-field.php:1504 class-field.php:1584
+msgid "Top"
+msgstr "Най-отгоре"
+
+#: config/questions-wizard.php:156
+msgid "Who is the owner of the website?"
+msgstr "Кой е собственикът на уебсайта?"
+
+#: config/general-settings.php:427 cookiebanner/settings.php:546
+msgid "You can add additional custom CSS here. For tips and CSS lessons, check out our %sdocumentation%s"
+msgstr "Можете да добавите допълнителни персонализирани CSS тук. За съвети и уроци по CSS, вижте нашата %sдокументация%s"
+
+#: class-admin.php:846
+msgid "All tasks (%s)"
+msgstr "Всички задачи (%s)"
+
+#: templates/dashboard/progress.php:77
+msgid "Completed"
+msgstr "Завършено"
+
+#: templates/dashboard/progress-footer.php:19
+msgid "Continue Wizard"
+msgstr "Продължете помощника"
+
+#: templates/dashboard/progress-footer.php:20
+msgid "Cookie blocker"
+msgstr "Блокировач на бисквитките"
+
+#: templates/dashboard/tools-conditional.php:27
+msgid "Create a Data Leak Inventory"
+msgstr "Създаване на опис на изтичането на данни"
+
+#: templates/dashboard/other-plugins.php:20
+msgid "Easily migrate your website to SSL"
+msgstr "Лесно мигрирайте уебсайта си към SSL"
+
+#: templates/dashboard/tools.php:34
+msgid "Erase"
+msgstr "Изтриване"
+
+#: config/general-settings.php:332
+#: cookiebanner/class-cookiebanner-table.php:216 DNSMPD/class-DNSMPD.php:173
+#: templates/dashboard/tools.php:25
+msgid "Export"
+msgstr "Експорт"
+
+#: class-admin.php:71 class-admin.php:72 class-admin.php:826
+#: upgrade/upgrade-to-pro.php:190
+msgid "Installed"
+msgstr "Инсталирано"
+
+#: class-admin.php:864
+msgid "Last update"
+msgstr "Последно обновяване"
+
+#: templates/dashboard/tools.php:54
+msgid "Last update %s"
+msgstr "Последно обновяване %s"
+
+#: templates/dashboard/tools.php:49
+msgid "Not generated yet"
+msgstr "Все още не е генерирано"
+
+#: templates/wizard/content.php:11
+msgid "Notifications"
+msgstr "Известия"
+
+#: templates/dashboard/documents.php:36
+msgid "Obsolete"
+msgstr "Остаряло"
+
+#: DNSMPD/class-DNSMPD-table.php:128 templates/dashboard/progress.php:80
+msgid "Open"
+msgstr "Отворете"
+
+#: class-admin.php:885
+msgid "Other plugins"
+msgstr "Други плъгини"
+
+#: templates/dashboard/documents-conditional.php:72
+msgid "Other regions"
+msgstr "Други региони"
+
+#: templates/dashboard/tools-conditional.php:2
+msgid "Other tools"
+msgstr "Други инструменти"
+
+#: templates/dashboard/progress-footer.php:21
+msgid "Placeholders"
+msgstr "Запазени места"
+
+#: templates/dashboard/tools-conditional.php:7
+msgid "Priority Support"
+msgstr "Приоритетна поддръжка"
+
+#: class-admin.php:848
+msgid "Remaining tasks (%s)"
+msgstr "Оставащи задачи (%s)"
+
+#: templates/dashboard/documents-footer.php:3
+msgid "Shortcode"
+msgstr "Кратък код"
+
+#: templates/dashboard/documents-footer.php:2
+msgid "Synchronized"
+msgstr "Синхронизирано"
+
+#: templates/dashboard/documents-conditional.php:36
+#: templates/dashboard/other-plugins.php:28
+msgid "Terms and Conditions"
+msgstr "Правила и условия"
+
+#: class-admin.php:877
+msgid "Tips & Tricks"
+msgstr "Съвети и трикове"
+
+#: class-admin.php:829
+msgid "Upgrade to Pro"
+msgstr "Надстройте до про"
+
+#: templates/dashboard/progress.php:83
+msgid "Urgent"
+msgstr "Спешно"
+
+#: templates/dashboard/documents-footer.php:1
+#: templates/dashboard/documents.php:59
+msgid "Validated"
+msgstr "Валидиран"
+
+#: templates/dashboard/tips-tricks-footer.php:3
+msgid "View all"
+msgstr "Прегледайте всички"
+
+#: templates/dashboard/tools.php:62
+msgid "Webshop privacy"
+msgstr "Поверителност в уеб магазина"
+
+#: templates/dashboard/progress.php:65
+msgid "You have no new tasks! Have a look at our %sdocumentation%s and see all the possibilities Complianz has to offer."
+msgstr "Нямате нови задачи! Разгледайте нашата %sдокументация%s и вижте всички възможности, които Complianz може да предложи."
+
+#: callback-notices.php:15
+msgid "Cookiedatabase.org synchronization disabled."
+msgstr "Синхронизацията за Cookiedatabase.org е забранена."
+
+#: config/questions-wizard.php:569
+msgid "Because Clicky always sets a so-called unique identifier cookie, consent for statistics is always required."
+msgstr "Тъй като Clicky винаги задава така наречената бисквитка с уникален идентификатор, винаги се изисква съгласие за статистически данни."
+
+#: class-document.php:1150
+msgctxt "cookie policy"
+msgid "On AMP, you can use the manage consent button on the bottom of the page."
+msgstr "На AMP можете да използвате бутона за управление на съгласието в долната част на страницата."
+
+#: config/questions-wizard.php:565
+msgid "Enter your Clicky site ID"
+msgstr "Въведете своя идентификатор на сайта Clicky"
+
+#: config/questions-wizard.php:309
+msgid "Yes, with Clicky"
+msgstr "Да, с Clicky"
+
+#: class-document.php:1149
+msgctxt "cookie policy"
+msgid "You have loaded the Cookie Policy without javascript support."
+msgstr "Заредили сте политиката за бисквитки без поддръжка на javascript."
+
+#: integrations/plugins/contact-form-7.php:271
+msgid "Due to continuous breaking changes in Contact Form 7 we are dropping the CF7 integration as of CF7 5.4. We have concluded that the only viable solution is for Contact Form 7 to integrate with the WP Consent API."
+msgstr "Поради непрекъснато прекъсване промени в контактна форма 7 ние пускаме CF7 интеграцията на CF7 5.4. Стигнахме до извода, че единственото възможно решение е контактна форма 7 да се интегрира с API за съгласие на WP."
+
+#: integrations/plugins/contact-form-7.php:96
+msgid "Please accept marketing cookies to enable this form"
+msgstr "Моля, приемете маркетинговите бисквитки, за да активирате този формуляр"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:259
+msgid "Year"
+msgstr "Година"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:240
+msgid "December"
+msgstr "декември"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:239
+msgid "November"
+msgstr "ноември"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:238
+msgid "October"
+msgstr "октомври"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:237
+msgid "September"
+msgstr "септември"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:236
+msgid "August"
+msgstr "август"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:235
+msgid "July"
+msgstr "юли"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:234
+msgid "June"
+msgstr "юни"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:233
+msgid "May"
+msgstr "май"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:232
+msgid "April"
+msgstr "април"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:231
+msgid "March"
+msgstr "март"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:230
+msgid "February"
+msgstr "февруари"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:229
+msgid "January"
+msgstr "януари"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:228
+msgid "Month"
+msgstr "Месец"
+
+#: config/questions-wizard.php:257
+msgid "If you enable this option, Complianz will not show the cookie banner to users that enabled a ‘Do Not Track’ or 'Global Privacy Control' setting in their browsers and their default consent status is set to ‘denied’."
+msgstr "Ако се разреши тази опция, \"Complainz\" няма да покаже банера с бисквитите на потребителите, които са избрали настройка \"Не проследявай\" или настройките за съгласие от \"Глобален контрол над поверителността\" в потребителския банер са зададени по подразбиране на \"Отказвам\"."
+
+#: cookiebanner/class-cookiebanner.php:824
+msgid "No warning"
+msgstr "Без предупреждение"
+
+#: cookiebanner/class-cookiebanner.php:820
+msgid "No choice"
+msgstr "Без избор"
+
+#: cookiebanner/class-cookiebanner.php:819
+msgid "Do Not Track"
+msgstr "Не проследявай"
+
+#: config/questions-wizard.php:233
+msgid "Enabling this option will extend our Proof of Consent method with user consent registration."
+msgstr "Активирането на тази опция ще разшири нашия метод за потвърждение на съгласие с регистрация на съгласие на потребителя."
+
+#: config/general-settings.php:320
+msgid "You can disable the monthly automatic cookie scan here, and do only manual cookie scans."
+msgstr "Можете да деактивиране автоматичното сканиране за бисквитки тук и да провеждате само ръчно сканиране за бисквитки"
+
+#: config/general-settings.php:319
+msgid "Disable the automatic cookie scan."
+msgstr "Деактивирай автоматичното сканиране за бисквитки"
+
+#: integrations/plugins/gravity-forms.php:52
+msgid "Click to accept reCaptcha validation."
+msgstr "Натиснете за приемане на ново \"Captcha\" потвърждаване"
+
+#: class-document.php:1122
+msgid "This message was generated by Complianz GDPR/CCPA."
+msgstr "Това съобщение е генерирано от Complianz GDPR/CCPA."
+
+#: class-document.php:1118
+msgctxt "notification email"
+msgid "Your legal documents on %s have not been updated in 12 months. Please log in and run the %swizard%s in the Complianz plugin to check if everything is up to date."
+msgstr "Вашите правни документи на %s не са актуализирани в срок от 12 месеца. Моля, влезте и стартирайте %swizard%s в плъгина Complianz, за да проверите дали всичко е актуализирано."
+
+#: config/documents/cookie-policy-br.php:73
+#: config/documents/cookie-policy-ca.php:79
+#: config/documents/cookie-policy-eu.php:73
+#: config/documents/cookie-policy-za.php:77
+msgctxt "cookie policy"
+msgid "Marketing/Tracking cookies are cookies or any other form of local storage, used to create user profiles to display advertising or to track the user on this website or across several websites for similar marketing purposes."
+msgstr "Бисквитките за Маркетинг/Проследяване са бисквитки или друга форма на локално съхранение, използвани, за рекламиране или проследяване на дейността на потребителя в уебсайта или няколко уебсайта, с макетингови цели."
+
+#: config/documents/cookie-policy-br.php:72
+#: config/documents/cookie-policy-ca.php:78
+#: config/documents/cookie-policy-eu.php:72
+#: config/documents/cookie-policy-za.php:76
+msgctxt "cookie policy"
+msgid "Marketing/Tracking cookies"
+msgstr "Бисквитки за Маркетинг/Проследяване"
+
+#: class-document.php:1259
+msgid "Legal Document"
+msgstr "Юридически Документ"
+
+#: rest-api/rest-api.php:140
+msgctxt "cookie policy"
+msgid "We have received a privacy signal from your browser. For this reason we have set your privacy settings on this website to strictly necessary. If you want to have full functionality, please consider excluding %s from your privacy settings."
+msgstr "Получихме сигнал за поверителност от вашия браузър. Поради тази причина сме настроили вашите настройки за поверителност на този сайт, за да е строго необходимо. Ако искате да имате пълна функционалност, моля, обмислете изключването на %s от настройките за поверителност."
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:120
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:121
+msgid "Manage Consent"
+msgstr "Управление на съгласие"
+
+#: templates/cookiepolicy/services.php:9
+msgctxt "cookie policy"
+msgid "Usage"
+msgstr "Използване"
+
+#: functions.php:1287
+msgid "%s on line %s of %s"
+msgstr "%s на ред %s от %s"
+
+#: functions.php:2147
+msgid "Sharing of data is pending investigation"
+msgstr "Обменът на данни е в процес на разследване"
+
+#: config/questions-wizard.php:789
+msgid "Enable TCF"
+msgstr "Позволи TCF"
+
+#: config/questions-wizard.php:793
+msgid "Google recommends an integration with TCF V2.0 to avoid loss of revenue."
+msgstr "Google препоръчва интегриране с TCF V2.0, за да се избегне загуба на приходи."
+
+#: config/class-config.php:636
+msgid "Javascript errors are detected on the front-end of your site. This may break the cookie banner functionality."
+msgstr "Грешките в Javascript се откриват в клиентския край на сайта Ви. Това може да наруши функционалността на банера за бисквитки."
+
+#: config/class-config.php:637
+msgid "Last error in the console:"
+msgstr "Последна грешка в конзолата:"
+
+#: config/documents/cookie-policy-br.php:148
+#: config/documents/cookie-policy-ca.php:137
+#: config/documents/cookie-policy-eu.php:150
+#: config/documents/cookie-policy-uk.php:148
+#: config/documents/cookie-policy-za.php:149
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Vendors"
+msgstr "Производители"
+
+#: integrations/plugins/google-site-kit.php:11
+msgid "Because you're using %s, you can choose which plugin should insert the relevant snippet."
+msgstr "Тъй като използвате %s, можете да изберете кой плъгин да вмъкне съответния фрагмент."
+
+#: config/questions-wizard.php:761
+msgid "Complianz cannot automatically block first-party marketing cookies unless these plugins conform to the WP Consent API. Look for any possible integrations on our website if you're not sure. When you answer 'No' to this question, the marketing category will be removed."
+msgstr "Complianz не може автоматично да блокира бисквитките за маркетинг от първо лице, освен ако тези плъгини не отговарят на API за съгласие на WP. Потърсете всички възможни интеграции на нашия уебсайт, ако не сте сигурни. Когато отговорите на 'Не' на този въпрос, маркетинговата категория ще бъде премахната."
+
+#: templates/integrations/services.php:25
+#: templates/integrations/services.php:28
+msgid "reCaptcha is connected and will be blocked before consent. To change your settings, please visit %sIntegrations%s in the wizard. "
+msgstr "reCaptcha е свързан и ще бъде блокиран преди да даде съгласие. За да промените настройките си, посетете %sIntegrations%s в съветника. "
+
+#: config/questions-wizard.php:670
+msgid "Do you want to block reCAPTCHA before consent, and when consent is revoked?"
+msgstr "Искате ли да блокирате reCAPTCHA преди съгласието си и кога е отнето съгласието?"
+
+#: config/questions-wizard.php:760
+msgid "You have stated that you don't use third-party services. Do you use plugins that might set marketing cookies?"
+msgstr "Заявили сте, че не използвате услуги на трети страни. Използвате ли плъгини, които могат да задават бисквитки за маркетинг?"
+
+#: callback-notices.php:262
+msgid "You use plugins which place first-party marketing cookies. You can view these plugins on the integrations page. Complianz cannot automatically block first-party marketing cookies unless these plugins conform to the WP Consent API."
+msgstr "Използвате плъгини, които поставят маркетингови бисквитки от първи страни. Можете да видите тези плъгини на страницата за интеграция. Complianz не може автоматично да блокира бисквитките за маркетинг от първо лице, освен ако тези плъгини не отговарят на API за съгласие на WP."
+
+#: callback-notices.php:180
+msgid "If you choose to block reCAPTCHA, please make sure you add a placeholder to your forms."
+msgstr "Ако решите да блокирате reCAPTCHA, моля, уверете се, че добавяте контейнер към вашите формуляри."
+
+#: integrations/plugins/forminator.php:76
+msgid "Yes, I agree with the %sPrivacy Statement%s"
+msgstr "Да, съгласен съм с изявлението на %s за поверителност%s"
+
+#: config/general-settings.php:160
+msgid "Disable to let your theme take over."
+msgstr "Деактивирайте, за да позволите на вашата тема да поеме."
+
+#: config/general-settings.php:102 config/general-settings.php:119
+#: config/general-settings.php:136
+msgid "The blocked content text appears when for example a Youtube video is embedded."
+msgstr "Текстът на блокираното съдържание се показва, когато например е вграден видеоклип в Youtube."
+
+#: config/general-settings.php:158
+msgid "Use document CSS by Complianz"
+msgstr "Използване на CSS на документ по съвместим"
+
+#: config/general-settings.php:218
+msgid "Enable safe mode"
+msgstr "Разрешаване на безопасен режим"
+
+#: config/general-settings.php:220
+msgid "When safe mode is enabled, all integrations will be disabled temporarily, please read %sthese instructions%s to debug the issue or ask support if needed."
+msgstr "Когато е активиран безопасен режим, всички интеграции ще бъдат деактивирани временно, моля, прочетете %sтези инструкции%s за отстраняване на грешки проблема или попитайте поддръжката, ако е необходимо."
+
+#: config/steps.php:56
+msgid "Complianz will scan several pages of your website for first-party cookies and known third-party scripts. The scan will be recurring monthly to keep you up-to-date!"
+msgstr "Съвместим с вас ще сканира няколко страници на вашия уеб сайт за бисквитки и познати скриптове на трети страни. Сканирането ще се повтаря месечно, за да ви поддържа актуална!"
+
+#: config/steps.php:22
+msgctxt "intro company info"
+msgid "Here you can select which legal documents you want to generate with Complianz. You can also use existing legal documents."
+msgstr "Тук можете да изберете кои правни документи искате да генерирате с Complianz. Можете също да използвате съществуващите правни документи."
+
+#: config/questions-wizard.php:828
+msgid "Do you want to disable the storage of personal data by the WP comments function and the checkbox?"
+msgstr "Искате ли да забраните съхранението на лични данни чрез функцията за коментари на WP и квадратчето за отметка?"
+
+#: config/questions-wizard.php:732
+msgid "Content from social media is mostly embedded through iFrames. These often place third party (tracking) cookies, so must be blocked based on visitor consent. If your website only contains buttons or links to a social media profile on an external page you can answer No."
+msgstr "Съдържанието от социалните медии е най-вече вградено чрез iFrames. Те често поставят бисквитки на трети страни (за проследяване), така че трябва да бъдат блокирани въз основа на съгласието на посетителя. Ако вашият уеб сайт съдържа само бутони или връзки към профил в социалните мрежи на външна страница, можете да отговорите на не."
+
+#: config/questions-wizard.php:745
+msgid "Select which social media are used on the website."
+msgstr "Изберете кои социални медии да се използват на уебсайта."
+
+#: config/questions-wizard.php:730
+msgid "Does your website contain embedded social media content, like buttons, timelines, videos or pixels?"
+msgstr "Съдържа ли уебсайта Ви вградено съдържание в социалните медии, като например бутони, времеви линии, видеоклипове или пиксели?"
+
+#: config/documents/documents.php:22 config/questions-wizard.php:145
+#: gutenberg/build/index.js:1 gutenberg/src/index.js:267
+#: gutenberg/build/index.js:2204
+msgid "Disclaimer"
+msgstr "Отговорности"
+
+#: config/questions-wizard.php:93
+msgid "If so, the scan will be extended to the wp-admin part of your site. "
+msgstr "Ако е така, сканирането ще бъде разширено до wp-admin част от вашия сайт. "
+
+#: config/questions-wizard.php:39
+msgid "You don’t need to configure your website for ‘accidental’ visitors. Only choose the regions your website is intended for."
+msgstr "Не е необходимо да конфигурирате уебсайта си за \"случайни\" посетители. Изберете само регионите, за които е предназначен вашият уебсайт."
+
+#: callback-notices.php:247 callback-notices.php:249
+msgid "It is recommended to select a Privacy Statement."
+msgstr "Препоръчително е да изберете Декларация за поверителност."
+
+#. Author of the plugin
+msgid "Really Simple Plugins"
+msgstr "Наистина прости плъгини"
+
+#: cookiebanner/class-cookiebanner.php:827 cookiebanner/settings.php:714
+#: cookiebanner/settings.php:715 cookiebanner/settings.php:716
+msgid "Functional"
+msgstr "Функционални"
+
+#: cookiebanner/edit.php:68 cookiebanner/settings.php:223
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:195
+#: integrations/plugins/elementor-pro/elementor-pro.php:115
+msgid "Categories"
+msgstr "Категории"
+
+#: cookiebanner/class-cookiebanner.php:325 cookiebanner/settings.php:98
+#: cookiebanner/settings.php:99 cookiebanner/settings.php:109
+msgid "Manage consent"
+msgstr "Управление на съгласието"
+
+#: cookiebanner/settings.php:326
+msgid "After saving, a preview of the soft cookie wall will be shown for 3 seconds"
+msgstr "След записването, ще се покаже преглед на меката бисквитка стена за 3 секунди"
+
+#: cookiebanner/settings.php:240
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:370
+msgid "Slider"
+msgstr "Слайдер"
+
+#: cookiebanner/settings.php:236
+msgid "Checkbox style"
+msgstr "Стил на квадратчето за отметка"
+
+#: cookiebanner/settings.php:237
+msgid "This style is for the checkboxes on the cookie banner, as well as on your policy for managing consent."
+msgstr "Този стил е за квадратчетата за отметка на банера за \"бисквитки\", както и за вашата политика за управление на съгласието."
+
+#: callback-notices.php:163 callback-notices.php:172
+msgid "The cookie scan detected cookies from services which share data with Third Parties. If these cookies were also used in the past 12 months, you should at least select the option 'Internet activity...'"
+msgstr "Сканирането на \"бисквитки\" откри бисквитки от услуги, които споделят данни с трети страни. Ако тези бисквитки са били използвани и през последните 12 месеца, трябва поне да изберете опцията \"Интернет активност...\""
+
+#: callback-notices.php:133
+msgid "Your site uses Divi. If you use reCAPTCHA on your site, you may need to disable the reCAPTCHA integration in Complianz. "
+msgstr "Сайтът ви използва Divi. Ако използвате reCAPTCHA на вашия сайт, може да се наложи да деактивирате reCAPTCHA интеграцията в Complianz. "
+
+#: class-field.php:2057 cookie/class-cookie-admin.php:3623
+msgid "Services in %s"
+msgstr "Услуги в %s"
+
+#: config/questions-wizard.php:854
+msgid "Connect with Cookiedatabase.org"
+msgstr "Свързване към Cookiedatabase.org"
+
+#: config/documents/cookie-policy-br.php:142
+#: config/documents/cookie-policy-ca.php:130
+#: config/documents/cookie-policy-eu.php:142
+#: config/documents/cookie-policy-za.php:142
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Manage your consent settings"
+msgstr "Управление на настройките ви за съгласие"
+
+#: config/questions-wizard.php:133
+msgid "Complianz will generate the Imprint based on the answers in the wizard, but you can also create your own, custom document."
+msgstr "Complianz ще генерира импресума, базирайки се на отговорите от наръчника, но вие също можете да създадете ваш различен документ."
+
+#: config/questions-wizard.php:44
+msgid "If you want to dynamically apply privacy laws based on the visitor's location, consider upgrading to the %spremium version%s, which allows you to apply a privacy law specific for that region."
+msgstr "Ако искате да прилагате динамично закони за поверителност въз основа на местоположението на посетителя, обмислете надстройването до версията %sпремиум%s, която ви позволява да прилагате специален за този регион закон за поверителност."
+
+#: class-field.php:1143
+msgid "None selected"
+msgstr "Няма избрани"
+
+#: class-field.php:1028
+msgid "No document"
+msgstr "Няма документ"
+
+#: class-field.php:1026
+msgid "Link to custom page"
+msgstr "Връзка към персонализирана страница"
+
+#: class-field.php:1027
+msgid "Custom URL"
+msgstr "URL адрес по избор"
+
+#: config/countries.php:132
+msgid "GDPR (European Union)"
+msgstr "GDPR (Европейски съюз)"
+
+#: class-field.php:1019
+msgid "Generated by Complianz"
+msgstr "Генерирани от съответствие"
+
+#: config/documents/documents.php:18 config/steps.php:32
+#: templates/dashboard/documents-conditional.php:16
+msgid "Impressum"
+msgstr "Впечатлявам"
+
+#: config/countries.php:135
+msgid "PIPEDA (Canada)"
+msgstr "ПИПИДА (Канада)"
+
+#: callback-notices.php:247
+msgid "The link to the Privacy Statement is used in the cookie banner and in your Cookie Policy."
+msgstr "Връзката към Декларацията за поверителност се използва в банера за бисквитки и в Политиката за бисквитки."
+
+#: callback-notices.php:249
+msgid "The link to the Privacy Statement is used in your Cookie Policy."
+msgstr "Връзката към Декларацията за поверителност се използва във Вашата Политика за бисквитките."
+
+#: config/countries.php:133
+msgid "UK-GDPR, PECR, Data Protection Act (United Kingdom)"
+msgstr "UK-GDPR, PECR, Закон за защита на данните (Обединено кралство)"
+
+#: config/questions-wizard.php:38
+msgid "Which privacy law or guideline do you want to use as the default for your worldwide visitors?"
+msgstr "Кой закон за поверителността или насоки искате да използвате като основен за вашите посетители по целия свят?"
+
+#: config/general-settings.php:409
+msgid "Enable cookie blocker for ajax loaded content"
+msgstr "Разрешаване на блокиране на бисквитки за заредено съдържание на ajax"
+
+#: config/steps.php:107
+msgid "Create documents"
+msgstr "Създаване на документи"
+
+#: config/steps.php:103
+msgctxt "intro menu"
+msgid "Generate your documents, then you can add them to your menu directly or do it manually after the wizard is finished."
+msgstr "Генерирайте вашите документи, след което можете да ги добавите директно към менюто си или да го направите ръчно, след като съветникът е завършен."
+
+#: config/steps.php:110
+msgid "Link to menu"
+msgstr "Свързване към менюто"
+
+#: callback-notices.php:199
+msgid "You haven't created all required pages yet. You can add missing pages in the previous step, or create them manually with the shortcode. You can come back later to this step to add your pages to the desired menu, or do it manually via Appearance > Menu."
+msgstr "Все още не сте създали всички задължителни страници. Можете да добавите липсващи страници в предишната стъпка или да ги създадете ръчно с краткия код. Можете да се върнете по-късно към тази стъпка, за да добавите страниците си към желаното меню или да го направите ръчно чрез Облик > Меню."
+
+#: class-document.php:1595
+msgid "All necessary pages have been created already. You can update the page titles here if you want, then click the \"Update pages\" button."
+msgstr "Вече са създадени всички необходими страници. Можете да актуализирате заглавията на страницата тук, ако искате, след което щракнете върху бутона \"Актуализиране на страниците\"."
+
+#: class-document.php:1641
+msgid "Create missing pages"
+msgstr "Създаване на липсващи страници"
+
+#: class-document.php:1593
+msgid "The pages marked with X should be added to your website. You can create these pages with a shortcode, a Gutenberg block or use the below \"Create missing pages\" button."
+msgstr "Страниците, маркирани с X, трябва да се добавят към вашия уеб сайт. Можете да създадете тези страници с кратък код, блок гутенберг или да използвате бутона \"Създаване на липсващи страници\"."
+
+#: class-document.php:1557 class-document.php:1643
+msgid "Update pages"
+msgstr "Актуализиране на страници"
+
+#: cookie/class-cookie-admin.php:3591
+msgid "Show deleted cookies"
+msgstr "Показване на изтритите бисквитки"
+
+#: class-field.php:2057 cookie/class-cookie-admin.php:3623
+msgid "Cookies in %s"
+msgstr "Бисквитки в %s"
+
+#: class-document.php:483
+msgid "Region %s not activated for %s."
+msgstr "Регионът не %s активиран за %s."
+
+#: config/countries.php:418
+msgid "Swedish"
+msgstr "Шведски"
+
+#: config/countries.php:417
+msgid "Norwegian"
+msgstr "Норвежки"
+
+#: config/countries.php:415
+msgid "Italian"
+msgstr "Италиански"
+
+#: config/countries.php:414
+msgid "French"
+msgstr "Френски"
+
+#: config/countries.php:413
+msgid "Estonian"
+msgstr "Естонски"
+
+#: config/countries.php:412
+msgid "Spanish"
+msgstr "Испански"
+
+#: config/countries.php:411
+msgid "Greek"
+msgstr "Гръцки"
+
+#: config/countries.php:410
+msgid "German"
+msgstr "Немски"
+
+#: config/countries.php:409
+msgid "Danish"
+msgstr "Датски"
+
+#: config/countries.php:408
+msgid "English"
+msgstr "Английски"
+
+#: config/questions-wizard.php:268
+msgid "Does your website contain or process sensitive (personal) information?"
+msgstr "Съдържа ли уебсайта Ви или обработва чувствителна (лична) информация?"
+
+#: config/countries.php:416
+msgid "Dutch"
+msgstr "Нидерландски"
+
+#: class-admin.php:71 class-admin.php:823
+#: templates/dashboard/documents-conditional.php:41
+#: upgrade/upgrade-to-pro.php:146 upgrade/upgrade-to-pro.php:159
+#: upgrade/upgrade-to-pro.php:176
+msgid "Install"
+msgstr "Инсталиране"
+
+#: DNSMPD/class-DNSMPD-table.php:166
+msgid "Status"
+msgstr "Състояние"
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:108
+msgid "Type"
+msgstr "Вид"
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-category-widget.php:379
+msgid "Active"
+msgstr "Активирано"
+
+#: config/purpose.php:44
+msgid "Audio, electronic, visual, thermal, olfactory, or similar information"
+msgstr "Аудио, електронна, визуална, термична, обонятелна или подобна информация"
+
+#: cookiebanner/class-cookiebanner.php:830 cookiebanner/settings.php:731
+#: cookiebanner/settings.php:732 cookiebanner/settings.php:733
+msgid "Preferences"
+msgstr "Опции"
+
+#: shepherd/tour.php:127
+msgid "Configure"
+msgstr "Конфигуриране"
+
+#: shepherd/tour.php:103
+msgid "Complianz tracks changes in your Cookie Notice and Cookie Policy with time-stamped documents. This is your consent registration while respecting the data minimization guidelines and won't store any user data."
+msgstr "Спазвайки правилата, спазваме промените във Вашата Политика за бисквитките и политиката за бисквитките с документи, които са с времеви печати. Това е регистрацията на съгласието Ви, като същевременно спазвате указанията за минимизиране на данните и няма да съхранявате никакви потребителски данни."
+
+#: shepherd/tour.php:130
+msgid "End tour"
+msgstr "Край на обиколката"
+
+#: shepherd/tour.php:109
+msgid "Let's start the Wizard"
+msgstr "Да започнем с магьосника"
+
+#: shepherd/tour.php:129
+msgid "Start tour"
+msgstr "Начало на обиколката"
+
+#: shepherd/tour.php:110
+msgid "You are ready to start the Wizard. For more information, FAQ, and support, please visit Complianz.io."
+msgstr "Готови сте да стартирате съветника. За повече информация, ЧЗВ и поддръжка посетете Complianz.io."
+
+#: shepherd/tour.php:96
+msgid "Based on your answers in the Wizard, we will automatically enable integrations with relevant services and plugins. In case you want to block extra scripts, you can add them to the Script Center."
+msgstr "Въз основа на вашите отговори в съветника, ние автоматично ще позволи интеграции със съответните услуги и плъгини. В случай, че искате да блокирате допълнителни скриптове, можете да ги добавите към центъра за скриптове."
+
+#: shepherd/tour.php:88
+msgid "Here you can configure and style your cookie banner if the Wizard is completed. An extra tab will be added with region-specific settings."
+msgstr "Тук можете да конфигурирате и оформете банера си за \"бисквитки\", ако съветникът е завършен. Ще бъде добавен допълнителен раздел с настройки, специфични за съответния регион."
+
+#: config/countries.php:70
+msgid "CA"
+msgstr "Ca"
+
+#: shepherd/tour.php:87
+msgid "Cookie Banner"
+msgstr "Банер за бисквитки"
+
+#: config/general-settings.php:388
+msgid "Disable all plus ones and warnings on your dashboard."
+msgstr "Деактивирайте всички плюс и предупреждения на таблото си."
+
+#: config/general-settings.php:387
+msgid "Disable notifications"
+msgstr "Забрани известията"
+
+#: shepherd/tour.php:67
+msgid "Get ready for privacy legislation around the world. Follow a quick tour or start configuring the plugin!"
+msgstr "Подгответе се за законодателството за поверителност по целия свят. Следвайте бърза обиколка или започнете да конфигурирате плъгин!"
+
+#: config/countries.php:73
+msgid "PIPEDA"
+msgstr "Шлахла"
+
+#: class-wizard.php:612 shepherd/tour.php:80
+msgid "The Wizard"
+msgstr "Съветникът"
+
+#: shepherd/tour.php:74
+msgid "This is your Dashboard. When the Wizard is completed, this will give you an overview of tasks, tools, and documentation."
+msgstr "Това е таблото. Когато съветникът е завършен, това ще ви даде общ преглед на задачите, инструментите и документацията."
+
+#: shepherd/tour.php:66
+msgid "Welcome to Complianz"
+msgstr "Добре дошли в Съответс-"
+
+#: config/documents/cookie-policy-ca.php:173
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you."
+msgstr "За да упражните тези права, моля свържете се с нас. Моля, вижте данните за контакт в долната част на тази Политика за бисквитките. Ако имате оплакване относно това как обработваме вашите данни, бихме искали да се обадим на вас."
+
+#: config/documents/cookie-policy-ca.php:171
+msgctxt "Legal document cookie policy"
+msgid "You have the right to address a challenge concerning non-compliance with PIPEDA to our organization and, if the issue is not resolved, to the Office of the Privacy Commissioner of Canada."
+msgstr "Имате право да се заемете с предизвикателства, свързани с неспазването на PIPEDA, пред нашата организация и, ако проблемът не бъде решен, до Офиса на комисаря по защита на личните данни на Канада."
+
+#: config/documents/cookie-policy-ca.php:170
+msgctxt "Legal document cookie policy"
+msgid "You have the right to withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. You will be informed of the implications of such withdrawal."
+msgstr "Имате право да оттеглите съгласието си по всяко време, при спазване на законови или договорни ограничения и на разумно предизвестие. Ще бъдете информирани за последиците от това оттегляне."
+
+#: config/documents/cookie-policy-ca.php:169
+msgctxt "Legal document cookie policy"
+msgid "you may request correction or deletion of the data if it is incorrect or not or no longer relevant. Where appropriate, the amended information shall be transmitted to third parties having access to the information in question."
+msgstr "можете да поискате коригиране или изтриване на данните, ако те са неточни или не са свързани или вече не са актуални. Когато е целесъобразно, изменената информация се предава на трети страни, които имат достъп до въпросната информация."
+
+#: config/documents/cookie-policy-ca.php:167
+msgctxt "Legal document cookie policy"
+msgid "you may object to the processing;"
+msgstr "можете да възразите срещу обработването;"
+
+#: config/documents/cookie-policy-ca.php:168
+msgctxt "Legal document cookie policy"
+msgid "you may request an overview, in a commonly used format, of the data we process about you;"
+msgstr "можете да поискате общ преглед на данните, които обработваме за Вас, в често използван формат;"
+
+#: config/documents/cookie-policy-ca.php:166
+msgctxt "Legal document cookie policy"
+msgid "you may submit a request for access to the data we process about you;"
+msgstr "можете да подадете искане за достъп до данните, които обработваме за Вас;"
+
+#: config/documents/cookie-policy-ca.php:40
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid."
+msgstr "Някои бисквитки гарантират, че определени части от уебсайта работят правилно и че вашите потребителски предпочитания остават известни. Чрез поставянето на функционални бисквитки, ние ви улесняваме да посетите нашия уебсайт. По този начин не е необходимо да въвеждате многократно същата информация, когато посещавате нашия уебсайт, и например артикулите остават в количката ви за пазаруване, докато не платите."
+
+#: config/documents/cookie-policy-ca.php:71
+msgctxt "Legal document cookie policy"
+msgid "You can object to the tracking by these cookies by clicking the \"Manage Consent\" button."
+msgstr "Можете да възразите срещу проследяването чрез тези бисквитки, като кликнете върху бутона \"Управление на съгласие\"."
+
+#: config/documents/cookie-policy-ca.php:126
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. You do have the right to opt-out and to object against the further use of non-functional cookies."
+msgstr "Когато посещавате нашия уебсайт за първи път, ще ви покажем изскачащ прозорец с обяснение за бисквитките. Имате право да се откажете и да възразите срещу по-нататъшното използване на нефункционални бисквитки."
+
+#: config/documents/cookie-policy-ca.php:134
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "You can also disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Можете също да деактивирате използването на бисквитки чрез браузъра си, но имайте предвид, че нашият уебсайт може вече да не работи правилно."
+
+#: templates/integrations/services.php:21
+msgid "services"
+msgstr "услуги"
+
+#: config/documents/documents.php:88
+msgid "Cookie Policy (CA)"
+msgstr "Политика за бисквитките (CA)"
+
+#: templates/integrations/plugins.php:4 templates/integrations/services.php:20
+msgid "Enabled %s will be blocked on the front-end of your website until the user has given consent (opt-in), or after the user has revoked consent (opt-out). When possible a placeholder is activated. You can also disable or configure the placeholder to your liking."
+msgstr "Разрешените %s ще бъдат блокирани в клиентския край на уебсайта Ви, докато потребителят не даде съгласие (включване) или след като потребителят е оттеглил съгласието си (отписване). Когато е възможно, се активира контейнер. Можете също да забраните или конфигурирате контейнера по ваш вкус."
+
+#: templates/integrations/plugins.php:5
+msgid "plugins"
+msgstr "плъгини"
+
+#: callback-notices.php:274
+msgid "You have selected options that indicate your site processes sensitive, personal data. You should select 'Yes'"
+msgstr "Избрали сте опции, които показват, че сайтът Ви обработва чувствителни лични данни. Трябва да изберете \"Да\""
+
+#: integrations/plugins/contact-form-7.php:93
+msgid "Click to accept marketing cookies and enable this form"
+msgstr "Щракнете, за да приемете маркетинговите бисквитки и да разрешите този формуляр"
+
+#: proof-of-consent/class-proof-of-consent.php:255
+msgid "Proof of consent generation failed. Check your write permissions in the uploads directory"
+msgstr "Доказателството за генериране на съгласие е неуспешно. Проверете разрешенията си за запис в директорията за качвания"
+
+#: cookie/class-cookie-admin.php:553
+msgid "View service on cookiedatabase.org"
+msgstr "Изглед на cookiedatabase.org"
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:138
+msgid "You have selected you do not share data with third-party networks. Remarketing is now disabled in %s."
+msgstr "Избрали сте да не споделяте данни с мрежи на трети страни. Ремаркетингът вече е деактивиран в %s."
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:38
+msgid "You use %s, which means the answer to this question should be Google Tag Manager."
+msgstr "Използвате %s, което означава, че отговорът на този въпрос трябва да бъде Мениджър на маркери на Google."
+
+#: cookie/class-cookie-admin.php:427
+msgid "View cookie on cookiedatabase.org"
+msgstr "Преглед на \"бисквитка\" на cookiedatabase.org"
+
+#: config/general-settings.php:367
+msgid "Clear all data from Complianz on uninstall"
+msgstr "Изчистване на всички данни от Complianz при деинсталиране"
+
+#: config/steps.php:41
+msgid "Details per purpose"
+msgstr "Подробности за всяка цел"
+
+#: config/questions-wizard.php:381
+msgid "Do you want to ask consent for statistics?"
+msgstr "Искате ли да поискате съгласие за статистика?"
+
+#: class-review.php:95
+msgid "Don't show again"
+msgstr "Не показвай повече"
+
+#: config/general-settings.php:370
+msgid "Enabling this option will delete all your settings, and the Complianz tables when you deactivate and remove Complianz."
+msgstr "Активирането на тази опция ще изтрие всички настройки и таблиците За съответствие, когато деактивирате и премахнете Complianz."
+
+#: config/questions-wizard.php:42
+msgid "The plugin will apply the above-selected region's settings to all visitors worldwide."
+msgstr "Приставката ще приложи настройките на избрания по-горе регион за всички посетители по целия свят."
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:112
+#: integrations/plugins/google-tagmanager-for-wordpress.php:134
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in %s."
+msgstr "Избрали сте да анонимизирате IP адресите. Тази настройка е активирана в %s."
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:116
+msgid "You have selected you do not share data with third-party networks. Display advertising is now disabled in %s."
+msgstr "Избрали сте да не споделяте данни с мрежи на трети страни. Дисплейното рекламиране вече е деактивирано в %s."
+
+#: config/class-config.php:612
+msgid "Enable the cookiedatabase.org API for automatic descriptions, or add these %smanually%s."
+msgstr "Разрешете api на cookiedatabase.org за автоматични описания или добавете тези %smanually%s."
+
+#: config/class-config.php:624
+msgid "You have a duplicate implementation of your statistics tool on your site."
+msgstr "Имате дублирана реализация на вашия инструмент за статистика на вашия сайт."
+
+#: config/class-config.php:611
+msgid "You have cookies with incomplete descriptions."
+msgstr "Имате бисквитки с непълни описания."
+
+#: config/questions-wizard.php:875
+msgid "Add the services to which your cookies belong here"
+msgstr "Добавете услугите, към които принадлежат вашите бисквитки тук"
+
+#: config/general-settings.php:63
+msgid "Do you consent to the use of the cookiedatabase.org API?"
+msgstr "Съгласявате ли се с използването на cookiedatabase.org API?"
+
+#: config/general-settings.php:64
+msgid "Without the API, you will have to manually describe all found cookies, their purpose, function, service and service types. "
+msgstr "Без API ще трябва ръчно да опишете всички намерени бисквитки, тяхната цел, функция, обслужване и видове услуги"
+
+#: config/steps.php:89
+msgctxt "intro used cookies"
+msgid "Below services use cookies on your website to add functionality. You can use cookiedatabase.org to synchronize information or edit the service if needed. Unknown services will be moderated and added by cookiedatabase.org as soon as possible."
+msgstr "По-долу услугите използват бисквитки на уебсайта Ви, за да добавят функционалност. Можете да използвате cookiedatabase.org за синхронизиране на информация или редактиране на услугата, ако е необходимо. Неизвестни услуги ще бъдат модерирани и добавени от cookiedatabase.org възможно най-скоро."
+
+#: config/documents/cookie-policy-br.php:212
+#: config/documents/cookie-policy-ca.php:192
+#: config/documents/cookie-policy-eu.php:202
+#: config/documents/cookie-policy-za.php:199
+msgctxt "Legal document cookie policy"
+msgid "This Cookie Policy was synchronized with %scookiedatabase.org%s on %s"
+msgstr "Тази политика за бисквитките е синхронизирана с %scookiedatabase.org%s на %s"
+
+#: config/questions-wizard.php:284
+msgid "If you want to clear all cookies from the plugin, you can do so here. You'll need to run a scan again afterwards. If you want to start with a clean slate, you might need to clear your browsercache, to make sure all cookies are removed from your browser as well."
+msgstr "Ако искате да изчистите всички бисквитки от плъгина, можете да го направите тук. Ще трябва да изпълните сканиране отново след това. Ако искате да започнете с чисто досие, може да се наложи да изчистите браузъра си, за да се уверите, че всички бисквитки са премахнати и от вашия браузър."
+
+#: callback-notices.php:37
+msgid "Please make sure you remove your current implementation to prevent double statistics tracking."
+msgstr "Моля, не забравяйте да премахнете текущото си внедряване, за да предотвратите двойно проследяване на статистиката."
+
+#: callback-notices.php:26
+msgid "Synchronization disabled: This happens when all cookies have synchronized to cookiedatabase.org in the last week."
+msgstr "Синхронизацията е забранена: Това се случва, когато всички бисквитки са синхронизирани с cookiedatabase.org през последната седмица."
+
+#: callback-notices.php:9 callback-notices.php:36
+msgid "This field has been pre-filled based on the scan results."
+msgstr "Това поле е предварително попълнено въз основа на резултатите от сканирането."
+
+#: callback-notices.php:19
+msgid "Your server does not have CURL installed, which is required for the sync. Please contact your hosting company to install CURL."
+msgstr "Вашият сървър не е инсталирано CURL, което е необходимо за синхронизирането. Моля, свържете се с вашата хостинг компания, за да инсталирате CURL."
+
+#: cookie/class-cookie-admin.php:655 cookie/class-cookie-admin.php:782
+msgid "Cookies without selected service"
+msgstr "Бисквитки без избрана услуга"
+
+#: cookie/class-cookie-admin.php:3230
+msgid "(not synced yet)"
+msgstr "(все още не е синхронизирано)"
+
+#: cookie/class-cookie.php:329 cookie/class-cookie.php:387
+msgid "%s days"
+msgstr "%s дни"
+
+#: templates/cookie_settings.php:11
+msgid "Service"
+msgstr "Услуга"
+
+#: templates/cookiepolicy/cookies_row.php:10
+msgid "Function"
+msgstr "Функция"
+
+#: cookie/class-cookie-admin.php:342
+msgid "Select a purpose"
+msgstr "Изберете цел"
+
+#: cookie/class-cookie-admin.php:600
+msgid "This service is not synchronized with cookiedatabase.org"
+msgstr "Тази услуга не е синхронизирана с cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:592
+msgid "This service has missing fields"
+msgstr "Тази услуга има липсващи полета"
+
+#: cookie/class-cookie-admin.php:499
+msgid "(Administrator cookie, will be ignored)"
+msgstr "(Бисквитката на администратора, ще бъде игнорирана)"
+
+#: cookie/class-cookie-admin.php:500
+msgid "(Logged in users only, will be ignored)"
+msgstr "(Само регистрирани потребители, ще бъдат игнорирани)"
+
+#: cookie/class-cookie-admin.php:964 cookie/class-cookie-admin.php:1307
+msgid "A request is already running. Please be patient until the current request finishes"
+msgstr "Заявката вече се изпълнява. Моля, бъдете търпеливи докато настоящото искане приключи"
+
+#: cookie/class-cookie-admin.php:3526
+msgid "Are you sure? This will permanently delete the list of cookies."
+msgstr "Сигурни ли сте? Това ще изтрие завинаги списъка с бисквитки."
+
+#: cookie/class-cookie-admin.php:3527
+msgid "Clear cookies"
+msgstr "Изчистване на бисквитките"
+
+#: templates/cookie_settings.php:53
+msgid "Collected Personal Data"
+msgstr "Събрани лични данни"
+
+#: cookie/class-cookie-admin.php:502
+msgid "Cookie \"%s\"%s%s"
+msgstr "Бисквитки \"%s\"%s%s"
+
+#: templates/cookie_settings.php:26
+msgid "Cookie function"
+msgstr "Функция бисквитки"
+
+#: cookie/class-cookie-admin.php:1016 cookie/class-cookie-admin.php:1352
+msgid "Could not connect to cookiedatabase.org"
+msgstr "Не може да се свърже с cookiedatabase.org"
+
+#: templates/service_settings.php:16
+msgid "Data is shared with this service"
+msgstr "Данните се споделят с тази услуга"
+
+#: cookie/class-cookie-admin.php:384
+msgid "No purposes listed"
+msgstr "Няма изброени цели"
+
+#: cookie/class-cookie-admin.php:320
+msgid "No service types listed"
+msgstr "Няма типове услуги"
+
+#: cookie/class-cookie-admin.php:252
+msgid "No services listed"
+msgstr "Няма включени услуги"
+
+#: cookie/class-cookie-admin.php:2910 functions.php:2160
+msgid "Purpose pending investigation"
+msgstr "Цел в процес на разследване"
+
+#: cookie/class-cookie-admin.php:275
+msgid "Select a service type"
+msgstr "Изберете тип услуга"
+
+#: cookie/class-cookie-admin.php:236
+msgid "Select or add a service"
+msgstr "Избор или добавяне на услуга"
+
+#: cookie/class-cookie-admin.php:603
+msgid "Service \"%s\""
+msgstr "Обслужване \"%s\""
+
+#: templates/service_settings.php:10
+msgid "Service type"
+msgstr "Тип услуга"
+
+#: templates/cookie_settings.php:71
+msgid "Show cookie on Cookie Policy"
+msgstr "Показване на \"бисквитки\" на \"бисквитките\" политика"
+
+#: templates/cookie_settings.php:42
+msgid "Stores personal data"
+msgstr "Съхранява лични данни"
+
+#: templates/cookie_settings.php:61
+msgid "Sync cookie info with cookiedatabase.org"
+msgstr "Синхронизиране на информацията за \"бисквитките\" с cookiedatabase.org"
+
+#: templates/service_settings.php:34
+msgid "Sync service info with cookiedatabase.org"
+msgstr "Информация за услугата за синхронизиране с cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:477
+msgid "Synchronization with cookiedatabase.org is not enabled for this cookie"
+msgstr "Синхронизация с cookiedatabase.org не е разрешена за тази бисквитка"
+
+#: cookie/class-cookie-admin.php:596
+msgid "Synchronization with cookiedatabase.org is not enabled for this service"
+msgstr "Синхронизацията с cookiedatabase.org не е разрешена за тази услуга"
+
+#: cookie/class-cookie-admin.php:471
+msgid "The data for this cookie is complete"
+msgstr "Данните за тази бисквитка са пълни"
+
+#: cookie/class-cookie-admin.php:590
+msgid "The data for this service is complete"
+msgstr "Данните за тази услуга са завършени"
+
+#: cookie/class-cookie-admin.php:479
+msgid "This cookie has been synchronized with cookiedatabase.org."
+msgstr "Тази бисквитка е синхронизирана с cookiedatabase.org."
+
+#: cookie/class-cookie-admin.php:473
+msgid "This cookie has missing fields"
+msgstr "Тази бисквитка има липсващи полета"
+
+#: cookie/class-cookie-admin.php:493
+msgid "This cookie has not been detected on your site in the last three months"
+msgstr "Тази \"бисквитка\" не е била открита на сайта Ви през последните три месеца"
+
+#: cookie/class-cookie-admin.php:496
+msgid "This cookie has not been found in the scan for three months. Please check if you are still using this cookie"
+msgstr "Тази бисквитка не е намерена в сканирането в продължение на три месеца. Моля, проверете дали все още използвате тази бисквитка"
+
+#: cookie/class-cookie-admin.php:491
+msgid "This cookie has recently been detected"
+msgstr "Тази бисквитка наскоро беше открита"
+
+#: cookie/class-cookie-admin.php:487
+msgid "This cookie is not shown on the Cookie Policy"
+msgstr "Тази \"бисквитка\" не е показана в Политиката за бисквитките"
+
+#: cookie/class-cookie-admin.php:481
+msgid "This cookie is not yet synchronized with cookiedatabase.org."
+msgstr "Тази бисквитка не се синхронизира с cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:485
+msgid "This cookie will be on your Cookie Policy"
+msgstr "Тази бисквитка ще бъде на Вашата Политика за бисквитките"
+
+#: cookie/class-cookie-admin.php:598
+msgid "This service has been synchronized with cookiedatabase.org"
+msgstr "Тази услуга е синхронизирана с cookiedatabase.org."
+
+#: callback-notices.php:107
+msgid "Your server does not have CURL installed, which is required for the scan. Please contact your hosting company to install CURL."
+msgstr "Вашият сървър не е инсталирано CURL, което е необходимо за сканирането. Моля, свържете се с вашата хостинг компания, за да инсталирате CURL."
+
+#: class-field.php:2105
+msgid "Add new service"
+msgstr "Добавяне на нова услуга"
+
+#: functions.php:2150
+msgctxt "Legal document cookie policy"
+msgid "We use %s for %s."
+msgstr "Използваме %s за %s."
+
+#: functions.php:2128
+msgid "Miscellaneous"
+msgstr "Разни"
+
+#: class-document.php:1634 templates/dashboard/documents-conditional.php:38
+#: templates/dashboard/documents.php:51 templates/dashboard/documents.php:53
+msgid "Click to copy the document shortcode"
+msgstr "Щракнете, за да видите краткия код на документа"
+
+#: templates/dashboard/documents.php:45
+msgid "Document is kept up to date by Complianz"
+msgstr "Документът се актуализира от complianz"
+
+#: templates/dashboard/documents.php:47
+msgid "Document is not kept up to date by Complianz"
+msgstr "Документът не се актуализира от complianz"
+
+#: functions.php:2137 functions.php:2142
+msgid "For more information, please read the %s%s Privacy Statement%s."
+msgstr "За повече информация прочетете %s%s Декларацията за поверителност на%s ."
+
+#: functions.php:2135 functions.php:2145
+msgid "This data is not shared with third parties."
+msgstr "Тези данни не се споделят с трети страни."
+
+#: class-document.php:1275
+msgid "Document status"
+msgstr "Състояние на документа"
+
+#: integrations/plugins/forminator.php:80
+#: integrations/plugins/happyforms.php:129
+msgid "Privacy"
+msgstr "Поверителност"
+
+#: callback-notices.php:150
+msgid "Because your site uses third-party cookies, the cookie blocker is now activated. If you experience issues on the front-end of your site due to blocked scripts, you can disable specific services or plugin integrations in the %sintegrations section%s, or you can disable the cookie blocker entirely on the %ssettings page%s"
+msgstr "Тъй като сайтът Ви използва бисквитки на трети страни, блокерът за бисквитки вече е активиран. Ако имате проблеми в клиентския край на сайта си поради блокирани скриптове, можете да изключите конкретни услуги или плъгини плъгини в секцията %sинтеграции%s или можете да деактивирате блокирането на бисквитки изцяло на %sстраницата с настройки%s"
+
+#: class-document.php:1301 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:143 gutenberg/build/index.js:2080
+msgid "Edit document and stop synchronization"
+msgstr "Редактиране на документ и спиране на синхронизацията"
+
+#: integrations/plugins/forminator-addon-class.php:27
+msgid "Integrate Forminator with Complianz Privacy Suite"
+msgstr "Интегриране на Forminator с пакет за поверителност за complianz"
+
+#: integrations/plugins/forminator.php:15
+msgid "Please accept cookies so we can validate your request with reCaptcha, and submit this form"
+msgstr "Моля, приемете бисквитките, за да можем да валидираме вашата заявка с reCaptcha и да изпратим този формуляр"
+
+#: integrations/plugins/forminator-addon-class.php:30
+msgid "Sorry but we failed to activate the Complianz integration"
+msgstr "Съжаляваме, но ние не успяхме да активирате интеграцията на complianz"
+
+#: integrations/plugins/forminator-addon-class.php:33
+msgid "Sorry but we failed to deactivate the Complianz integration, please try again"
+msgstr "Съжаляваме, но не успяхме да деактивираме интеграцията с complianz, моля, опитайте отново"
+
+#: integrations/plugins/forminator-addon-class.php:36
+msgid "Sorry, we failed to update settings, please check your form and try again"
+msgstr "За съжаление, не успяхме да актуализираме настройките, проверете формуляра и опитайте отново"
+
+#: class-document.php:1297 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:142 gutenberg/build/index.js:2079
+msgid "Synchronize document with Complianz"
+msgstr "Синхронизиране на документ със съвместими"
+
+#: integrations/plugins/happyforms.php:123
+msgid "Yes, I agree with the %sprivacy statement%s"
+msgstr "Да, съгласен съм с %sказателиство%s"
+
+#: integrations/plugins/beehive.php:98
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in Beehive."
+msgstr "Избрали сте да анонимизирате IP адресите. Тази настройка е активирана в Кошер."
+
+#: integrations/plugins/monsterinsights.php:66
+msgid "You have selected you do not share data with third-party networks. Demographics is now disabled in MonsterInsights."
+msgstr "Избрали сте да не споделяте данни с мрежи на трети страни. Демографското население е забранено в Чудовищни."
+
+#: integrations/plugins/beehive.php:102
+msgid "You have selected you do not share data with third-party networks. Display advertising is now disabled in Beehive."
+msgstr "Избрали сте да не споделяте данни с мрежи на трети страни. Дисплейното рекламиране вече е деактивирано в Beehive."
+
+#: config/documents/documents.php:70
+msgid "Cookie Policy (UK)"
+msgstr "Политика за бисквитките (Великобритания)"
+
+#: config/documents/documents.php:33
+msgid "Cookie Policy (EU)"
+msgstr "Политика за бисквитки (ЕС)"
+
+#: integrations/plugins/monsterinsights.php:62
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in MonsterInsights."
+msgstr "Избрали сте да анонимизирате IP адресите. Тази настройка вече е активирана в MonsterInsights."
+
+#: config/countries.php:90
+msgid "UK"
+msgstr "Великобритания"
+
+#: templates/integrations/plugins.php:2
+msgid "Below you will find the plugins currently detected and integrated with Complianz. Most plugins work by default, but you can also add a plugin to the script center or add it to the integration list."
+msgstr "По-долу ще намерите приставките, които понастоящем са открити и интегрирани с Complianz. Повечето плъгини работят по подразбиране, но можете да добавите плъгин към центъра на скрипт или да го добавите към списъка за интеграция."
+
+#: config/questions-wizard.php:747
+msgid "Checking services here will add the associated cookies to your Cookie Policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)"
+msgstr "Проверката на услугите тук ще добави свързаните бисквитки към Вашата Политика за бисквитки и ще блокира услугата, докато не бъде дадено съгласие (opt-in) или след оттегляне на съгласието (Opt-out)"
+
+#: config/questions-wizard.php:657
+msgid "Checking services here will add the associated cookies to your Cookie Policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)."
+msgstr "Проверката на услугите тук ще добави свързаните бисквитки към Вашата Политика за бисквитки и ще блокира услугата, докато не бъде дадено съгласие (включване) или след оттегляне на съгласието (Opt-Out)."
+
+#: class-document.php:781 class-document.php:789
+msgctxt "if phonenumber is entered, this string is part of the sentence \"you may contact %s, via %s or by telephone via %s\""
+msgid "or by telephone on %s"
+msgstr "или по телефона по %s"
+
+#: config/questions-wizard.php:712
+msgid "Is Hotjar configured in a privacy-friendly way?"
+msgstr "Hotjar конфигуриран ли е по начин, който е подходящ за поверителност?"
+
+#: templates/integrations/plugins.php:12
+msgid "No active plugins detected in the integrations list."
+msgstr "В списъка с интеграции не са открити активни приставки."
+
+#: config/steps.php:65
+msgid "Statistics - configuration"
+msgstr "Статистика - конфигурация"
+
+#: config/countries.php:93
+msgid "UK-GDPR"
+msgstr "Великобритания-GDPR"
+
+#: config/questions-wizard.php:714
+msgid "You can configure Hotjar privacy-friendly, if you do this, no consent is required for Hotjar."
+msgstr "Можете да конфигурирате Hotjar за поверителност, ако направите това, не се изисква съгласие за Hotjar."
+
+#: config/steps.php:70 integrations/integrations-menu.php:27
+msgid "Services"
+msgstr "Услуги"
+
+#: integrations/integrations-menu.php:8 integrations/integrations-menu.php:9
+#: shepherd/tour.php:95
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: callback-notices.php:235
+msgid "Categories are mandatory for your statistics configuration."
+msgstr "Категориите са задължителни за конфигурация на вашите статистики"
+
+#: templates/integrations/services.php:17
+msgid "%s are marked as not being used on your website in the %swizard%s."
+msgstr "%s са маркирани като неизползвани на вашия сайт в %swizard%s."
+
+#: templates/integrations/services.php:12
+msgid "Third-party services and social media"
+msgstr "Услуги на трети страни и социални медии"
+
+#: templates/dashboard/progress.php:35
+msgid "Well done! Your website is ready for your selected regions."
+msgstr "Браво! Вашият сайт е готов за избраните от вас региони."
+
+#: proof-of-consent/class-proof-of-consent.php:356
+msgid ""
+"This document was generated to show efforts made to comply with privacy legislation.\n"
+"                            This document will contain the Cookie Policy and the cookie consent settings to proof consent\n"
+"                            for the time and region specified below. For more information about this document, please go\n"
+"                            to %shttps://complianz.io/consent%s."
+msgstr ""
+"Този документ е създаден, за да покаже усилията, положени за спазване на законодателството в областта на неприкосновеността на личния живот.\n"
+"                            Този документ съдържа Правилата за бисквитките и настройките за съгласие на \"бисквитките\" за\n"
+"                            за времето и региона, посочени по-долу. За повече информация относно този документ, моля, отидете\n"
+"                            %shttps://complianz.io/consent%s."
+
+#: proof-of-consent/class-proof-of-consent.php:354 shepherd/tour.php:102
+msgid "Proof of Consent"
+msgstr "Доказателство за съгласие"
+
+#: proof-of-consent/class-proof-of-consent.php:353
+msgid "Cookie consent settings"
+msgstr "Настройки за съгласие с бисквитките"
+
+#: proof-of-consent/class-proof-of-consent.php:249
+msgid "Generate now"
+msgstr "Генерирай сега"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:170
+msgid "File"
+msgstr "Файл"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:144
+msgid "File not found"
+msgstr "Файлът не е открит"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:103
+msgid "Search"
+msgstr "Търсене"
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:171
+msgid "Created"
+msgstr "Създаден"
+
+#: config/countries.php:284
+msgid "North Macedonia"
+msgstr "Северна Македония"
+
+#: config/documents/cookie-policy-br.php:18
+#: config/documents/cookie-policy-ca.php:23
+#: config/documents/cookie-policy-eu.php:18
+#: config/documents/cookie-policy-za.php:18
+msgctxt "Legal document cookie policy"
+msgid "A script is a piece of program code that is used to make our website function properly and interactively. This code is executed on our server or on your device."
+msgstr "Скриптът е част от програмния код, който се използва, за да направи нашия уебсайт функция правилно и интерактивно. Този код се изпълнява на нашия сървър или на вашето устройство."
+
+#: cookiebanner/settings.php:324
+msgid "Show as soft cookie wall"
+msgstr "Показване като мека \"бисквитка\""
+
+#: proof-of-consent/class-proof-of-consent.php:198
+#: proof-of-consent/class-proof-of-consent.php:199
+#: proof-of-consent/class-proof-of-consent.php:244
+#: templates/dashboard/tools.php:43
+msgid "Proof of consent"
+msgstr "Доказателство за съгласие"
+
+#: config/documents/cookie-policy-br.php:156
+#: config/documents/cookie-policy-eu.php:158
+#: config/documents/cookie-policy-uk.php:155
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser."
+msgstr "Можете да използвате вашия интернет браузър за автоматично или ръчно изтриване на бисквитки. Можете също да укажете, че определени бисквитки не могат да бъдат поставени. Друга възможност е да промените настройките на вашия интернет браузър, така че да получавате съобщение всеки път, когато се поставя бисквитка. За повече информация относно тези опции, моля, вижте инструкциите в раздела Помощ на браузъра."
+
+#: config/questions-wizard.php:191
+msgid "The email address will be obfuscated on the front-end to prevent spidering."
+msgstr "Имейл адресът ще бъде замразен в лицевата страна, за да се предотврати паяжината."
+
+#: config/questions-wizard.php:829
+msgid "If you enable this, WordPress will not store personal data with comments and you won't need a consent checkbox for the comment form. The consent box will not be displayed."
+msgstr "Ако активирате това, WordPress няма да съхранява лични данни с коментари и няма да ви е необходима отметка за съгласие за формуляра за коментари. Полето за съгласие няма да бъде показано."
+
+#: config/questions-wizard.php:682
+msgid "Your site uses Google Fonts. For best privacy compliance, we recommend to self host Google Fonts. To self host, follow the instructions in %sthis article%s"
+msgstr "Сайтът Ви използва шрифтове на Google. За най-добро съответствие с поверителността, ние препоръчваме на самите хост шрифтове на Google. За самостоятелно хост, следвайте инструкциите в %sзи статия%s"
+
+#: config/countries.php:63
+msgid "CCPA"
+msgstr "CCPA"
+
+#: config/documents/cookie-policy-au.php:121
+#: config/documents/cookie-policy-br.php:103
+#: config/documents/cookie-policy-ca.php:104
+#: config/documents/cookie-policy-eu.php:103
+#: config/documents/cookie-policy-uk.php:101
+#: config/documents/cookie-policy-us.php:138
+#: config/documents/cookie-policy-za.php:102
+msgid "%s is located in the United States."
+msgid_plural "%s are located in the United States."
+msgstr[0] "%s е разположен в Съединените щати."
+msgstr[1] "%s са разположени в Съединените щати."
+
+#: config/general-settings.php:229
+msgid "Disable placeholder insertion"
+msgstr "Забраняване на вмъкването на контейнер"
+
+#: config/general-settings.php:231
+msgid "If you experience styling issues with videos or iFrames you can disable the placeholder insertion, which in some themes can conflict with theme styling."
+msgstr "Ако имате проблеми с оформянето с видеоклипове или iFrames, можете да забраните вмъкването на контейнери, което в някои теми може да противоречи на тематичен стил."
+
+#: config/documents/cookie-policy-br.php:103
+#: config/documents/cookie-policy-br.php:111
+#: config/documents/cookie-policy-ca.php:104
+#: config/documents/cookie-policy-ca.php:112
+#: config/documents/cookie-policy-eu.php:103
+#: config/documents/cookie-policy-eu.php:111
+#: config/documents/cookie-policy-uk.php:101
+#: config/documents/cookie-policy-uk.php:109
+#: config/documents/cookie-policy-us.php:138
+#: config/documents/cookie-policy-us.php:146
+#: config/documents/cookie-policy-za.php:102
+#: config/documents/cookie-policy-za.php:110
+msgid "Please read the privacy statement of these social networks (which can change regularly) to read what they do with your (personal) data which they process using these cookies. The data that is retrieved is anonymized as much as possible."
+msgstr "Моля, прочетете декларацията за поверителност на тези социални мрежи (които могат да се променят редовно), за да прочетете какво правят с Вашите (лични) данни, които те обработват с помощта на тези бисквитки. Данните, които се извличат, са анонимизирани колкото е възможно повече."
+
+#: config/documents/cookie-policy-br.php:64
+#: config/documents/cookie-policy-ca.php:63
+#: config/documents/cookie-policy-eu.php:64
+#: config/documents/cookie-policy-za.php:63
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to gain insights into the campaign results. This happens based on a profile we create based on your behavior on %s. With these cookies you, as website visitor, are linked to a unique ID but these cookies will not profile your behavior and interests to serve personalized ads."
+msgstr "На този уебсайт използваме рекламни бисквитки, които ни позволяват да получим информация за резултатите от кампанията. Това се случва въз основа на профил, който създаваме въз основа на вашето поведение на %s. С тези бисквитки Вие, като посетител на уебсайта, сте свързани с уникален ИД, но тези бисквитки няма да профилират поведението и интересите Ви, за да показвате персонализирани реклами."
+
+#: cookiebanner/settings.php:135
+msgid "When enabled, this is the cookie banner that is used for all visitors. Enabling it will disable this setting on the current default banner. Disabling it will enable randomly a different default banner."
+msgstr "Когато е активирана, това е банерът за \"бисквитки\", който се използва за всички посетители. Активирането ще забрани тази настройка на текущия банер по подразбиране. Деактивирането му ще позволи произволно различен банер по подразбиране."
+
+#: cookiebanner/class-cookiebanner-table.php:137
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:121
+msgid "name"
+msgstr "име"
+
+#: cookiebanner/cookiebanner.php:375
+#: proof-of-consent/class-proof-of-consent.php:264
+msgid "Filter"
+msgstr "Филтър"
+
+#: config/questions-wizard.php:165
+msgid "Address, City and Zipcode"
+msgstr "Адрес, град и пощенски код"
+
+#: cookiebanner/class-cookiebanner-table.php:177
+#: templates/cookie_settings.php:93
+msgid "Restore"
+msgstr "Възстановяване"
+
+#: cookiebanner/class-cookiebanner-table.php:115
+msgid "Active cookiebanners"
+msgstr "Активни бисквитки"
+
+#: cookiebanner/class-cookiebanner-table.php:182
+#: cookiebanner/class-cookiebanner-table.php:259
+msgid "Archive"
+msgstr "Архив"
+
+#: cookiebanner/class-cookiebanner-table.php:118
+msgid "Archived cookiebanners"
+msgstr "Архивни бисквитки"
+
+#: config/questions-wizard.php:792
+msgid "Are any of your advertising cookies used to show personalized ads?"
+msgstr "Някои от вашите рекламни бисквитки използвани ли са за показване на персонализирани реклами?"
+
+#: cookiebanner/class-cookiebanner-table.php:244
+msgid "Best performer"
+msgstr "Най-добре представящ се"
+
+#: cookiebanner/class-cookiebanner-table.php:254
+msgid "conversion"
+msgstr "Преобразуване"
+
+#: cookiebanner/cookiebanner.php:191 cookiebanner/cookiebanner.php:192
+#: templates/dashboard/progress-footer.php:22
+msgid "Cookie banner"
+msgstr "Банер за бисквитки"
+
+#: cookiebanner/cookiebanner.php:359
+msgid "Cookie banner settings"
+msgstr "Настройки на банер на бисквитки"
+
+#: cookiebanner/settings.php:88
+msgid "Cookie banner title"
+msgstr "Заглавие на банера с бисквитки"
+
+#: cookiebanner/class-cookiebanner-table.php:73
+#: cookiebanner/cookiebanner.php:472
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:67
+msgid "Cookiebanner"
+msgstr "Банер за бисквитки"
+
+#: cookiebanner/class-cookiebanner-table.php:74
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:68
+msgid "Cookiebanners"
+msgstr "Банери за бисквитки"
+
+#: cookiebanner/settings.php:134
+msgid "Default cookie banner"
+msgstr "Банер за бисквитка по подразбиране"
+
+#: cookiebanner/settings.php:89
+msgid "Descriptive title of the cookiebanner"
+msgstr "Описателно заглавие на cookiebanner"
+
+#: config/questions-wizard.php:812
+msgid "Does your website use WordPress comments?"
+msgstr "Сайтът ви използва ли коментарите на WordPress?"
+
+#: cookiebanner/settings.php:90
+msgid "For internal use only"
+msgstr "Само за вътрешна употреба"
+
+#: config/questions-wizard.php:794
+msgid "If you only use Google for advertising, and have activated the option to use only non personalized ads, you can select no here."
+msgstr "Ако използвате Google само за рекламиране и сте активирали опцията да използвате само неперсонализирани реклами, можете да изберете \"Не\" тук."
+
+#: cookiebanner/class-cookiebanner.php:204
+msgid "New cookie banner"
+msgstr "Нов банер за бисквитки"
+
+#: cookiebanner/class-cookiebanner-table.php:202
+msgid "Unnamed cookie banner"
+msgstr "Неназован банер за бисквитки"
+
+#: functions.php:2652
+msgid "All consent types"
+msgstr "Всички видове съгласие"
+
+#: functions.php:2648
+msgid "Opt-in"
+msgstr "Записване"
+
+#: functions.php:2650
+msgid "Opt-out"
+msgstr "Отказване от участие"
+
+#: integrations/plugins/wpforms.php:23
+msgid "(WP Forms)"
+msgstr "(WP Forms)"
+
+#: cron/cron.php:46
+msgid "Once every month"
+msgstr "Веднъж на всеки месец"
+
+#: config/general-settings.php:100 config/general-settings.php:117
+msgid "Blocked content text"
+msgstr "Текст на блокирано съдържание"
+
+#: config/documents/cookie-policy-br.php:46
+#: config/documents/cookie-policy-eu.php:46
+#: config/documents/cookie-policy-za.php:46
+msgctxt "Legal document cookie policy"
+msgid "Because statistics are being tracked anonymously, no permission is asked to place statistics cookies."
+msgstr "Тъй като статистиките са извличани анонимно, не е изисквано разрешение за поставяне на аналитични бисквитки."
+
+#: config/documents/cookie-policy-br.php:39
+#: config/documents/cookie-policy-eu.php:39
+#: config/documents/cookie-policy-za.php:39
+msgctxt "Legal document cookie policy"
+msgid "We ask your permission to place statistics cookies."
+msgstr "Искаме вашето разрешение, за да използваме аналитични бисквитки."
+
+#: config/documents/cookie-policy-br.php:38
+#: config/documents/cookie-policy-ca.php:46
+#: config/documents/cookie-policy-eu.php:38
+#: config/documents/cookie-policy-za.php:38
+msgctxt "Legal document cookie policy"
+msgid "We use statistics cookies to optimize the website experience for our users. With these statistics cookies we get insights in the usage of our website."
+msgstr "Използваме аналитични бисквитки, за да оптимизираме работата на уебсайта за нашите потребители посетителите. Чрез тези аналитични бисквитки ние получаваме обратна връзка за ползваемостта на нашия уебсайт."
+
+#: cookiebanner/settings.php:848
+msgid "Timeout in seconds"
+msgstr "Време на изчакване в секунди"
+
+#: cookiebanner/settings.php:837
+msgid "When dismiss on time out is enabled, the cookie banner will be dismissed after 10 seconds, or the time you choose below."
+msgstr "Когато е активирано отхвърляне на времето за изчакване, банерът за \"бисквитки\" ще бъде отхвърлен след 10 секунди или времето, което изберете по-долу."
+
+#: config/general-settings.php:351
+msgid "Are you sure? This will remove all Complianz data."
+msgstr "Сигурни ли сте? Това ще премахне всички данни на Complianz."
+
+#: cookiebanner/settings.php:823
+msgid "Dismiss on scroll"
+msgstr "Отхвърляне на превъртане"
+
+#: cookiebanner/settings.php:836
+msgid "Dismiss on time out"
+msgstr "Освобождаване на времето за изчакване"
+
+#: cookiebanner/settings.php:824
+msgid "When dismiss on scroll is enabled, the cookie banner will be dismissed as soon as the user scrolls."
+msgstr "Когато отхвърляне на превъртане е разрешено, банерът на \"бисквитки\" ще бъде отхвърлен веднага след като потребителят превърта."
+
+#. Plugin Name of the plugin
+msgid "Complianz | GDPR/CCPA Cookie Consent"
+msgstr "Complianz | GDPR/CCPA Cookie Consent"
+
+#. Plugin URI of the plugin
+msgid "https://www.wordpress.org/plugins/complianz-gdpr"
+msgstr "https://bg.wordpress.org/plugins/complianz-gdpr"
+
+#: templates/dashboard/documents-conditional.php:4
+msgid "Privacy Statements"
+msgstr "Декларации за поверителност"
+
+#: config/questions-wizard.php:423
+msgid "It's recommended to let Complianz handle the statistics script. This way, the plugin can detect if it needs to be hooked into the cookie consent code or not. But if you have set it up yourself and don't want to change this, you can choose to do so."
+msgstr "Препоръчително е да оставите Complianz да се погрижи за статистическия скрипт. По този начин разширението може да открие, дали има нужда да бъде обвързан с код за съгласие за използване на бисквитки или не. Ако все пак сте го настроили сами и не искате да променяте това, можете да изберете тази опция"
+
+#: config/steps.php:26
+msgid "Website information"
+msgstr "Информация за уебсайта"
+
+#: callback-notices.php:39
+msgid "If you add the ID for your statistics tool here, Complianz will configure your site for statistics tracking."
+msgstr "Ако добавите тук идентификационния номер за инструмента си за статистически данни, страницата на Complianz ще конфигурира сайта Ви за проследяване на статистическите данни."
+
+#: callback-notices.php:187
+msgid "You have indicated you use a statistics tool which tracks personal data. You can insert this script here so it only fires if the user consents to this."
+msgstr "Вие сте посочили, че използвате статистически инструмент, който проследява личните данни. Можете да вмъкнете този скрипт тук, така че да се задейства само ако потребителят даде съгласието си за това."
+
+#: DNSMPD/class-DNSMPD.php:492
+msgid "email@email.com"
+msgstr "email@email.com"
+
+#: DNSMPD/class-DNSMPD.php:488
+msgid "Your name"
+msgstr "Вашето име"
+
+#: cron/cron.php:50
+msgid "Once every week"
+msgstr "Веднъж седмично"
+
+#: cron/cron.php:54
+msgid "Once every day"
+msgstr "Веднъж всеки ден"
+
+#: config/documents/documents.php:14
+#: templates/dashboard/documents-conditional.php:28
+msgid "Privacy Statement for Children"
+msgstr "Декларация за поверителност на децата"
+
+#: DNSMPD/class-DNSMPD.php:505
+msgid "Send"
+msgstr "Изпрати"
+
+#: config/documents/documents.php:78
+msgid "Privacy Statement (UK)"
+msgstr "Декларация за поверителност (Великобритания)"
+
+#: class-admin.php:971
+msgid "Data"
+msgstr "Данни"
+
+#: config/steps.php:73 integrations/integrations-menu.php:35
+msgid "Plugins"
+msgstr "Плъгини"
+
+#: config/steps.php:44
+msgid "Security & Consent"
+msgstr "Сигурност - Съгласие"
+
+#: config/general-settings.php:333
+msgid "You can use this to export your settings to another site"
+msgstr "Можете да използвате това, за да експортирате настройките си на друг сайт"
+
+#: config/purpose.php:27
+msgid "Photos"
+msgstr "Снимки"
+
+#: config/purpose.php:26
+msgid "Sex"
+msgstr "Пол"
+
+#: config/purpose.php:28
+msgid "Social media accounts"
+msgstr "Профили в социалните медии"
+
+#: config/purpose.php:21
+msgid "IP address"
+msgstr "IP адрес"
+
+#: class-review.php:92
+msgid "Maybe later"
+msgstr "Може би по-късно"
+
+#: class-review.php:89
+msgid "Leave a review"
+msgstr "Оставете отзив"
+
+#: integrations/plugins/contact-form-7.php:171
+msgid "(Contact form 7)"
+msgstr "(Contact form 7)"
+
+#: integrations/plugins/gravity-forms.php:95
+msgid "(Gravity Forms)"
+msgstr "(Gravity Forms)"
+
+#: DNSMPD/class-DNSMPD.php:409
+msgid "Please enter a valid email address."
+msgstr "Моля, въведете валиден имейл адрес."
+
+#: DNSMPD/class-DNSMPD-table.php:146
+msgid "Unnamed user"
+msgstr "Потребител без име"
+
+#: DNSMPD/class-DNSMPD-table.php:64
+msgid "Users"
+msgstr "Потребители"
+
+#: DNSMPD/class-DNSMPD-table.php:63
+msgid "User"
+msgstr "Потребител"
+
+#: class-review.php:83
+msgid "Hi, you have been using Complianz | GDPR cookie consent for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Здравейте, използвате Complianz | GDPR cookie consent от повече от месец! Бихме се радвали и оценили, ако оставите отзив за нас в WordPress.org. Ако имате въпроси или обратна връзка, можете да ни оставите %sсъобщение%s."
+
+#: cookiebanner/class-cookiebanner-table.php:210
+#: DNSMPD/class-DNSMPD-table.php:149
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:154
+#: templates/cookie_settings.php:90 templates/service_settings.php:52
+msgid "Delete"
+msgstr "Изтрий"
+
+#: DNSMPD/class-DNSMPD.php:414
+msgid "Please enter your name"
+msgstr "Моля въведете името си"
+
+#: DNSMPD/class-DNSMPD.php:404
+msgid "Sorry, it looks like you're a bot"
+msgstr "Съжалявам, изглежда, че си бот"
+
+#: DNSMPD/class-DNSMPD.php:419
+msgid "That's a long name you got there. Please try to shorten the name."
+msgstr "Това е дълго име, което имаш. Моля, опитайте се да съкрати името."
+
+#: integrations/plugins/contact-form-7.php:189
+#: integrations/plugins/wpforms.php:60
+msgid "To submit this form, you need to accept our %sPrivacy Statement%s"
+msgstr "За да изпратите този формуляр, трябва да приемете нашето %s Декларация за поверителност%s"
+
+#: integrations/plugins/gravity-forms.php:109
+msgid "To submit this form, you need to accept our Privacy Statement"
+msgstr "За да изпратите този формуляр, трябва да приемете нашата Декларация за поверителност"
+
+#: DNSMPD/class-DNSMPD.php:455
+msgid "Your request has been processed successfully!"
+msgstr "Вашата заявка е обработена успешно!"
+
+#: config/purpose.php:24
+msgid "Marital status"
+msgstr "Семейно положение"
+
+#: functions.php:337
+msgid "Denied"
+msgstr "Отказано"
+
+#: functions.php:334
+msgid "Accepted"
+msgstr "Прието"
+
+#. Description of the plugin
+msgid "Complianz Privacy Suite for GDPR, CaCPA, DSVGO, AVG with a conditional cookie warning and customized cookie policy"
+msgstr "Пакет за поверителност от Complianz за GDPR, CaCPA, DSVGO, AVG, с гъвкаво съобщение за бисквитките, според случая и персонализирана политика за използване на бисквитки"
+
+#: config/steps.php:11
+msgid "Visitors"
+msgstr "Посетители"
+
+#: functions.php:333 functions.php:336
+msgid "Current status: %s"
+msgstr "Състояние: %s"
+
+#: config/steps.php:100
+msgctxt "intro menu"
+msgid "Get ready to finish your configuration."
+msgstr "Пригответе се да завършите вашата конфигурация."
+
+#: config/class-config.php:494
+msgid "Not all fields have been entered, or you have not clicked the \"finish\" button yet."
+msgstr "Не всички полета са въведени, или не сте щракнали върху бутона \"Готово\"."
+
+#: config/class-config.php:603
+msgid "Your documents have not been updated in the past 12 months. Run the wizard to check your settings."
+msgstr "Документите ви не са актуализирани през последните 12 месеца. Изпълнете съветника, за да проверите настройките си."
+
+#: config/questions-wizard.php:203
+msgid "Phone number"
+msgstr "Телефонен номер"
+
+#: config/questions-wizard.php:216
+msgid "Indicate for what purpose personal data is processed via your website:"
+msgstr "Посочете за каква цел се обработват лични данни чрез вашия уебсайт:"
+
+#: config/general-settings.php:343
+msgid "Import settings"
+msgstr "Импортиране на настройки"
+
+#: config/documents/cookie-policy-br.php:206
+#: config/documents/cookie-policy-eu.php:196
+#: config/documents/cookie-policy-za.php:193
+msgctxt "Legal document cookie policy"
+msgid "Website:"
+msgstr "Уебсайт:"
+
+#: config/documents/cookie-policy-br.php:199
+#: config/documents/cookie-policy-ca.php:178
+#: config/documents/cookie-policy-eu.php:189
+#: config/documents/cookie-policy-za.php:186
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Contact details"
+msgstr "Данни за контакт"
+
+#: config/general-settings.php:202
+msgid "Hi {name}"
+msgstr "Здравейте {name}"
+
+#: config/general-settings.php:344
+msgid "If you want to import your settings, please check out the %spremium version%s"
+msgstr "Ако искате да импортирате настройките си, моля, проверете версията на %sпремиум%s"
+
+#: config/documents/cookie-policy-br.php:207
+#: config/documents/cookie-policy-eu.php:197
+#: config/documents/cookie-policy-za.php:194
+msgctxt "Legal document cookie policy"
+msgid "Email:"
+msgstr "Email:"
+
+#: config/general-settings.php:201
+msgid "Notification email content"
+msgstr "Съдържание на имейл за известяване"
+
+#: config/general-settings.php:189
+msgid "Notification email subject"
+msgstr "Предмет на имейл известие"
+
+#: config/general-settings.php:176
+msgid "Notification sender email address"
+msgstr "Имейл адрес на подателя на известие"
+
+#: config/general-settings.php:359
+msgid "This will reset all settings to defaults. All data in the Complianz plugin will be deleted"
+msgstr "Това ще възстанови всички настройки по подразбиране. Всички данни в плъгина Complianz ще бъдат изтрити"
+
+#: config/general-settings.php:178
+msgid "When emails are sent, you can choose the sender email address here. Please note that it should have this website's domain as sender domain, otherwise the server might block the email from being sent."
+msgstr "Когато се изпращат имейли, можете да изберете имейл адреса на подателя тук. Моля, имайте предвид, че той трябва да има домейн на този сайт като домейн на подател, в противен случай сървърът може да блокира изпращането на имейла."
+
+#: config/documents/cookie-policy-br.php:155
+#: config/documents/cookie-policy-ca.php:152
+#: config/documents/cookie-policy-eu.php:157
+#: config/documents/cookie-policy-uk.php:154
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Enabling/disabling and deleting cookies"
+msgstr "Активиране/деактивиране и изтриване на бисквитки"
+
+#: config/documents/cookie-policy-br.php:119
+#: config/documents/cookie-policy-ca.php:120
+#: config/documents/cookie-policy-eu.php:119
+#: config/documents/cookie-policy-za.php:118
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Placed cookies"
+msgstr "Поставени бисквитки"
+
+#: config/documents/cookie-policy-eu.php:176
+#: config/documents/cookie-policy-za.php:174
+msgctxt "Legal document cookie policy"
+msgid "Right of access: You have the right to access your personal data that is known to us."
+msgstr "Право на достъп: Имате право на достъп до вашите лични данни, които са ни известни."
+
+#: config/documents/cookie-policy-eu.php:177
+#: config/documents/cookie-policy-za.php:175
+msgctxt "Legal document cookie policy"
+msgid "Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data whenever you wish."
+msgstr "Право на коригиране: имате право да допълвате, коригирате, изтривате или блокирате личните си данни, когато пожелаете."
+
+#: templates/cookiepolicy/services.php:13
+msgctxt "Legal document cookie policy"
+msgid "Sharing data"
+msgstr "Споделяне на данни"
+
+#: config/documents/cookie-policy-br.php:166
+#: config/documents/cookie-policy-ca.php:164
+#: config/documents/cookie-policy-eu.php:168
+#: config/documents/cookie-policy-za.php:167
+msgctxt "Legal document cookie policy"
+msgid "You have the following rights with respect to your personal data:"
+msgstr "Имате следните права по отношение на вашите лични данни:"
+
+#: config/documents/cookie-policy-eu.php:175
+#: config/documents/cookie-policy-za.php:173
+msgctxt "Legal document cookie policy"
+msgid "You have the right to know why your personal data is needed, what will happen to it, and how long it will be retained for."
+msgstr "Имате право да знаете защо са необходими вашите лични данни, какво ще се случи с тях и колко време ще бъдат запазени."
+
+#: config/documents/cookie-policy-br.php:164
+#: config/documents/cookie-policy-ca.php:161
+#: config/documents/cookie-policy-eu.php:166
+#: config/documents/cookie-policy-za.php:165
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Your rights with respect to personal data"
+msgstr "Вашите права по отношение на личните данни"
+
+#: config/documents/cookie-policy-br.php:81
+#: config/documents/cookie-policy-eu.php:81
+#: config/documents/cookie-policy-za.php:71
+msgctxt "Legal document cookie policy"
+msgid "Because these cookies are marked as tracking cookies, we ask your permission to place these."
+msgstr "Тъй като тези бисквитки са маркирани като проследяващ бисквитки, молим За Вас да ги поставите."
+
+#: config/documents/cookie-policy-br.php:37
+#: config/documents/cookie-policy-br.php:45
+#: config/documents/cookie-policy-ca.php:45
+#: config/documents/cookie-policy-eu.php:37
+#: config/documents/cookie-policy-eu.php:45
+#: config/documents/cookie-policy-za.php:37
+#: config/documents/cookie-policy-za.php:45
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Statistics cookies"
+msgstr "Аналитични бисквитки"
+
+#: config/documents/cookie-policy-br.php:54
+#: config/documents/cookie-policy-br.php:63
+#: config/documents/cookie-policy-ca.php:53
+#: config/documents/cookie-policy-ca.php:62
+#: config/documents/cookie-policy-eu.php:54
+#: config/documents/cookie-policy-eu.php:63
+#: config/documents/cookie-policy-za.php:53
+#: config/documents/cookie-policy-za.php:62
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Advertising cookies"
+msgstr "Рекламни \"бисквитки\""
+
+#: config/documents/cookie-policy-br.php:27
+#: config/documents/cookie-policy-ca.php:36
+#: config/documents/cookie-policy-eu.php:27
+#: config/documents/cookie-policy-za.php:27
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Cookies"
+msgstr "Бисквитки"
+
+#: config/documents/cookie-policy-br.php:31
+#: config/documents/cookie-policy-ca.php:39
+#: config/documents/cookie-policy-eu.php:31
+#: config/documents/cookie-policy-za.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Technical or functional cookies"
+msgstr "Технически или функционални бисквитки"
+
+#: config/documents/cookie-policy-ca.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Third parties"
+msgstr "Трети страни"
+
+#: config/documents/cookie-policy-br.php:124
+#: config/documents/cookie-policy-br.php:133
+#: config/documents/cookie-policy-ca.php:125
+#: config/documents/cookie-policy-eu.php:124
+#: config/documents/cookie-policy-eu.php:133
+#: config/documents/cookie-policy-za.php:123
+#: config/documents/cookie-policy-za.php:132
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Consent"
+msgstr "Съгласие"
+
+#: config/documents/cookie-policy-br.php:17
+#: config/documents/cookie-policy-ca.php:22
+#: config/documents/cookie-policy-eu.php:17
+#: config/documents/cookie-policy-za.php:17
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are scripts?"
+msgstr "Какво представляват скриптовете?"
+
+#: config/documents/cookie-policy-br.php:21
+#: config/documents/cookie-policy-ca.php:26
+#: config/documents/cookie-policy-eu.php:21
+#: config/documents/cookie-policy-za.php:21
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What is a web beacon?"
+msgstr "Какво е уеб маяк?"
+
+#: config/documents/cookie-policy-br.php:13
+#: config/documents/cookie-policy-ca.php:18
+#: config/documents/cookie-policy-eu.php:13
+#: config/documents/cookie-policy-za.php:13
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are cookies?"
+msgstr "Какво представляват бисквитките?"
+
+#: config/documents/cookie-policy-br.php:9
+#: config/documents/cookie-policy-ca.php:13
+#: config/documents/cookie-policy-eu.php:9
+#: config/documents/cookie-policy-za.php:9
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Introduction"
+msgstr "Въведение"
+
+#: config/countries.php:83
+msgid "GDPR"
+msgstr "GDPR"
+
+#: config/countries.php:80
+msgid "EU"
+msgstr "ЕС"
+
+#: config/purpose.php:52
+msgid "a telephone number"
+msgstr "телефонен номер"
+
+#: config/purpose.php:40
+msgid "Medical information"
+msgstr "Медицинска информация"
+
+#: config/purpose.php:48
+msgid "a first and last name"
+msgstr "име и фамилия"
+
+#: config/purpose.php:33
+msgid "Driver's license"
+msgstr "Шофьорска книжка"
+
+#: config/purpose.php:19
+msgid "An email address"
+msgstr "Имейл адрес"
+
+#: config/purpose.php:20
+msgid "A telephone number"
+msgstr "Телефонен номер"
+
+#: config/purpose.php:4
+msgid "Payments"
+msgstr "Плащания"
+
+#: config/purpose.php:43
+msgid "Biometric information"
+msgstr "Биометрична информация"
+
+#: config/purpose.php:39
+msgid "Financial information such as bank account number or credit card number"
+msgstr "Финансова информация като номер на банкова сметка или номер на кредитна карта"
+
+#: config/purpose.php:38
+msgid "Employment history"
+msgstr "История на заетостта"
+
+#: config/purpose.php:6
+msgid "Newsletters"
+msgstr "Бюлетини"
+
+#: config/purpose.php:31
+msgid "Physical characteristics or description"
+msgstr "Физически характеристики или описание"
+
+#: config/documents/documents.php:10 config/questions-wizard.php:119
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:113
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:483
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:549
+#: integrations/plugins/gravity-forms.php:148
+#: integrations/plugins/gravity-forms.php:188 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:265 gutenberg/build/index.js:2202
+msgid "Privacy Statement"
+msgstr "Декларация за поверителност"
+
+#: config/purpose.php:16
+msgid "A first and last name"
+msgstr "Собствено и фамилно име"
+
+#: config/purpose.php:49
+msgid "a home or other physical address including street name and name of a city or town"
+msgstr "домашен или друг физически адрес, включително име на улица и име на град или град"
+
+#: config/purpose.php:18
+msgid "A home or other physical address, including street name and name of a city or town"
+msgstr "Домашен или друг физически адрес, включително име на улица и име на град или град"
+
+#: config/purpose.php:30
+msgid "A signature"
+msgstr "Подписът"
+
+#: config/purpose.php:29
+msgid "A social security number"
+msgstr "Номер на социалната осигуровка"
+
+#: config/purpose.php:53
+msgid "a Social Security number"
+msgstr "номер на социална осигуровка"
+
+#: config/purpose.php:17
+msgid "Account name or alias"
+msgstr "Име или псевдоним на акаунт"
+
+#: config/purpose.php:50
+msgid "an email address from the child"
+msgstr "имейл адрес от детето"
+
+#: config/purpose.php:51
+msgid "an email address from the parent or guardian"
+msgstr "имейл адрес от родителя или настойника"
+
+#: config/purpose.php:54
+msgid "an identifier that permits the physical or online contacting of a child"
+msgstr "идентификатор, който позволява физическо или онлайн контакт с дете"
+
+#: config/purpose.php:42
+msgid "Commercial information, including records of personal property, products or services purchased, obtained, or considered"
+msgstr "Търговска информация, включително записи на лични вещи, продукти или услуги, закупени, получени или считани за"
+
+#: config/purpose.php:9
+msgid "Compiling and analyzing statistics for website improvement."
+msgstr "Съставяне и анализ на статистически данни за подобряване на уебсайта."
+
+#: config/purpose.php:3
+msgid "Contact - Through phone, mail, email and/or webforms"
+msgstr "Контакт - чрез телефон, поща, имейл и/или уебформуляр"
+
+#: config/purpose.php:36
+msgid "Education information"
+msgstr "Информация за образованието"
+
+#: config/purpose.php:23
+msgid "Geolocation data"
+msgstr "Данни за геолокация"
+
+#: config/purpose.php:41
+msgid "Health insurance information"
+msgstr "Информация за здравното осигуряване"
+
+#: config/general-settings.php:14
+msgid "If enabled, the cookie warning will not show for countries without a cookie law, and will adjust consent management depending on supported privacy laws"
+msgstr "Ако е активирано, предупреждението за \"бисквитки\" няма да се покаже за държави без закон за бисквитките и ще коригира управлението на съгласието в зависимост от поддържаните закони за поверителност"
+
+#: config/purpose.php:35
+msgid "Insurance policy number"
+msgstr "Номер на застрахователната полица"
+
+#: config/purpose.php:22
+msgid "Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement"
+msgstr "Информация за активността в интернет, включително, но не само, хронология на браузъра, хронология на търсенията и информация относно взаимодействието на потребителя с интернет уеб сайт, приложение или реклама"
+
+#: config/purpose.php:55
+msgid "other information concerning the child or the parents, combined with an identifier as described above"
+msgstr "друга информация относно детето или родителите, съчетана с идентификатор, както е описано по-горе"
+
+#: config/purpose.php:32
+msgid "Passport number"
+msgstr "Номер на паспорта"
+
+#: config/purpose.php:37
+msgid "Professional or employment-related information"
+msgstr "Информация за специалисти или работници"
+
+#: config/purpose.php:5
+msgid "Registering an account"
+msgstr "Регистриране на акаунт"
+
+#: config/purpose.php:34
+msgid "State identification card number"
+msgstr "Номер на картата за идентификация на държавата"
+
+#: config/purpose.php:8
+msgid "To be able to comply with legal obligations"
+msgstr "Да може да спазва правните задължения"
+
+#: config/purpose.php:10
+msgid "To be able to offer personalized products and services"
+msgstr "Да можем да предлагаме персонализирани продукти и услуги"
+
+#: config/purpose.php:7
+msgid "To support services or products that a customer wants to buy or has purchased"
+msgstr "За да поддържате услуги или продукти, които клиентът желае да закупи или"
+
+#: config/countries.php:60
+msgid "US"
+msgstr "УЗ"
+
+#: class-field.php:2188
+msgid "%s country"
+msgstr "%s държава"
+
+#: templates/service_settings.php:27
+msgid "Privacy Statement URL"
+msgstr "URL адрес на декларацията за поверителност"
+
+#: class-field.php:2236 class-field.php:2346 class-field.php:2417
+#: class-field.php:2555 class-field.php:2761 class-field.php:2942
+#: class-field.php:2998 class-field.php:3052
+msgid "New entry"
+msgstr "Нов запис"
+
+#: templates/integrations/custom-scripts.php:2
+msgid "The script center should be used to add and block third-party scripts and iFrames before consent is given, or when consent is revoked. For example Hotjar and embedded video’s."
+msgstr "Центърът за управление на скриптове трябва да бъде използван за добавяне и блокиране на скриптове от трети страни и iFrames прозорци, преди да е получено съгласие, или когато съгласието е отменено. Например Hotjar и вградени видеа."
+
+#: class-admin.php:861 config/steps.php:21 config/steps.php:98
+msgid "Documents"
+msgstr "Документи"
+
+#: class-field.php:2177
+msgid "A Processing Agreement outside Complianz Privacy Suite"
+msgstr "Споразумение за обработка извън съответствие с изискванията на пакета за поверителност"
+
+#: class-field.php:2250
+msgid "Add new %s"
+msgstr "Добавяне на нов %s"
+
+#: class-wizard.php:114
+msgid "Click '%s' to complete the configuration. You can come back to change your configuration at any time."
+msgstr "Кликнете върху '%s', за да завършите конфигурацията. Можете да се върнете, за да промените конфигурацията си по всяко време."
+
+#: class-admin.php:314
+msgid "Data successfully cleared"
+msgstr "Данните са успешно изчиствани"
+
+#: class-wizard.php:518
+msgid "If this user stops editing, the lock will expire after %s minutes."
+msgstr "Ако този потребител спре да редактира, заключването ще изтече след %s минути."
+
+#: class-field.php:2154
+msgid "Name of the %s with whom you share the data"
+msgstr "Име на %s, с които споделяте данните"
+
+#: class-field.php:2289
+msgid "Name of the Third Party with whom you share the data"
+msgstr "Име на третата страна, с която споделяте данните"
+
+#: class-document.php:1111
+msgctxt "Subject in notification email"
+msgid "Your legal documents on %s need to be updated."
+msgstr "Вашите правни документи на %s трябва да бъдат актуализирани."
+
+#: templates/dashboard/tools-footer.php:2
+msgid "System Status"
+msgstr "Състояние на Системата"
+
+#: callback-notices.php:77
+msgid "The scan found forms on your site, which means answer should probably include \"contact\"."
+msgstr "Сканирането намери формуляри на сайта ви, което означава, че отговорът вероятно трябва да включва \"контакт\"."
+
+#: class-wizard.php:516
+msgid "The wizard is currently being edited by %s"
+msgstr "Съветникът в момента се редактира от %s"
+
+#: callback-notices.php:119
+msgid "You are using an ad blocker. This will prevent most cookies from being placed. Please run the scan without an adblocker enabled."
+msgstr "Използвате рекламен блокер. Това ще попречи на повечето бисквитки да бъдат поставяни. Стартирайте сканирането без активиран adblocker."
+
+#: callback-notices.php:122
+msgid "You are using an anonymous window. This will prevent most cookies from being placed. Please run the scan in a normal browser window."
+msgstr "Използвате анонимен прозорец. Това ще попречи на повечето бисквитки да бъдат поставяни. Стартирайте сканирането в нормален прозорец на браузъра."
+
+#: class-document.php:1669 class-document.php:1733
+msgid "Your WordPress version does not support the functions needed for this step. You can upgrade to the latest WordPress version, or add the pages manually to a menu."
+msgstr "Вашата версия на WordPress не поддържа функциите, необходими за тази стъпка. Можете да надстроите до последната версия на WordPress или да добавите страниците ръчно в менюто."
+
+#: config/documents/cookie-policy-br.php:134
+#: config/documents/cookie-policy-eu.php:134
+#: config/documents/cookie-policy-za.php:133
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using the categories of cookies and plug-ins you selected in the pop-up, as described in this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Когато посещавате нашия уебсайт за първи път, ще ви покажем изскачащ прозорец с обяснение за бисквитките. Веднага след като кликнете върху \"%s\", Вие се съгласявате с нас, като използваме категориите бисквитки и плъгини, които сте избрали в изскачащия прозорец, както е описано в тази Политика за бисквитките. Можете да деактивирате използването на бисквитки чрез браузъра си, но имайте предвид, че нашият уебсайт може вече да не работи правилно."
+
+#: integrations/plugins/beehive.php:40
+#: integrations/plugins/caos-host-analytics-local.php:80
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:51
+#: integrations/plugins/monsterinsights.php:54
+#: integrations/plugins/woocommerce-google-analytics-integration.php:77
+#: integrations/plugins/woocommerce-google-analytics-pro.php:90
+msgid "You use %s, which means the answer to this question should be Google Analytics."
+msgstr "Използвате %s, което означава, че отговорът на този въпрос трябва да бъде Google Анализ."
+
+#: proof-of-consent/class-cookiestatement-snapshot-table.php:152
+msgid "Download"
+msgstr "Изтегляне"
+
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:115
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:116
+msgid "View Preferences"
+msgstr "Преглед на настройките"
+
+#: cookiebanner/settings.php:178
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:136
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:135
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:130
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-manage-consent-button-widget.php:136
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:131
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-view-save-preferences-button-widget.php:273
+msgid "Center"
+msgstr "Център"
+
+#: cookiebanner/settings.php:225
+msgid "Depending on your settings and cookies you use, there can be two or three categories. With Tag Manager you can use more, custom categories."
+msgstr "В зависимост от настройките и бисквитките, които използвате, може да има две или три категории. С Мениджър на маркери можете да използвате повече персонализирани категории."
+
+#: config/general-settings.php:148
+msgid "Duration in days of the A/B testing period"
+msgstr "Продължителност в дните на периода на изпитване A/B"
+
+#: class-field.php:3124 cookiebanner/class-cookiebanner-table.php:208
+msgid "Edit"
+msgstr "Редактирай"
+
+#: DNSMPD/class-DNSMPD-table.php:164 DNSMPD/class-DNSMPD.php:491
+#: DNSMPD/csv.php:57
+msgid "Email"
+msgstr "Имейл"
+
+#: config/general-settings.php:43
+msgid "Enable A/B testing"
+msgstr "Разрешаване на тестване на A/B"
+
+#: config/questions-wizard.php:473
+msgid "For the Google Tag Manager code, log on. Then, you will immediatly see Container codes. The one next to your website name is the code you will need to fill in here, the Container ID."
+msgstr "Влезте в профила си за кода на Мениджъра на маркери на Google. След това веднага ще видите кодове на контейнери. Този до името на уебсайта ви е кодът, който трябва да попълните тук, и id на контейнера."
+
+#: config/general-settings.php:45
+msgid "If enabled, the plugin will track which cookie banner has the best conversion rate."
+msgstr "Ако е активирана, приставката ще проследява кой банер с \"бисквитки\" има най-добрата скорост на реализация."
+
+#: config/class-config.php:283 config/class-config.php:289
+msgid "If you want to run a/b testing to track which banner gets the highest acceptance ratio, %sget premium%s."
+msgstr "Ако искате да проведете a / b тестване, за да проследите кой банер получава най-високото ниво на приемане, %sполучава премия%s."
+
+#: class-field.php:2499 class-field.php:2830
+#: cookiebanner/class-cookiebanner.php:838 cookiebanner/settings.php:791
+#: cookiebanner/settings.php:792 cookiebanner/settings.php:793
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: class-field.php:2174
+msgid "No agreement selected"
+msgstr "Няма избрано споразумение"
+
+#: cookiebanner/settings.php:670 cookiebanner/settings.php:671
+#: cookiebanner/settings.php:672
+msgid "Save preferences"
+msgstr "Запазване на предпочитанията"
+
+#: class-field.php:2165
+msgid "Select the Processing Agreement you made with this %s, or %screate one%s"
+msgstr "Изберете Споразумението за обработка, което сте направили с този %s, или %sсъзани едно%s"
+
+#: class-field.php:2488 class-field.php:2819 config/steps.php:60
+#: cookiebanner/class-cookiebanner.php:834 cookiebanner/settings.php:754
+#: cookiebanner/settings.php:755 cookiebanner/settings.php:756
+msgid "Statistics"
+msgstr "Статистика"
+
+#: cookiebanner/settings.php:154
+msgid "Use Custom CSS"
+msgstr "Използване на потребителски CSS"
+
+#: cookiebanner/settings.php:224
+msgid "With categories, you can let users choose which category of cookies they want to accept."
+msgstr "С категориите можете да позволите на потребителите да изберат коя категория бисквитки искат да приемат."
+
+#: config/class-config.php:587
+msgid "Google Tag Manager is being used, but is not configured in Complianz."
+msgstr "Използва се Google Tag Мanager, но не е конфигуриран в Complianz."
+
+#: config/general-settings.php:419
+msgid "Custom document CSS"
+msgstr "Потребителски CSS документ"
+
+#: config/questions-wizard.php:504 config/questions-wizard.php:535
+msgid "Enter the URL of Matomo"
+msgstr "Въведете URL адреса на Matomo"
+
+#: config/questions-wizard.php:520
+msgid "Enter your Matomo site ID"
+msgstr "Въведете идентификационния номер на вашия сайт Matomo"
+
+#: config/class-config.php:596
+msgid "Matomo is being used, but is not configured in Complianz."
+msgstr "Matomo се използва, но не е конфигуриран в complianz."
+
+#: templates/admin_wrap.php:10
+msgid "Documentation"
+msgstr "Документация"
+
+#: cookiebanner/edit.php:75
+msgid "Custom CSS"
+msgstr "Персонализиран CSS"
+
+#: config/questions-wizard.php:399 integrations/integrations-menu.php:43
+msgid "Script Center"
+msgstr "Център за скриптове"
+
+#: config/questions-wizard.php:643
+msgid "Does your website use third-party services?"
+msgstr "Вашият уебсайт използва ли услуги на трети страни?"
+
+#: config/questions-wizard.php:644
+msgid "e.g. services like Google Fonts, Maps or reCAPTCHA usually place cookies."
+msgstr "например услуги като шрифтове на Google, Карти или recaptcha обикновено поставят \"бисквитки\"."
+
+#: config/questions-wizard.php:656
+msgid "Select the types of third-party services you use on your site."
+msgstr "Изберете типовете услуги на трети страни, които използвате на сайта си."
+
+#: callback-notices.php:90
+msgid "The scan found third-party services on your website: %s, this means the answer should be yes."
+msgstr "Сканирането намери услуги на трети страни на вашия сайт: %s, това означава, че отговорът трябва да бъде да."
+
+#: class-field.php:2434 class-field.php:2779 class-field.php:3010
+#: cookiebanner/class-cookiebanner-table.php:240
+#: DNSMPD/class-DNSMPD-table.php:163 DNSMPD/class-DNSMPD.php:485
+#: DNSMPD/class-DNSMPD.php:487 DNSMPD/csv.php:56
+#: templates/cookiepolicy/cookies_row.php:2 templates/cookie_settings.php:4
+#: templates/service_settings.php:3
+msgid "Name"
+msgstr "Име"
+
+#: class-field.php:940
+msgid "No options found"
+msgstr "Няма намерени опции"
+
+#: class-wizard.php:723
+msgid "View document"
+msgstr "Преглед на документ"
+
+#: class-admin.php:869
+msgid "Tools"
+msgstr "Инструменти"
+
+#: class-admin.php:854
+msgid "Your progress"
+msgstr "Вашият напредък"
+
+#: templates/dashboard/tools.php:31
+msgid "Erase personal data"
+msgstr "Изтриване на лични данни"
+
+#: templates/dashboard/tools-conditional.php:17
+msgid "Create Processing Agreements"
+msgstr "Създаване на споразумение за обработка"
+
+#: cookiebanner/settings.php:126
+msgid "Disable cookie banner"
+msgstr "Забраняване на банера за бисквитки"
+
+#: templates/dashboard/tools.php:22
+msgid "Export personal data"
+msgstr "Експорт на лични данни"
+
+#: class-admin.php:405 class-admin.php:780 config/class-config.php:701
+msgid "Upgrade to premium"
+msgstr "Ъпгрейд към премия"
+
+#: config/questions-wizard.php:308
+msgid "Yes, with Matomo"
+msgstr "Да, с Матомо"
+
+#: config/class-config.php:540
+msgid "Please review step %s of the wizard for changes in cookies."
+msgstr "Моля, прегледайте стъпка %s на съветника за промени в бисквитките."
+
+#: cookiebanner/cookiebanner.php:364
+msgid "Please complete the wizard to check if you need a cookie banner."
+msgstr "Моля, попълнете съветника, за да проверите дали ви е необходим банер за \"бисквитки\"."
+
+#: class-admin.php:807
+msgid "Your license needs to be %sactivated%s to unlock the wizard"
+msgstr "Вашият лиценз трябва да бъде %sактивиран%s, за да отключите съветника"
+
+#: config/countries.php:383
+msgid "Uganda"
+msgstr "Уганда"
+
+#: config/countries.php:382
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: config/countries.php:379
+msgid "Turkey"
+msgstr "Турция"
+
+#: config/countries.php:377
+msgid "Trinidad And Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: config/countries.php:375
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: config/countries.php:374
+msgid "Togo"
+msgstr "Того"
+
+#: config/countries.php:398
+msgid "Yemen"
+msgstr "Йемен"
+
+#: config/countries.php:397
+msgid "Western Sahara"
+msgstr "Западна Сахара"
+
+#: config/countries.php:396
+msgid "Wallis And Futuna"
+msgstr "Уолис и Футуна"
+
+#: config/countries.php:393
+msgid "Viet Nam"
+msgstr "Виетнам"
+
+#: config/countries.php:392
+msgid "Venezuela"
+msgstr "Венецуела"
+
+#: config/countries.php:391
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: config/countries.php:390
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: config/countries.php:389
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: config/countries.php:385
+msgid "United Arab Emirates"
+msgstr "Обединени Арабски Емирства"
+
+#: config/countries.php:384
+msgid "Ukraine"
+msgstr "Украйна"
+
+#: config/countries.php:399
+msgid "Zambia"
+msgstr "Замбия"
+
+#: config/countries.php:400
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#: config/dynamic-fields.php:18
+msgid "Purpose:"
+msgstr "Цел:"
+
+#. Author URI of the plugin
+msgid "https://www.complianz.io"
+msgstr "https://www.complianz.io"
+
+#: class-admin.php:963 config/steps.php:8 cookiebanner/edit.php:39
+#: cookiebanner/settings.php:338 functions.php:624
+msgid "General"
+msgstr "Основни"
+
+#: class-admin.php:392 class-admin.php:765 class-admin.php:766
+#: class-admin.php:998 cookiebanner/settings.php:491
+#: integrations/integrations-menu.php:50 templates/dashboard/tools.php:65
+msgid "Settings"
+msgstr "Настройки"
+
+#: class-admin.php:399 templates/dashboard/tools-footer.php:1
+msgid "Support"
+msgstr "Поддръжка"
+
+#: class-admin.php:744 class-admin.php:745 shepherd/tour.php:73
+msgid "Dashboard"
+msgstr "Табло"
+
+#: class-field.php:2200 class-field.php:2314 config/steps.php:36
+#: templates/cookie_settings.php:34
+msgid "Purpose"
+msgstr "Цел"
+
+#: class-document.php:871
+msgid "and"
+msgstr "и"
+
+#: class-field.php:2000
+msgid "Description"
+msgstr "Описание"
+
+#: config/class-config.php:274 config/questions-wizard.php:313
+#: config/questions-wizard.php:418 config/questions-wizard.php:436
+#: config/questions-wizard.php:680 config/questions-wizard.php:788
+#: integrations/plugins/elementor-pro/elementor-pro.php:189
+msgid "No"
+msgstr "Не"
+
+#: config/class-config.php:273 config/questions-wizard.php:417
+#: config/questions-wizard.php:435 config/questions-wizard.php:787
+#: integrations/plugins/elementor-pro/elementor-pro.php:188
+msgid "Yes"
+msgstr "Да"
+
+#: config/countries.php:157
+msgid "Aland Islands"
+msgstr "Оландски острови"
+
+#: config/countries.php:158
+msgid "Albania"
+msgstr "Албания"
+
+#: config/countries.php:159
+msgid "Algeria"
+msgstr "Алжир"
+
+#: config/countries.php:171
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: config/countries.php:170
+msgid "Austria"
+msgstr "Австрия"
+
+#: config/countries.php:101 config/countries.php:169
+msgid "Australia"
+msgstr "Австралия"
+
+#: config/countries.php:168
+msgid "Aruba"
+msgstr "Аруба"
+
+#: config/countries.php:167
+msgid "Armenia"
+msgstr "Армения"
+
+#: config/countries.php:166
+msgid "Argentina"
+msgstr "Аржентина"
+
+#: config/countries.php:165
+msgid "Antigua And Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#: config/countries.php:162
+msgid "Angola"
+msgstr "Ангола"
+
+#: config/countries.php:161
+msgid "Andorra"
+msgstr "Андора"
+
+#: config/countries.php:160
+msgid "American Samoa"
+msgstr "Американска Самоа"
+
+#: config/countries.php:121 config/countries.php:186
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: config/countries.php:185
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+#: config/countries.php:183
+msgid "Bosnia And Herzegovina"
+msgstr "Босна и Херцеговина"
+
+#: config/countries.php:182
+msgid "Bolivia"
+msgstr "Боливия"
+
+#: config/countries.php:181
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: config/countries.php:179
+msgid "Benin"
+msgstr "Бенин"
+
+#: config/countries.php:177
+msgid "Belgium"
+msgstr "Белгия"
+
+#: config/countries.php:176
+msgid "Belarus"
+msgstr "Беларус"
+
+#: config/countries.php:175
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: config/countries.php:174
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: config/countries.php:173
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: config/countries.php:200
+msgid "China"
+msgstr "Китай"
+
+#: config/countries.php:199
+msgid "Chile"
+msgstr "Чили"
+
+#: config/countries.php:198
+msgid "Chad"
+msgstr "Чад"
+
+#: config/countries.php:196
+msgid "Cayman Islands"
+msgstr "Кайманови острови"
+
+#: config/countries.php:195
+msgid "Cape Verde"
+msgstr "Кабо Верде"
+
+#: config/countries.php:71 config/countries.php:194
+msgid "Canada"
+msgstr "Канада"
+
+#: config/countries.php:193
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: config/countries.php:192
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: config/countries.php:191
+msgid "Burundi"
+msgstr "Бурунди"
+
+#: config/countries.php:190
+msgid "Burkina Faso"
+msgstr "Буркина Фасо"
+
+#: config/countries.php:189
+msgid "Bulgaria"
+msgstr "България"
+
+#: config/countries.php:215
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: config/countries.php:214
+msgid "Denmark"
+msgstr "Дания"
+
+#: config/countries.php:212
+msgid "Cyprus"
+msgstr "Кипър"
+
+#: config/countries.php:211
+msgid "Cuba"
+msgstr "Куба"
+
+#: config/countries.php:210
+msgid "Croatia"
+msgstr "Хърватия"
+
+#: config/countries.php:208
+msgid "Costa Rica"
+msgstr "Коста Рика"
+
+#: config/countries.php:205
+msgid "Congo"
+msgstr "Конго"
+
+#: config/countries.php:204
+msgid "Comoros"
+msgstr "Коморски острови"
+
+#: config/countries.php:203
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: config/countries.php:231
+msgid "French Polynesia"
+msgstr "Френска Полинезия"
+
+#: config/countries.php:230
+msgid "French Guiana"
+msgstr "Френска Гвиана"
+
+#: config/countries.php:229
+msgid "France"
+msgstr "Франция"
+
+#: config/countries.php:228
+msgid "Finland"
+msgstr "Финландия"
+
+#: config/countries.php:227
+msgid "Fiji"
+msgstr "Фиджи"
+
+#: config/countries.php:224
+msgid "Ethiopia"
+msgstr "Етиопия"
+
+#: config/countries.php:223
+msgid "Estonia"
+msgstr "Естония"
+
+#: config/countries.php:222
+msgid "Eritrea"
+msgstr "Еритрея"
+
+#: config/countries.php:221
+msgid "Equatorial Guinea"
+msgstr "Екваториална Гвинея"
+
+#: config/countries.php:220
+msgid "El Salvador"
+msgstr "Ел Салвадор"
+
+#: config/countries.php:219
+msgid "Egypt"
+msgstr "Египет"
+
+#: config/countries.php:218
+msgid "Ecuador"
+msgstr "Еквадор"
+
+#: config/countries.php:247
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+#: config/countries.php:246
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: config/countries.php:244
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: config/countries.php:243
+msgid "Guam"
+msgstr "Гуам"
+
+#: config/countries.php:241
+msgid "Grenada"
+msgstr "Гренада"
+
+#: config/countries.php:240
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: config/countries.php:239
+msgid "Greece"
+msgstr "Гърция"
+
+#: config/countries.php:238
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: config/countries.php:237
+msgid "Ghana"
+msgstr "Гана"
+
+#: config/countries.php:236
+msgid "Germany"
+msgstr "Германия"
+
+#: config/countries.php:234
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: config/countries.php:233
+msgid "Gabon"
+msgstr "Габон"
+
+#: config/countries.php:262
+msgid "Israel"
+msgstr "Израел"
+
+#: config/countries.php:260
+msgid "Ireland"
+msgstr "Ирландия"
+
+#: config/countries.php:259
+msgid "Iraq"
+msgstr "Ирак"
+
+#: config/countries.php:257
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: config/countries.php:256
+msgid "India"
+msgstr "Индия"
+
+#: config/countries.php:255
+msgid "Iceland"
+msgstr "Исландия"
+
+#: config/countries.php:254
+msgid "Hungary"
+msgstr "Унгария"
+
+#: config/countries.php:252
+msgid "Honduras"
+msgstr "Хондурас"
+
+#: config/countries.php:249
+msgid "Haiti"
+msgstr "Хаити"
+
+#: config/countries.php:248
+msgid "Guyana"
+msgstr "Гвиана"
+
+#: config/countries.php:277
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: config/countries.php:276
+msgid "Lebanon"
+msgstr "Ливан"
+
+#: config/countries.php:275
+msgid "Latvia"
+msgstr "Латвия"
+
+#: config/countries.php:274
+msgid "Lao People's Democratic Republic"
+msgstr "Лаоска народнодемократична република"
+
+#: config/countries.php:273
+msgid "Kyrgyzstan"
+msgstr "Киргизстан"
+
+#: config/countries.php:272
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: config/countries.php:271
+msgid "Korea"
+msgstr "Корея"
+
+#: config/countries.php:270
+msgid "Kiribati"
+msgstr "Кирибати"
+
+#: config/countries.php:269
+msgid "Kenya"
+msgstr "Кения"
+
+#: config/countries.php:268
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: config/countries.php:267
+msgid "Jordan"
+msgstr "Йордания"
+
+#: config/countries.php:266
+msgid "Jersey"
+msgstr "Джърси"
+
+#: config/countries.php:265
+msgid "Japan"
+msgstr "Япония"
+
+#: config/countries.php:264
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: config/countries.php:263
+msgid "Italy"
+msgstr "Италия"
+
+#: config/countries.php:293
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: config/countries.php:292
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: config/countries.php:291
+msgid "Marshall Islands"
+msgstr "Маршалови острови"
+
+#: config/countries.php:290
+msgid "Malta"
+msgstr "Малта"
+
+#: config/countries.php:289
+msgid "Mali"
+msgstr "Мали"
+
+#: config/countries.php:287
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: config/countries.php:286
+msgid "Malawi"
+msgstr "Малави"
+
+#: config/countries.php:285
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: config/countries.php:283
+msgid "Macao"
+msgstr "Макао"
+
+#: config/countries.php:282
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: config/countries.php:281
+msgid "Lithuania"
+msgstr "Литва"
+
+#: config/countries.php:280
+msgid "Liechtenstein"
+msgstr "Лихтенщайн"
+
+#: config/countries.php:279
+msgid "Libyan Arab Jamahiriya"
+msgstr "Либийска Арабска Джамахирия"
+
+#: config/countries.php:278
+msgid "Liberia"
+msgstr "Либерия"
+
+#: config/countries.php:308
+msgid "Nepal"
+msgstr "Непал"
+
+#: config/countries.php:306
+msgid "Namibia"
+msgstr "Намибия"
+
+#: config/countries.php:305
+msgid "Myanmar"
+msgstr "Мианмар"
+
+#: config/countries.php:304
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: config/countries.php:303
+msgid "Morocco"
+msgstr "Мароко"
+
+#: config/countries.php:302
+msgid "Montserrat"
+msgstr "Монсерат"
+
+#: config/countries.php:301
+msgid "Montenegro"
+msgstr "Черна гора"
+
+#: config/countries.php:300
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: config/countries.php:299
+msgid "Monaco"
+msgstr "Монако"
+
+#: config/countries.php:298
+msgid "Moldova"
+msgstr "Молдова"
+
+#: config/countries.php:296
+msgid "Mexico"
+msgstr "Мексико"
+
+#: config/countries.php:295
+msgid "Mayotte"
+msgstr "Майот"
+
+#: config/countries.php:294
+msgid "Mauritius"
+msgstr "Мавриций"
+
+#: config/countries.php:322
+msgid "Palau"
+msgstr "Палау"
+
+#: config/countries.php:321
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: config/countries.php:320
+msgid "Oman"
+msgstr "Оман"
+
+#: config/countries.php:319
+msgid "Norway"
+msgstr "Норвегия"
+
+#: config/countries.php:318
+msgid "Northern Mariana Islands"
+msgstr "Северни Мариански острови"
+
+#: config/countries.php:316
+msgid "Niue"
+msgstr "Ниуе"
+
+#: config/countries.php:315
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: config/countries.php:314
+msgid "Niger"
+msgstr "Нигер"
+
+#: config/countries.php:313
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: config/countries.php:312
+msgid "New Zealand"
+msgstr "Нова Зеландия"
+
+#: config/countries.php:311
+msgid "New Caledonia"
+msgstr "Нова Каледония"
+
+#: config/countries.php:310
+msgid "Netherlands Antilles"
+msgstr "Нидерландски Антили"
+
+#: config/countries.php:338
+msgid "Saint Barthelemy"
+msgstr "Сен Бартелми"
+
+#: config/countries.php:337
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: config/countries.php:335
+msgid "Romania"
+msgstr "Румъния"
+
+#: config/countries.php:334
+msgid "Reunion"
+msgstr "Реюнион"
+
+#: config/countries.php:333
+msgid "Qatar"
+msgstr "Катар"
+
+#: config/countries.php:332
+msgid "Puerto Rico"
+msgstr "Пуерто Рико"
+
+#: config/countries.php:331
+msgid "Portugal"
+msgstr "Португалия"
+
+#: config/countries.php:330
+msgid "Poland"
+msgstr "Полша"
+
+#: config/countries.php:329
+msgid "Pitcairn"
+msgstr "Питкерн"
+
+#: config/countries.php:328
+msgid "Philippines"
+msgstr "Филипини"
+
+#: config/countries.php:327
+msgid "Peru"
+msgstr "Перу"
+
+#: config/countries.php:326
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: config/countries.php:324
+msgid "Panama"
+msgstr "Панама"
+
+#: config/countries.php:353
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: config/countries.php:352
+msgid "Sierra Leone"
+msgstr "Сиера Леоне"
+
+#: config/countries.php:350
+msgid "Serbia"
+msgstr "Сърбия"
+
+#: config/countries.php:349
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: config/countries.php:348
+msgid "Saudi Arabia"
+msgstr "Саудитска Арабия"
+
+#: config/countries.php:347
+msgid "Sao Tome And Principe"
+msgstr "Сао Томе и Принсипи"
+
+#: config/countries.php:346
+msgid "San Marino"
+msgstr "Сан Марино"
+
+#: config/countries.php:345
+msgid "Samoa"
+msgstr "Самоа"
+
+#: config/countries.php:343
+msgid "Saint Pierre And Miquelon"
+msgstr "Сен Пиер и Микелон"
+
+#: config/countries.php:340
+msgid "Saint Kitts And Nevis"
+msgstr "Сейнт Китс и Невис"
+
+#: config/countries.php:367
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: config/countries.php:366
+msgid "Sweden"
+msgstr "Швеция"
+
+#: config/countries.php:365
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: config/countries.php:364
+msgid "Svalbard And Jan Mayen"
+msgstr "Свалбард и Ян Майен"
+
+#: config/countries.php:363
+msgid "Suriname"
+msgstr "Суринам"
+
+#: config/countries.php:362
+msgid "Sudan"
+msgstr "Судан"
+
+#: config/countries.php:361
+msgid "Sri Lanka"
+msgstr "Шри Ланка"
+
+#: config/countries.php:360
+msgid "Spain"
+msgstr "Испания"
+
+#: config/countries.php:111 config/countries.php:358
+msgid "South Africa"
+msgstr "Република Южна Африка"
+
+#: config/countries.php:357
+msgid "Somalia"
+msgstr "Сомалия"
+
+#: config/countries.php:356
+msgid "Solomon Islands"
+msgstr "Соломонови острови"
+
+#: config/countries.php:355
+msgid "Slovenia"
+msgstr "Словения"
+
+#: config/countries.php:354
+msgid "Slovakia"
+msgstr "Словакия"
+
+#: config/countries.php:373
+msgid "Timor-Leste"
+msgstr "Източен Тимор"
+
+#: config/countries.php:372
+msgid "Thailand"
+msgstr "Тайланд"
+
+#: config/countries.php:371
+msgid "Tanzania"
+msgstr "Танзания"
+
+#: config/countries.php:370
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: config/countries.php:369
+msgid "Taiwan"
+msgstr "Тайван"
+
+#: class-admin.php:980
+msgid "Cookies"
+msgstr "Бисквитки"
+
+#: cookie/class-cookie-admin.php:3318
+msgid "No cookies detected"
+msgstr "Не са открити бисквитки"
+
+#: class-field.php:2042
+msgid "Add new cookie"
+msgstr "Добавяне на нова бисквитка"
+
+#: config/class-config.php:295 config/general-settings.php:241
+#: cookiebanner/class-cookiebanner-table.php:246
+msgid "Default"
+msgstr "По подразбиране"
+
+#: cookiebanner/settings.php:239
+msgid "Classic"
+msgstr "Класически"
+
+#: cookiebanner/settings.php:685 cookiebanner/settings.php:865
+msgid "Cookie message"
+msgstr "Съобщение за бисквитки"
+
+#: config/class-config.php:540
+msgid "Cookie changes have been detected."
+msgstr "Открити са промени в бисквитките."
+
+#: config/class-config.php:539
+msgid "No cookie changes have been detected."
+msgstr "Не са открити промени в бисквитките."
+
+#: callback-notices.php:211
+msgid "The generated document %s has not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgid_plural "Not all generated documents have been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr[0] "Генерираният документ %s все още не е свързан с меню, можете да го свържете сега, или да пропуснете тази стъпка и да го направите по-късно."
+msgstr[1] "Генерираните документи %s все още не са свързани с меню, можете да ги свържете сега, или да пропуснете тази стъпка и да го направите по-късно."
+
+#: config/documents/cookie-policy-br.php:10
+#: config/documents/cookie-policy-ca.php:14
+#: config/documents/cookie-policy-eu.php:10
+#: config/documents/cookie-policy-za.php:10
+msgctxt "Legal document cookie policy"
+msgid "Our website, %s (hereinafter: \"the website\") uses cookies and other related technologies (for convenience all technologies are referred to as \"cookies\"). Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website."
+msgstr "Нашият уебсайт, %s (наричан по-долу: \"уебсайтът\") използва бисквитки и други подобни технологии (за удобство всички подобни технологии се отнасят към \"бисквитки\"). Бисквитки са също поставяни от трети страни, с които работим. В документа по-долу ви информираме за използването на бисквитки от нашия уебсайт."
+
+#: cookie/class-cookie-admin.php:3210 DNSMPD/class-DNSMPD-table.php:292
+#: DNSMPD/csv.php:73
+msgid "%s at %s"
+msgstr "%s на %s"
+
+#: class-document.php:739
+msgid "(See annex %s)"
+msgstr "(Вижте приложение %s)"
+
+#: class-document.php:733
+msgid "(See paragraph %s)"
+msgstr "(вижте. параграф %s)"
+
+#: cookiebanner/settings.php:436 cookiebanner/settings.php:616
+#: cookiebanner/settings.php:618 cookiebanner/settings.php:629
+#: cookiebanner/settings.php:631
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:120
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-accept-button-widget.php:121
+#: integrations/plugins/gravity-forms.php:131
+#: integrations/plugins/gravity-forms.php:136
+#: integrations/plugins/gravity-forms.php:137
+msgid "Accept"
+msgstr "Приемане"
+
+#: config/questions-wizard.php:350
+msgid "Acquiring IP-addresses is blocked"
+msgstr "Блокиране на ip адресите"
+
+#: class-field.php:1990 class-field.php:2398 class-field.php:2743
+#: class-field.php:2990
+msgid "Add new"
+msgstr "Добавете нов"
+
+#: class-field.php:2356
+msgid "Add new Third Party"
+msgstr "Добавяне на нова трета страна"
+
+#: config/questions-wizard.php:865
+msgid "Add the used cookies here"
+msgstr "Добавете използваните бисквитки тук"
+
+#: config/countries.php:156
+msgid "Afghanistan"
+msgstr "Авганистан"
+
+#: config/countries.php:163
+msgid "Anguilla"
+msgstr "Ангуила"
+
+#: class-document.php:597
+msgid "Annex"
+msgstr "Приложение"
+
+#: config/countries.php:164
+msgid "Antarctica"
+msgstr "Антарктика"
+
+#: config/countries.php:172
+msgid "Bahamas"
+msgstr "Бахами"
+
+#: config/countries.php:178
+msgid "Belize"
+msgstr "Белийз"
+
+#: config/countries.php:180
+msgid "Bermuda"
+msgstr "Бермудски острови"
+
+#: config/countries.php:184
+msgid "Botswana"
+msgstr "Ботсуана"
+
+#: config/countries.php:187
+msgid "British Indian Ocean Territory"
+msgstr "Британска територия в Индийския океан"
+
+#: config/countries.php:188
+msgid "Brunei Darussalam"
+msgstr "Бруней Даруссалам"
+
+#: config/countries.php:197
+msgid "Central African Republic"
+msgstr "Централна Африканска република"
+
+#: grid/templates/grid-settings-menu.php:11 templates/wizard/menu.php:14
+msgid "Changes saved successfully"
+msgstr "Промените са записани успешно"
+
+#: class-field.php:1843 cookiebanner/edit.php:25
+msgid "Choose an option"
+msgstr "Избери опция"
+
+#: config/countries.php:201
+msgid "Christmas Island"
+msgstr "Коледни острови"
+
+#: config/countries.php:202
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосови (Кийлинг) острови"
+
+#: class-admin.php:733
+msgid "Complianz"
+msgstr "Съвместим с"
+
+#: class-admin.php:727
+msgid "Complianz %s"
+msgstr "Съвместими %s"
+
+#: config/countries.php:206
+msgid "Congo, Democratic Republic"
+msgstr "Конго, Демократична република"
+
+#: config/countries.php:207
+msgid "Cook Islands"
+msgstr "Острови Кук"
+
+#: config/general-settings.php:311
+msgid "Cookie banner expiration in days"
+msgstr "Изтичане на бисквитките в дни"
+
+#: config/documents/documents.php:6 config/questions-wizard.php:106
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:112
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:481
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-link-widget.php:546
+#: templates/dashboard/documents-conditional.php:10 gutenberg/build/index.js:1
+#: gutenberg/src/index.js:266 gutenberg/build/index.js:2203
+msgid "Cookie Policy"
+msgstr "Политика за бисквитки"
+
+#: config/steps.php:54 cookie/class-cookie-admin.php:3532
+msgid "Cookie scan"
+msgstr "Сканиране на бисквитки"
+
+#: config/countries.php:209
+msgid "Cote D'Ivoire"
+msgstr "Коте д'Ивоар"
+
+#: config/countries.php:213
+msgid "Czech Republic"
+msgstr "Чешка република"
+
+#: cookiebanner/settings.php:462 cookiebanner/settings.php:642
+#: cookiebanner/settings.php:644
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:119
+#: integrations/plugins/elementor-pro/custom-widgets/cmplz-deny-button-widget.php:120
+msgid "Deny"
+msgstr "Отказ"
+
+#: config/questions-wizard.php:303
+msgid "Do you compile statistics of this website?"
+msgstr "Съставяте ли статистика на този сайт?"
+
+#: config/questions-wizard.php:776
+msgid "Does your website use cookies for advertising?"
+msgstr "Сайтът Ви използва ли бисквитки за рекламиране?"
+
+#: config/countries.php:216
+msgid "Dominica"
+msgstr "Доминиканa"
+
+#: config/countries.php:217
+msgid "Dominican Republic"
+msgstr "Доминиканска Република"
+
+#: config/countries.php:225
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолкландски о-ви (Малвински)"
+
+#: config/countries.php:226
+msgid "Faroe Islands"
+msgstr "Фарьорските острови"
+
+#: class-wizard.php:724 config/steps.php:117
+msgid "Finish"
+msgstr "Готово"
+
+#: config/countries.php:232
+msgid "French Southern Territories"
+msgstr "Френски Южни Територии"
+
+#: config/countries.php:235
+msgid "Georgia"
+msgstr "Джорджия"
+
+#: config/class-config.php:578
+msgid "Google Analytics is being used, but is not configured in Complianz."
+msgstr "Google Анализ се използва, но не е конфигуриран в съответствие с изискванията."
+
+#: config/questions-wizard.php:329 config/questions-wizard.php:349
+msgid "Google is not allowed to use this data for other Google services"
+msgstr "На Google не е разрешено да използва тези данни за други услуги на Google"
+
+#: callback-notices.php:217
+msgid "Great! All your generated documents have been assigned to a menu, so you can skip this step."
+msgstr "Чудесно! Всички генерирани документи са присвоени към меню, така че можете да пропуснете тази стъпка."
+
+#: config/class-config.php:567
+msgid "Great! You're already on SSL!"
+msgstr "Чудесно! Вече сте на SSL!"
+
+#: class-wizard.php:51
+msgid "Great, the main wizard is completed. This means the general data is already in the system, and you can continue with the next question. This will start a new, empty document."
+msgstr "Чудесно, главният съветник е завършен. Това означава, че общите данни вече са в системата и можете да продължите със следващия въпрос. Това ще стартира нов празен документ."
+
+#: config/countries.php:242
+msgid "Guadeloupe"
+msgstr "Гваделупе"
+
+#: config/countries.php:245
+msgid "Guernsey"
+msgstr "Гърнзи"
+
+#: config/countries.php:250
+msgid "Heard Island & Mcdonald Islands"
+msgstr "Остров Хърд - Макдоналд"
+
+#: config/countries.php:251
+msgid "Holy See (Vatican City State)"
+msgstr "Светият престол (Ватикана)"
+
+#: config/countries.php:253
+msgid "Hong Kong"
+msgstr "Хонконг"
+
+#: config/questions-wizard.php:328 config/questions-wizard.php:348
+msgid "I have accepted the Google data processing amendment"
+msgstr "Приех изменението на Обработка на данни от Google"
+
+#: config/steps.php:28
+msgctxt "intro company info"
+msgid "We need some information to be able to generate your documents."
+msgstr "Трябва ни информация, за да можем да генерираме вашите документи."
+
+#: config/countries.php:258
+msgid "Iran, Islamic Republic Of"
+msgstr "Иран, Ислямска република"
+
+#: config/countries.php:261
+msgid "Isle Of Man"
+msgstr "Isle Of Man"
+
+#: config/documents/cookie-policy-br.php:14
+#: config/documents/cookie-policy-ca.php:19
+#: config/documents/cookie-policy-eu.php:14
+#: config/documents/cookie-policy-za.php:14
+msgctxt "Legal document cookie policy"
+msgid "A cookie is a small simple file that is sent along with pages of this website and stored by your browser on the hard drive of your computer or another device. The information stored therein may be returned to our servers or to the servers of the relevant third parties during a subsequent visit."
+msgstr "Бисквитката е малък прост файл, който се изпраща заедно със страниците на този уебсайт и се съхранява от вашия браузър на твърдия диск на вашия компютър или друго устройство. Информацията, съхранявана в него, може да бъде върната на нашите сървъри или на сървърите на съответните трети страни по време на следващо посещение."
+
+#: config/documents/cookie-policy-br.php:22
+#: config/documents/cookie-policy-ca.php:27
+#: config/documents/cookie-policy-eu.php:22
+#: config/documents/cookie-policy-za.php:22
+msgctxt "Legal document cookie policy"
+msgid "A web beacon (or a pixel tag) is a small, invisible piece of text or image on a website that is used to monitor traffic on a website. In order to do this, various data about you is stored using web beacons."
+msgstr "Уеб маякът (или пиксел етикет) е малък, невидим текст или изображение на уебсайт, който се използва за наблюдение на трафика на уебсайт. За да направите това, различни данни за вас се съхраняват с помощта на уеб маяци."
+
+#: config/documents/cookie-policy-br.php:200
+#: config/documents/cookie-policy-ca.php:179
+#: config/documents/cookie-policy-eu.php:190
+#: config/documents/cookie-policy-za.php:187
+msgctxt "Legal document cookie policy"
+msgid "For questions and/or comments about our Cookie Policy and this statement, please contact us by using the following contact details:"
+msgstr "За въпроси и/или коментари относно нашата Политика за бисквитките и тази декларация, моля, свържете се с нас, като използвате следните данни за контакт:"
+
+#: config/documents/cookie-policy-eu.php:178
+#: config/documents/cookie-policy-za.php:176
+msgctxt "Legal document cookie policy"
+msgid "If you give us your consent to process your data, you have the right to revoke that consent and to have your personal data deleted."
+msgstr "Ако ни дадете съгласието си за обработване на Вашите данни, имате право да оттеглите това съгласие и да заличите личните си данни."
+
+#: config/documents/cookie-policy-eu.php:180
+#: config/documents/cookie-policy-za.php:177
+msgctxt "Legal document cookie policy"
+msgid "Right to object: you may object to the processing of your data. We comply with this, unless there are justified grounds for processing."
+msgstr "Право на възражение: можете да възразите срещу обработването на вашите данни. Ние се придържаме към това, освен ако не са налице основателни причини за обработване."
+
+#: config/documents/cookie-policy-eu.php:179
+msgctxt "Legal document cookie policy"
+msgid "Right to transfer your data: you have the right to request all your personal data from the controller and transfer it in its entirety to another controller."
+msgstr "Право на прехвърляне на вашите данни: имате право да поискате всички Ваши лични данни от администратора и да ги прехвърлите изцяло на друг администратор."
+
+#: config/documents/cookie-policy-br.php:55
+#: config/documents/cookie-policy-ca.php:54
+#: config/documents/cookie-policy-eu.php:55
+#: config/documents/cookie-policy-za.php:54
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to personalize the advertisements for you, and we (and third parties) gain insights into the campaign results. This happens based on a profile we create based on your click and surfing on and outside %s. With these cookies you, as website visitor are linked to a unique ID, so you do not see the same ad more than once for example."
+msgstr "На този уебсайт използваме рекламни бисквитки, които ни позволяват да персонализираме рекламите вместо Вас, а ние (и трети страни) получаваме информация за резултатите от кампанията. Това се случва въз основа на профил, който създаваме въз основа на кликванията и сърфирането Ви в и извън %s. С тези бисквитки, тъй като посетителят на уебсайта е свързан с уникален идентификационен номер, така че не виждате една и съща реклама повече от веднъж например."
+
+#: config/documents/cookie-policy-br.php:160
+#: config/documents/cookie-policy-ca.php:157
+#: config/documents/cookie-policy-eu.php:162
+#: config/documents/cookie-policy-uk.php:159
+#: config/documents/cookie-policy-us.php:192
+#: config/documents/cookie-policy-za.php:160
+msgctxt "Legal document cookie policy"
+msgid "Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our websites again."
+msgstr "Моля, имайте предвид, че нашият уебсайт може да не работи правилно, ако всички бисквитки са забранени. Ако изтриете бисквитките в браузъра си, те ще бъдат поставени отново след вашето съгласие, когато отново посетите нашите уебсайтове."
+
+#: config/documents/cookie-policy-br.php:32
+#: config/documents/cookie-policy-eu.php:32
+#: config/documents/cookie-policy-za.php:32
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid. We may place these cookies without your consent."
+msgstr "Някои бисквитки гарантират, че определени части от уебсайта работят правилно и че вашите потребителски предпочитания остават известни. Чрез поставянето на функционални бисквитки, ние ви улесняваме да посетите нашия уебсайт. По този начин не е необходимо да въвеждате многократно същата информация, когато посещавате нашия уебсайт, и например артикулите остават в количката ви за пазаруване, докато не платите. Ние можем да поставим тези бисквитки без Вашето съгласие."
+
+#: config/documents/cookie-policy-eu.php:185
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this Cookie Policy. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the supervisory authority (the Data Protection Authority)."
+msgstr "За да упражните тези права, моля свържете се с нас. Моля, вижте данните за контакт в долната част на тази Политика за бисквитките. Ако имате оплакване относно начина, по който обработваме Вашите данни, бихме искали да се обадим на Вас, но имате право да подадете жалба до надзорния орган (Органът за защита на данните)."
+
+#: config/documents/cookie-policy-ca.php:32
+msgctxt "Legal document cookie policy"
+msgid "We have made agreements about the use of cookies with other companies that place cookies. However, we cannot guarantee that these third parties handle your personal data in a reliable or secure manner. Parties such as Google are to be considered as independent data controllers. We recommend that you read the privacy statements of these companies."
+msgstr "Ние сме сключили споразумения за използването на бисквитки с други компании, които поставят бисквитки. Въпреки това, ние не можем да гарантираме, че тези трети страни боравят с вашите лични данни по надежден или сигурен начин. Страни като Google трябва да се считат за независими администратори на данни. Препоръчваме ви да прочетете декларациите за поверителност на тези компании."
+
+#: config/documents/cookie-policy-br.php:125
+#: config/documents/cookie-policy-eu.php:125
+#: config/documents/cookie-policy-za.php:124
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using all cookies and plug-ins as described in the pop-up and this Cookie Policy. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Когато посещавате нашия уебсайт за първи път, ще ви покажем изскачащ прозорец с обяснение за бисквитките. Веднага след като кликнете върху \"%s\", Вие се съгласявате с използването на всички бисквитки и плъгини, както е описано в изскачащия прозорец и настоящата Политика за бисквитките. Можете да деактивирате използването на бисквитки чрез браузъра си, но имайте предвид, че нашият уебсайт може вече да не работи правилно."
+
+#: config/documents/cookie-policy-ca.php:153
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser. Or you can indicate your preferences on the following page: https://youradchoices.ca "
+msgstr "Можете да използвате вашия интернет браузър за автоматично или ръчно изтриване на бисквитки. Можете също да укажете, че определени бисквитки не могат да бъдат поставени. Друга възможност е да промените настройките на вашия интернет браузър, така че да получавате съобщение всеки път, когато се поставя бисквитка. За повече информация относно тези опции, моля, вижте инструкциите в раздела Помощ на браузъра. Или можете да посочите предпочитанията си на следващата страница: https://youradchoices.ca "
+
+#: config/countries.php:288
+msgid "Maldives"
+msgstr "Малдиви"
+
+#: config/countries.php:297
+msgid "Micronesia, Federated States Of"
+msgstr "Микронезия, Федерални държави"
+
+#: config/countries.php:307
+msgid "Nauru"
+msgstr "Науруански"
+
+#: config/countries.php:309
+msgid "Netherlands"
+msgstr "Холандия"
+
+#: shepherd/tour.php:125
+msgid "Next"
+msgstr "Следващ"
+
+#: class-document.php:1684 class-document.php:1748
+msgid "No menus were found. Skip this step, or %screate a menu%s first."
+msgstr "Не са намерени менюта. Пропуснете тази стъпка или %sсъздрете меню%s първо."
+
+#: config/countries.php:317
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: class-wizard.php:110
+msgid "Not all required fields are completed yet. Please check the steps to complete all required questions"
+msgstr "Не всички задължителни полета са завършени. Моля, проверете стъпките, за да завършите всички необходими въпроси"
+
+#: config/countries.php:323
+msgid "Palestinian Territory, Occupied"
+msgstr "Палестинска територия, окупирана"
+
+#: config/countries.php:325
+msgid "Papua New Guinea"
+msgstr "Папуа-Нова Гвинея"
+
+#: class-wizard.php:708 shepherd/tour.php:126
+msgid "Previous"
+msgstr "Предишен"
+
+#: cookie/class-cookie-admin.php:1560
+msgid "Processing Agreements"
+msgstr "Споразумения за обработка"
+
+#: functions.php:2157 proof-of-consent/class-proof-of-consent.php:251
+#: templates/dashboard/documents-conditional.php:65
+#: templates/dashboard/documents-conditional.php:72
+#: templates/dashboard/tools-conditional.php:11
+#: templates/dashboard/tools-conditional.php:21
+#: templates/dashboard/tools-conditional.php:31
+#: templates/dashboard/tools-conditional.php:45
+#: templates/dashboard/tools-conditional.php:59
+#: templates/dashboard/tools.php:12
+msgid "Read more"
+msgstr "Прочети повече"
+
+#: class-field.php:2012 class-field.php:2229 class-field.php:2340
+#: class-field.php:2551 class-field.php:2938 class-field.php:3048
+msgid "Remove"
+msgstr "Премахни"
+
+#: config/countries.php:336
+msgid "Russian Federation"
+msgstr "Руска федерация"
+
+#: config/countries.php:339
+msgid "Saint Helena"
+msgstr "Света Елена"
+
+#: config/countries.php:341
+msgid "Saint Lucia"
+msgstr "Санта Лучия"
+
+#: config/countries.php:342
+msgid "Saint Martin"
+msgstr "Сен Мартен"
+
+#: config/countries.php:344
+msgid "Saint Vincent And Grenadines"
+msgstr "Сейнт Винсент И Гренадини"
+
+#: class-field.php:1969 class-field.php:2225 class-field.php:2336
+#: class-field.php:2550 class-field.php:2937 class-field.php:3047
+#: class-wizard.php:114 class-wizard.php:741
+#: templates/CMPLZ_COOKIEBANNER/footer.php:2 templates/cookie_settings.php:87
+#: templates/integrations/footer.php:3 templates/service_settings.php:49
+#: templates/settings/footer.php:2
+msgid "Save"
+msgstr "Запази"
+
+#: class-document.php:1702 class-document.php:1763 class-document.php:1783
+msgid "Select a menu"
+msgstr "Изберете меню"
+
+#: config/countries.php:351
+msgid "Seychelles"
+msgstr "Сейшелски острови"
+
+#: config/countries.php:359
+msgid "South Georgia And Sandwich Isl."
+msgstr "Южна Джорджия и сандвич."
+
+#: config/countries.php:368
+msgid "Syrian Arab Republic"
+msgstr "Сирийска Арабска Република"
+
+#: callback-notices.php:53
+msgid "The cookie scan detected %s on your site, which means the answer to this question should be %s."
+msgstr "Сканирането на \"бисквитките\" е открито %s на сайта Ви, което означава, че отговорът на този въпрос трябва да бъде %s."
+
+#: callback-notices.php:67
+msgid "The scan found social media buttons or widgets for %s on your site, which means the answer should be yes"
+msgstr "Сканирането намери социални медийни бутони или джаджи за %s на вашия сайт, което означава, че отговорът трябва да бъде да"
+
+#: config/class-config.php:493
+msgid "The wizard has been completed."
+msgstr "Съветникът е завършен."
+
+#: class-wizard.php:56
+msgid "The wizard isn't completed yet. If you have answered all required questions, you just need to click 'finish' to complete it. In the wizard some general data is entered which is needed for this document. %sPlease complete the wizard first%s."
+msgstr "Съветникът още не е завършен. Ако сте отговорили на всички необходими въпроси, просто трябва да кликнете върху \"готово\", за да го завършите. В съветника се въвеждат някои общи данни, които са необходими за този документ. %s Първо попълнете съветника%s."
+
+#: class-field.php:2301
+msgid "Third Party country"
+msgstr "Трета страна"
+
+#: class-field.php:617
+msgid "This field is required. Please complete the question before continuing"
+msgstr "Това поле е задължително. Моля, завършете въпроса преди да продължите"
+
+#: config/questions-wizard.php:182
+msgid "This setting is automatically selected based on your WordPress language setting."
+msgstr "Тази настройка се избира автоматично въз основа на настройката на езика на WordPress."
+
+#: config/class-config.php:278
+msgid "To enable the warning only for countries with a cookie law, %sget premium%s."
+msgstr "За да се даде възможност на предупреждението само за държави със закон за \"бисквитките\", %sполучи премия%s."
+
+#: config/countries.php:376
+msgid "Tonga"
+msgstr "Тонгански"
+
+#: config/countries.php:378
+msgid "Tunisia"
+msgstr "Tunisia"
+
+#: config/countries.php:380
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+#: config/countries.php:381
+msgid "Turks And Caicos Islands"
+msgstr "Острови Търкс и Кайкос"
+
+#: config/countries.php:91 config/countries.php:386
+msgid "United Kingdom"
+msgstr "Обединеното Kралство"
+
+#: config/countries.php:61 config/countries.php:387
+msgid "United States"
+msgstr "САЩ"
+
+#: config/countries.php:388
+msgid "United States Outlying Islands"
+msgstr "Outlying Islands на САЩ"
+
+#: config/countries.php:394
+msgid "Virgin Islands, British"
+msgstr "Вирджински острови, Британски"
+
+#: config/countries.php:395
+msgid "Virgin Islands, U.S."
+msgstr "Вирджински острови, САЩ."
+
+#: config/questions-wizard.php:192
+msgid "What is the email address your visitors can use to contact you about privacy issues?"
+msgstr "Какъв е имейл адреса, с който посетителите ви могат да се свържат с вас по въпроси, свързани с поверителността?"
+
+#: config/questions-wizard.php:204
+msgid "What is the telephone number your visitors can use to contact you about privacy issues?"
+msgstr "Какъв е телефонният номер, с който посетителите могат да се свържат с вас по въпроси, свързани с поверителността?"
+
+#: config/questions-wizard.php:168
+msgid "What is your address?"
+msgstr "Какъв е адресът ви?"
+
+#: config/questions-wizard.php:180
+msgid "What is your country?"
+msgstr "Коя е вашата страна?"
+
+#: class-field.php:2212 class-field.php:2324
+msgid "What type of data is shared"
+msgstr "Какъв тип данни се споделят"
+
+#: class-admin.php:753 class-admin.php:754
+msgid "Wizard"
+msgstr "Съветника"
+
+#: config/questions-wizard.php:307
+msgid "Yes, with Google Analytics"
+msgstr "Да, с Google Анализ"
+
+#: config/class-config.php:649
+msgid "Your site requires a cookie banner, which has been enabled."
+msgstr "Сайтът Ви изисква банер за \"бисквитки\", който е активиран."
+
+#: cookiebanner/cookiebanner.php:367
+msgid "Your website does not require a cookie banner, so these settings do not apply."
+msgstr "Вашият сайт не изисква банер за \"бисквитки\", така че тези настройки не се прилагат."
+
+#: config/steps.php:50
+msgid "Consent"
+msgstr "Съгласие"

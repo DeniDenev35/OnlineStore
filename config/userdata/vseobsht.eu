@@ -1,0 +1,25 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/vseobsht.eu
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/vseobsht.eu-bytes_log
+documentroot: /home/vseobsht/public_html
+group: vseobsht
+hascgi: 0
+homedir: /home/vseobsht
+ip: 185.199.38.4
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/vseobsht/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@vseobsht.eu
+serveralias: mail.vseobsht.eu www.vseobsht.eu
+servername: vseobsht.eu
+usecanonicalname: 'Off'
+user: vseobsht
